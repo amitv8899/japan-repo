@@ -27,7 +27,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-21 | Sat | Kanazawa |  | | KUMU Kanazawa |
 | 2026-11-22 | Sun | Kanazawa |  | | KUMU Kanazawa |
 | 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | | Good Nature |
-| 2026-11-24 | Tue | Kyoto |  | | Good Nature |
+| 2026-11-24 | Tue | Kyoto |  | 20:00 Yakiniku Genshu Eishu (2p) | Good Nature |
 | 2026-11-25 | Wed | Kyoto |  | | Good Nature |
 | 2026-11-26 | Thu | Kyoto |  | | Good Nature |
 | 2026-11-27 | Fri | Kyoto |  | | Good Nature |

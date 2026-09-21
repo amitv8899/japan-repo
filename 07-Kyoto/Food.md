@@ -22,6 +22,6 @@ tags: [japan, kyoto, food]
 ## My Picks
 > [!note] Fill in your own choices here
 
-- [ ] 
+- [x] Yakiniku Genshu Eishu — reserved Tue Nov 24, 20:00, 2 people
 - [ ] 
 - [ ] 
