@@ -1,0 +1,103 @@
+filters:
+  and:
+    - type == "stay"
+formulas:
+  booked_icon: if(booked, "✅", "❌")
+  cost_ils: if(cost_yen, (cost_yen * 0.024).round(0) + " ₪", "")
+  conf: if(confirmation, link(confirmation, "🔗 open"), "—")
+  countdown: if(checkin, (date(checkin) - today()).days + "d", "")
+  status: if(date(checkout) < today(), "✔ done", if(date(checkin) <= today(), "🟢 now", "⏳ upcoming"))
+  todo: if(!booked, "hotel ", "") + if(!cost_yen, "cost ", "") + if(!confirmation, "link", "")
+properties:
+  order:
+    displayName: "#"
+  city:
+    displayName: Destination
+  checkin:
+    displayName: Check-in
+  checkout:
+    displayName: Check-out
+  hotel:
+    displayName: Hotel
+  address:
+    displayName: Address
+  nights:
+    displayName: Nights
+  area:
+    displayName: Area
+  cost_yen:
+    displayName: Cost ¥
+  booking_ref:
+    displayName: "Ref #"
+  formula.booked_icon:
+    displayName: OK?
+  formula.cost_ils:
+    displayName: ≈ ₪
+  formula.conf:
+    displayName: Booking
+  formula.countdown:
+    displayName: Countdown
+  formula.status:
+    displayName: When
+  formula.todo:
+    displayName: Missing
+views:
+  - type: table
+    name: Itinerary
+    order:
+      - order
+      - city
+      - checkin
+      - checkout
+      - nights
+      - hotel
+      - address
+      - formula.booked_icon
+      - cost_yen
+      - formula.cost_ils
+      - formula.conf
+      - formula.countdown
+    sort:
+      - property: order
+        direction: ASC
+    summaries:
+      nights: Sum
+      cost_yen: Sum
+      city: Empty
+  - type: table
+    name: ⚠️ To book / fill
+    filters:
+      or:
+        - "!booked"
+        - "!cost_yen"
+        - "!confirmation"
+    order:
+      - order
+      - city
+      - checkin
+      - hotel
+      - formula.booked_icon
+      - cost_yen
+      - formula.todo
+    sort:
+      - property: order
+        direction: ASC
+  - type: cards
+    name: Timeline cards
+    order:
+      - city
+      - checkin
+      - checkout
+      - nights
+      - hotel
+      - formula.booked_icon
+      - formula.cost_ils
+      - formula.status
+    sort:
+      - property: order
+        direction: ASC
+  - type: map
+    name: Route map
+    lat: lat
+    long: lng
+    title: city

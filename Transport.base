@@ -1,0 +1,67 @@
+filters:
+  and:
+    - type == "leg"
+formulas:
+  route: leg_from + " → " + leg_to
+  dur: if(minutes, "~" + minutes + "m", "")
+  cost_ils: if(cost_yen, (cost_yen * 0.024).round(0) + " ₪", "")
+  resv: if(reserved, "✅", "⬜")
+  conf: if(confirmation, link(confirmation, "🔗"), "—")
+properties:
+  order:
+    displayName: "#"
+  formula.route:
+    displayName: Route
+  service:
+    displayName: Service / line
+  dep_station:
+    displayName: Dep. station
+  arr_station:
+    displayName: Arr. station
+  formula.dur:
+    displayName: Time
+  cost_yen:
+    displayName: Cost ¥
+  formula.cost_ils:
+    displayName: ≈ ₪
+  dep_address:
+    displayName: Address
+  first_last:
+    displayName: Hours (first/last)
+  formula.resv:
+    displayName: Booked
+  formula.conf:
+    displayName: Link
+views:
+  - type: table
+    name: Train legs
+    order:
+      - order
+      - formula.route
+      - service
+      - dep_station
+      - arr_station
+      - formula.dur
+      - cost_yen
+      - formula.cost_ils
+      - dep_address
+      - first_last
+      - formula.resv
+    sort:
+      - property: order
+        direction: ASC
+    summaries:
+      cost_yen: Sum
+  - type: table
+    name: Not yet reserved
+    filters:
+      and:
+        - "!reserved"
+    order:
+      - order
+      - formula.route
+      - service
+      - formula.dur
+    sort:
+      - property: order
+        direction: ASC
