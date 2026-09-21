@@ -7,7 +7,7 @@ checkout: 2026-12-01
 nights: 1
 hotel: "Miyajima Grand Hotel Arimoto"
 area: "Miyajima Island"
-booked: false
+booked: true
 cost_yen: 63990
 confirmation: ""
 booking_ref: ""

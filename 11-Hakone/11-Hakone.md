@@ -5,12 +5,15 @@ city: Hakone
 checkin: 2026-12-05
 checkout: 2026-12-08
 nights: 3
-hotel: TBD
+hotel: "nol hakone myojindai"
+address: "Kanagawa, Hakone, Miyagino 1488, Japan"
 area: Hakone-Yumoto / Gora
-booked: false
-cost_yen: 
+room_type: "Deluxe Onsen Twin & Tatami"
+booked: true
+cost_yen: 231150
 confirmation: ""
-booking_ref: ""
+booking_ref: "6067698129"
+phone: "+81 460-87-2034"
 lat: 35.2328
 lng: 139.1069
 tags: [japan, stay]
@@ -20,10 +23,13 @@ tags: [japan, stay]
 
 > [!info] Hakone
 > **Dates:** 2026-12-05 (Sat) → 2026-12-08 (Tue) · **Nights:** 3
-> **Hotel:** TBD
+> **Hotel:** nol hakone myojindai
+> **Address:** Kanagawa, Hakone, Miyagino 1488, Japan
 > **Area:** Hakone-Yumoto / Gora
+> **Room:** Deluxe Onsen Twin & Tatami
 
-Two nights of onsen + Mt Fuji + art, before the final Tokyo leg. Slow down, soak.
+Three nights of onsen + Mt Fuji + art, before the final Tokyo leg. Slow down, soak.
+Breakfast & dinner included. Free cancellation until Nov 27. Phone: +81 460-87-2034.
 
 ## Files
 - [[11-Hakone/Food|Food]]

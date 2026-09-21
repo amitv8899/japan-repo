@@ -10,7 +10,7 @@ area: "Kawaramachi / Shijo"
 booked: true
 cost_yen: 325208
 confirmation: ""
-booking_ref: ""
+booking_ref: "6664695849"
 lat: 35.0036
 lng: 135.769
 tags: [japan, stay]

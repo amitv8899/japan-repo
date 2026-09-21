@@ -10,7 +10,7 @@ area: "Matsumoto Castle town"
 booked: true
 cost_yen: 15417
 confirmation: ""
-booking_ref: ""
+booking_ref: "6379524705"
 lat: 36.2385
 lng: 137.969
 tags: [japan, stay]

@@ -10,7 +10,7 @@ area: "Hommachi / Chuo-ku"
 booked: true
 cost_yen: 80125
 confirmation: ""
-booking_ref: ""
+booking_ref: "6034424128"
 lat: 34.684
 lng: 135.499
 tags: [japan, stay]
