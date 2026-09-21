@@ -7,10 +7,10 @@ checkout: 2026-11-23
 nights: 3
 hotel: "KUMU Kanazawa by THE SHARE HOTELS"
 area: "Kanazawa / Kenrokuen"
-booked: false
+booked: true
 cost_yen: 171537
 confirmation: ""
-booking_ref: ""
+booking_ref: "6030556232"
 lat: 36.5613
 lng: 136.6562
 tags: [japan, stay]

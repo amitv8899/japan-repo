@@ -7,10 +7,10 @@ checkout: 2026-11-30
 nights: 1
 hotel: "Mercure Tokyu Stay Hiroshima"
 area: "Peace Park / Hondori"
-booked: false
+booked: true
 cost_yen: 20570
 confirmation: ""
-booking_ref: ""
+booking_ref: "5207865975"
 lat: 34.3955
 lng: 132.4536
 tags: [japan, stay]

@@ -21,8 +21,8 @@ See [[Hotels]] for the full table. Fill costs in each folder note (never here).
 
 | Category | Est. ¥ | ≈ ₪ | Notes |
 |----------|-------:|----:|-------|
-| Flights (JAL/ANA round-trip) | TBD | TBD | Per person |
-| Hotels (see live total above) | TBD | TBD | 32 nights |
+| Flights (Emirates/flydubai round-trip) | USD 2,570.74 | TBD | [[Flights]]; 2 passengers total, not per person; no USD→¥ rate set yet |
+| Hotels (see live total above) | 1,494,907 | ~35,878 | 33 nights, 12 stays — all booked |
 | Trains (see live total above) | TBD | TBD | + JR Pass? price both |
 | Rental car (Tokyo→Kanazawa) | TBD | TBD | Base + one-way fee + tolls + fuel — see [[Transport]] |
 | Food (~¥6,000/day × 34) | ~204,000 | ~4,900 | Rough; adjust |

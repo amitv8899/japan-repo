@@ -11,6 +11,7 @@ trip_end: 2026-12-12
 > **Dates:** 2026-11-09 (Mon) → 2026-12-12 (Sat)
 > **Total days:** 34 (33 nights, all booked) · **Cities:** 11 · **Stays:** 12
 > **Season:** peak autumn foliage (koyo) — spectacular, crowded, cold. Pack layers.
+> **Flights:** depart Tel Aviv Nov 8, arrive home Dec 13 — see [[Flights]] for the travel-day bookends around these hotel dates.
 
 ## 🧭 Route
 
@@ -45,7 +46,7 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] **Suica / PASMO / ICOCA** — add to phone wallet or buy Welcome Suica on arrival
 - [ ] **eSIM** installed + tested before departure
 - [ ] **Pocket wifi** only if multiple devices / heavy use
-- [ ] **JAL / ANA** seat selection + online check-in (24h out each direction)
+- [ ] **Emirates/flydubai** online check-in (24h out each direction); flydubai legs (EK2449, EK2120) have no seats assigned yet — Emirates legs already have 046J/046K
 
 ### Reservations (book weeks ahead)
 - [ ] teamLab tickets (Tokyo)
@@ -54,7 +55,7 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] Kyoto autumn **night illuminations** (Tofuku-ji, Kiyomizu-dera, Eikando) — confirm 2026 dates
 - [ ] Onsen ryokan dinners (Fujikawaguchiko, Hakone)
 - [ ] USJ (Osaka) if going
-- [ ] **BOOK THE MISSING HOTELS** (Kanazawa, Hiroshima, Miyajima, Hakone, Tokyo-Departure)
+- [x] ~~BOOK THE MISSING HOTELS~~ — done: all 12 stays booked (Hakone: nol hakone myojindai; Tokyo-Departure: THE BLOSSOM HIBIYA)
 - [x] ~~Resolve the Dec-5 gap night~~ — done: Hakone extended to Dec 5–8
 
 ### Money & docs
@@ -67,4 +68,4 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] Warm layers, waterproof jacket, comfortable walking shoes
 - [ ] Small overnight bag for 1-night stops (forward main luggage)
 
-See also: [[Hotels]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]
+See also: [[Hotels]] · [[Flights]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]

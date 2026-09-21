@@ -21,30 +21,30 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-15 | Sun | Fujikawaguchiko | 🚗/🚆 move | | Hotel Regina Kawaguchiko |
 | 2026-11-16 | Mon | Fujikawaguchiko |  | | Hotel Regina Kawaguchiko |
 | 2026-11-17 | Tue | Matsumoto | 🚗/🚆 move | | Hotel Buena Vista |
-| 2026-11-18 | Wed | Takayama | 🚗/🚆 move | | An Ascend Collection Hotel |
-| 2026-11-19 | Thu | Takayama |  | | An Ascend Collection Hotel |
-| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | | TBD |
-| 2026-11-21 | Sat | Kanazawa |  | | TBD |
-| 2026-11-22 | Sun | Kanazawa |  | | TBD |
+| 2026-11-18 | Wed | Takayama | 🚗/🚆 move | | Hotel around TAKAYAMA |
+| 2026-11-19 | Thu | Takayama |  | | Hotel around TAKAYAMA |
+| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | | KUMU Kanazawa |
+| 2026-11-21 | Sat | Kanazawa |  | | KUMU Kanazawa |
+| 2026-11-22 | Sun | Kanazawa |  | | KUMU Kanazawa |
 | 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | | Good Nature |
 | 2026-11-24 | Tue | Kyoto |  | | Good Nature |
 | 2026-11-25 | Wed | Kyoto |  | | Good Nature |
 | 2026-11-26 | Thu | Kyoto |  | | Good Nature |
 | 2026-11-27 | Fri | Kyoto |  | | Good Nature |
 | 2026-11-28 | Sat | Kyoto |  | | Good Nature |
-| 2026-11-29 | Sun | Hiroshima | 🚗/🚆 move | | TBD |
-| 2026-11-30 | Mon | Itsukushima | 🚗/🚆 move | | TBD |
+| 2026-11-29 | Sun | Hiroshima | 🚗/🚆 move | | Mercure Tokyu Stay |
+| 2026-11-30 | Mon | Itsukushima | 🚗/🚆 move | | Miyajima Grand Hotel |
 | 2026-12-01 | Tue | Osaka | 🚗/🚆 move | | Miyako City |
 | 2026-12-02 | Wed | Osaka |  | | Miyako City |
 | 2026-12-03 | Thu | Osaka |  | | Miyako City |
 | 2026-12-04 | Fri | Osaka |  | | Miyako City |
-| 2026-12-05 | Sat | Hakone | 🚆 move | | TBD |
-| 2026-12-06 | Sun | Hakone | | | TBD |
-| 2026-12-07 | Mon | Hakone |  | | TBD |
-| 2026-12-08 | Tue | Tokyo (Departure) | 🚗/🚆 move | | TBD |
-| 2026-12-09 | Wed | Tokyo (Departure) |  | | TBD |
-| 2026-12-10 | Thu | Tokyo (Departure) |  | | TBD |
-| 2026-12-11 | Fri | Tokyo (Departure) |  | | TBD |
+| 2026-12-05 | Sat | Hakone | 🚆 move | | nol hakone myojindai |
+| 2026-12-06 | Sun | Hakone | | | nol hakone myojindai |
+| 2026-12-07 | Mon | Hakone |  | | nol hakone myojindai |
+| 2026-12-08 | Tue | Tokyo (Departure) | 🚗/🚆 move | | THE BLOSSOM HIBIYA |
+| 2026-12-09 | Wed | Tokyo (Departure) |  | | THE BLOSSOM HIBIYA |
+| 2026-12-10 | Thu | Tokyo (Departure) |  | | THE BLOSSOM HIBIYA |
+| 2026-12-11 | Fri | Tokyo (Departure) |  | | THE BLOSSOM HIBIYA |
 | 2026-12-12 | Sat | ✈️ Depart | ✈️ fly home | | — |
 
 > [!tip] Reservation-heavy days
