@@ -12,6 +12,25 @@ trip_end: 2026-11-20
 
 Back-links: [[Transport]] · [[Hotels]] · [[Japan Trip|🗾 Itinerary]] · [[Daily-Plan]]
 
+## 🧾 Reservation (Toyota Rent a Car)
+
+| | |
+|---|---|
+| Status | ✅ Confirmed 2026-10-01 (online, paid by card). Confirmation email is in Gmail. |
+| Reservation number | See the confirmation email (not stored here, this repo is public) |
+| Pick-up | **Shinjuku 3-chome Station Shop**, 4-2-18 Shinjuku. Sun **Nov 15, 14:00**. Tel 03-3341-2603, open 08:00-20:00 daily |
+| Return | **Kanazawa Sta. West Exit Shop**, 1-1-26 Hirooka. Fri **Nov 20, 16:00** |
+| Car | SUV1 class, AT, 4WD required, non-smoking, Full Package |
+| Winter tires | Not added yet |
+| Total | **¥130,344** (base ¥79,310, card discount -¥3,966, one-way ¥34,100, 4WD ¥9,900, option ¥11,000) |
+| Cancellation | Free until 7 days before pick-up (through Nov 8). After that 20-50% of the base fee, max ¥17,000 |
+| Reservation Center | +81-92-577-0091 (08:00-20:00 Japan time) |
+
+> [!warning] To do on the reservation
+> - Change the return shop to **Kanazawa Station Shinkansen Exit (East Exit)** (Porte Bldg 1F, 2-15-1 Honmachi). Check the price after editing.
+> - Add **winter tires** once Toyota opens its winter options (around November). Snow chains: email request at least 5 days before pick-up.
+> - Bring: home license + International Driving Permit + passport + the payment card, all in the booking name.
+
 ## 🛏️ Overnight stops
 
 | Night | Stop | Hotel |
@@ -84,10 +103,11 @@ Back-links: [[Transport]] · [[Hotels]] · [[Japan Trip|🗾 Itinerary]] · [[Da
 | D | Takayama → Kanazawa | ~2.5h (more with Shirakawa-go) |
 
 ## ✅ Checklist
-- [ ] Book the rental (one-way Tokyo → Kanazawa, compare drop-off fee)
+- [x] Book the rental (one-way Tokyo → Kanazawa). Booked 2026-10-01, ¥130,344 incl. ¥34,100 one-way fee
+- [ ] Switch return shop to Kanazawa Station Shinkansen Exit (East Exit)
+- [ ] Winter tires (not added yet, request once winter options open)
+- [ ] ETC card (check whether the Full Package includes it)
 - [ ] International Driving Permit + home license
-- [ ] Winter tires
-- [ ] ETC card
 - [ ] Confirm parking at all four hotels
 - [ ] Check Route 158 status on Nov 18
 - [ ] Early starts on Nov 15 and Nov 17
