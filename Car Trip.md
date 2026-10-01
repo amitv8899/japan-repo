@@ -31,6 +31,34 @@ Back-links: [[Transport]] · [[Hotels]] · [[Japan Trip|🗾 Itinerary]] · [[Da
 > - Add **winter tires** once Toyota opens its winter options (around November). Snow chains: email request at least 5 days before pick-up.
 > - Bring: home license + International Driving Permit + passport + the payment card, all in the booking name.
 
+## 🚨 Must-Check Before Driving
+
+### Documents (bring all, booking name must match)
+- [ ] **International Driving Permit** (1949 Geneva Convention) — apply at home DMV/post office, ~1-2 weeks before departure
+- [ ] **Home driving license** — original, valid through Nov 20 2026 (IDP alone is not valid without it)
+- [ ] Passport
+- [ ] Payment card used for the booking
+- [ ] Printed or saved reservation confirmation email
+
+### Rental pickup
+- [ ] Confirm **winter tires fitted** before leaving Shinjuku (not added as of 2026-10-01, see reservation)
+- [ ] Confirm **ETC card** issued (for highway tolls) — ask at counter if not in Full Package
+- [ ] Check for existing scratches/damage, photograph car before driving off
+- [ ] Note roadside assistance / rental emergency number from the contract
+
+### Snow/mountain driving gear
+- [ ] Verify **snow chains** available or pre-ordered (email request ≥5 days before pickup if needed) for Route 158 / Shirakawa-go
+- [ ] Ice scraper / de-icer (ask counter if provided)
+- [ ] Gloves, warm layers kept in car (in case of roadside stop)
+- [ ] Phone car mount + offline maps downloaded for Nagano/Gifu mountain stretch (signal can drop)
+- [ ] Check fuel before Route 158 and Shirakawa-go legs — services are sparse
+
+### Driving in snow — reminders
+- [ ] Increase following distance, brake gently, avoid sudden steering
+- [ ] Check live road status before Nov 18 (Route 158) and Nov 20 (Shirakawa-go) — closures/chain restrictions possible
+- [ ] Reduce speed on shaded curves and bridges (ice forms first there)
+- [ ] Japan drives on the **left** — reminder for the first day out of Shinjuku
+
 ## 🛏️ Overnight stops
 
 | Night | Stop | Hotel |
