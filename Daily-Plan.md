@@ -15,7 +15,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-09 | Mon | Tokyo (Arrival) | 🚗/🚆 move | | Keio Plaza |
 | 2026-11-10 | Tue | Tokyo (Arrival) |  | | Keio Plaza |
 | 2026-11-11 | Wed | Tokyo (Arrival) |  | | Keio Plaza |
-| 2026-11-12 | Thu | Tokyo (Arrival) |  | | Keio Plaza |
+| 2026-11-12 | Thu | Tokyo (Arrival) |  | 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
 | 2026-11-13 | Fri | Nikko | 🚗/🚆 move | | Chuzenji Kanaya Hotel |
 | 2026-11-14 | Sat | Nikko |  | | Chuzenji Kanaya Hotel |
 | 2026-11-15 | Sun | Fujikawaguchiko | 🚗/🚆 move | | Hotel Regina Kawaguchiko |
