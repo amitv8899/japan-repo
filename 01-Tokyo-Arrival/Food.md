@@ -22,6 +22,6 @@ tags: [japan, tokyo, food]
 ## My Picks
 > [!note] Fill in your own choices here
 
-- [ ] 
+- [x] Inside Maguro Mart — reserved Thu Nov 12, 20:00, 2 people; 5-50-3 Nakano, Nakano-ku, Tokyo 164-0001; 03-5942-8527; order: 2x Standard Tuna Course (¥3,780)
 - [ ] 
 - [ ] 
