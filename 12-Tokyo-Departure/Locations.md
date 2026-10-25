@@ -12,12 +12,15 @@ tags: [japan, tokyo, locations]
 > Final four nights back in Tokyo. Last shopping, missed neighborhoods, gifts, and easy airport access.
 
 ## Suggestions
-- [ ] Neighborhoods you missed: Yanaka (old town), Shimokitazawa (vintage), Nakameguro
-- [ ] Ginza + teamLab (if not done)
+- [ ] Neighborhoods you missed: Yanaka (old town), Nakameguro (Shimokitazawa moved to Nov 12)
+- [ ] Ginza + teamLab Borderless (MORI Building, Azabudai Hills) — closed Tue; book ahead (Dec 9)
 - [ ] Tokyo Station + Marunouchi + Imperial Palace East Gardens
 - [ ] Akihabara (electronics/anime), Ueno (museums + park)
 - [ ] Odaiba / Toyosu Market tuna auction viewing
 - [ ] Last Fuji-view: Tokyo Tower or Skytree at sunset
+- [ ] Ueno Park + Tokyo National Museum (closed Tue; book ahead) — Dec 10
+- [ ] Foliage peak ~Nov 30–early Dec: Shinjuku Gyoen (¥500), Meiji Jingu Gaien ginkgo avenue, Rikugien
+- [ ] Tokyo DisneySea — optional full day, book ahead; would replace the Dec 10 Ueno day
 
 ## My Picks
 > [!note] Fill in your own choices here

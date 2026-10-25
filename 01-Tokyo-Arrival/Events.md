@@ -12,12 +12,11 @@ tags: [japan, tokyo, events]
 > First landing. Shinjuku base at Keio Plaza. Beat jet lag with an easy first day, ramp up after.
 
 ## Suggestions
-- [ ] Autumn koyo (foliage) peaks mid-late Nov — Gyoen and Meiji outer gardens (ginkgo)
+- [ ] Tokyo foliage peaks ~Nov 30–early Dec (still mostly green in early Nov) — Gyoen, Meiji Gaien ginkgo, Rikugien go in the Dec stay
 - [ ] Check Tokyo autumn illuminations start (many begin mid-Nov)
 - [ ] Sumo: Grand tournament is not in Nov (Fukuoka) — skip
-- [ ] Book teamLab tickets NOW
-- [ ] Book Shibuya Sky sunset slot
-- [ ] Book ahead (flagged in Wanderlog): Tokyo DisneySea, Tokyo National Museum (closed Tue), Starbucks Reserve Roastery, Shodai, Uobei Shibuya
+- [ ] Book Shibuya Sky sunset slot (Nov 10)
+- [ ] Book ahead (flagged in Wanderlog): Uobei Shibuya, Shodai
 
 ## My Picks
 > [!note] Fill in your own choices here

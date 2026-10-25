@@ -15,6 +15,8 @@ tags: [japan, tokyo, events]
 - [ ] Tokyo WINTER ILLUMINATIONS peak early Dec — Marunouchi, Roppongi Hills/Midtown, Shibuya, Meguro River
 - [ ] Christmas markets appear (Roppongi, Hibiya) early Dec
 - [ ] Book any final teamLab / observation deck slots
+- [ ] Book teamLab Borderless for Wed Dec 9 (closed Tue)
+- [ ] Book ahead (flagged in Wanderlog): Tokyo National Museum, Starbucks Reserve Roastery, Tokyo DisneySea (if going)
 
 ## My Picks
 > [!note] Fill in your own choices here
