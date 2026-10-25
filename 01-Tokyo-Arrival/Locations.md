@@ -19,6 +19,15 @@ tags: [japan, tokyo, locations]
 - [ ] Asakusa Senso-ji + Nakamise street
 - [ ] teamLab Borderless / Planets (book weeks ahead)
 - [ ] Golden Gai — after-dark micro-bars
+- [ ] Senso-ji — recommended: arrive at 7:00 AM (before crowds)
+- [ ] Senso-ji Five-Storied Pagoda (1-30-1 Asakusa)
+- [ ] Asakusa Culture Tourist Information Center — viewpoint
+- [ ] Kappabashi Kitchen Supply Town — kitchenware street (shop list in Shopping)
+- [ ] Ueno Park — walking paths, lake, zoo, museums
+- [ ] Tokyo National Museum — closed Tue; book ahead
+- [ ] Hachiko Statue (Shibuya)
+- [ ] teamLab Borderless (MORI Building, Azabudai) — closed Tue; book ahead
+- [ ] Tokyo DisneySea — book ahead
 
 ## My Picks
 > [!note] Fill in your own choices here

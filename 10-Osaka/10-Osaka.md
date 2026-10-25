@@ -6,6 +6,7 @@ checkin: 2026-12-01
 checkout: 2026-12-05
 nights: 4
 hotel: "Miyako City Osaka Hommachi"
+address: "Osaka, Chuo-ku, Kitakyuhojimachi 1-8-7, 541-0057, Japan"
 area: "Hommachi / Chuo-ku"
 booked: true
 cost_yen: 80125

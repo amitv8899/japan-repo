@@ -16,6 +16,17 @@ tags: [japan, tokyo, shopping]
 - [ ] Kabukicho Don Quijote — 24h souvenirs, snacks, cosmetics
 - [ ] Shibuya: Loft, Tokyu Hands, Mega Don Quijote
 - [ ] Harajuku Takeshita St + Omotesando for streetwear/design
+- [ ] Kappabashi Kitchen Supply Town (Asakusa) — Dengama, Fujita Sales, Fu Wa Ri, Mikura, Kama Sa Shoten, Tokyo Biken, Sato Sample
+- [ ] Custom chopsticks shop — 1-30-1 Asakusa
+- [ ] Shibuya 109 + Shibuya Parco — fashion malls
+- [ ] Cat Street (Harajuku/Shibuya) — shopping area
+- [ ] Shimokitazawa — vintage area
+- [ ] Tokyo City Flea Market
+- [ ] Uniqlo — Shibuya Dogenzaka, Harajuku
+- [ ] Levi's Harajuku Store
+- [ ] GU — Shinjuku Tounanguchi Flags, Bic Camera Shinjuku East Exit
+- [ ] Gap Store Shinjuku Flagship
+- [ ] Glasses — JINS Shinjuku Odakyu Ace, Zoff Keio Dept Store Shinjuku, OWNDAYS Shinjuku East Exit
 - [ ] Tax-free: bring passport, single-store ¥5,000+
 
 ## My Picks

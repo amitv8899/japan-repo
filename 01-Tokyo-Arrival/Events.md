@@ -17,6 +17,7 @@ tags: [japan, tokyo, events]
 - [ ] Sumo: Grand tournament is not in Nov (Fukuoka) — skip
 - [ ] Book teamLab tickets NOW
 - [ ] Book Shibuya Sky sunset slot
+- [ ] Book ahead (flagged in Wanderlog): Tokyo DisneySea, Tokyo National Museum (closed Tue), Starbucks Reserve Roastery, Shodai, Uobei Shibuya
 
 ## My Picks
 > [!note] Fill in your own choices here

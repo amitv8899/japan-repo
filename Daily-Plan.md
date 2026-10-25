@@ -36,7 +36,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-30 | Mon | Itsukushima | 🚗/🚆 move | | Miyajima Grand Hotel |
 | 2026-12-01 | Tue | Osaka | 🚗/🚆 move | | Miyako City |
 | 2026-12-02 | Wed | Osaka |  | | Miyako City |
-| 2026-12-03 | Thu | Osaka |  | | Miyako City |
+| 2026-12-03 | Thu | Osaka |  | Dinner: Dojima Yakiniku Restaurant | Miyako City |
 | 2026-12-04 | Fri | Osaka |  | | Miyako City |
 | 2026-12-05 | Sat | Hakone | 🚆 move | | nol hakone myojindai |
 | 2026-12-06 | Sun | Hakone | | | nol hakone myojindai |

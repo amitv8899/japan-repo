@@ -18,6 +18,26 @@ tags: [japan, tokyo, food]
 - [ ] Standing sushi at Uogashi Nihonichi (Shinjuku) — cheap, fast, fresh
 - [ ] Must-try: fresh uni, otoro, wagyu, conveyor-belt sushi, a proper konbini egg-salad sando
 - [ ] Depachika food hall at Isetan Shinjuku — bento, wagashi, pastries for the room
+- [ ] Nakamise St (Asakusa) picks — Asakusa Menchi, Tokyo Curry Pan, Naruto Taiyaki, Ginkado, Anshin Ya, Chacha Futatsume
+- [ ] Nakamise St (Asakusa) food — Asakusa Kagetsudo, Kimura Ningyoyaki, Friyama Senbei, Kurodaya, Funnawa, Oimoyasan Koshin
+- [ ] Suzukien Asakusa — matcha gelato
+- [ ] Ameyoko Market (Ueno) — food market
+- [ ] Starbucks Reserve Roastery Tokyo — book ahead
+- [ ] Uobei Shibuya Dogenzaka — conveyor-belt sushi; book ahead
+- [ ] Uogashi Nihon-Ichi Shibuya Dogenzaka — standing sushi (Shibuya branch)
+- [ ] Sushi Kenshin Ebisu Tokyo — sushi
+- [ ] Rare Tendon Ginza Mitsuyoshi Ginza Honten — tendon
+- [ ] Ginza Kagari (Otemachi) — ramen
+- [ ] AFURI Shinjuku Sumitomo Building — ramen
+- [ ] Shodai — traditional noodles; book ahead
+- [ ] Coco Nemaru Ginza
+- [ ] Aramaki
+- [ ] Shinjuku Yakiniku Horumon Inoue 2nd Branch — yakiniku
+- [ ] Yoroniku Tokyo Azabudai Hills — yakiniku
+- [ ] Grill Bon
+- [ ] Hamburg Yoshi — hamburg steak
+- [ ] Wagyu Burger Hirokiya
+- [ ] Shogun Burger Shinjuku
 
 ## My Picks
 > [!note] Fill in your own choices here
