@@ -18,7 +18,7 @@ tags: [japan, nikko, locations]
 - [ ] Lake Chuzenji + Chuzenji Onsen
 - [ ] Irohazaka winding road (foliage often done by late Nov up high)
 - [ ] Nikko Futarasan Shrine — mountain-top Shinto shrine, 8th-century origins
-- [ ] Akechidaira Ropeway — views over Kegon Falls + Lake Chuzenji; Wanderlog flags it temporarily closed, check before going
+- [ ] ~~Akechidaira Ropeway~~ — CLOSED for renewal from Jan 16, 2026 until ~Sept 2027; not available on this trip
 - [ ] Kanmangafuchi Abyss — row of Jizo statues, quiet walk
 
 ## My Picks

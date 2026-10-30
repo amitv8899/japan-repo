@@ -35,7 +35,7 @@ Back-links: [[Japan Trip|🗾 Main Itinerary]] · [[Hotels]] · [[Budget]]
 - **Emirates ref:** DP3V72 (tickets: EmiratesTicket5/6 PDFs attached to the Oct 29 email)
 - **Etihad ref:** 8ZNBLL (operates EY608 + EY800)
 - **flydubai ref:** M8E2M7
-- **Cost:** USD 2,570.74 for 2 passengers (original booking, ~₪9,260); new fare not in the email
+- **Cost:** USD 2,570.74 for 2 passengers (~₪9,260); the Oct 29 rebooking cost nothing extra
 - **Passengers:** Amit Viner, Adi Scheffler
 - **Check-in:** online 48h before departure (Nov 4 and Dec 9)
 
