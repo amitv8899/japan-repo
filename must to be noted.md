@@ -27,8 +27,3 @@ tags: [japan, todo, check]
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set
 - [ ] Wanderlog "book ahead": Uobei Shibuya, Shodai, Starbucks Reserve Roastery Tokyo, Tokyo DisneySea (if going)
 - [ ] Tokyo winter/autumn illumination dates (Meguro River, Marunouchi, Roppongi) — not confirmed for 2026
-
-## 📍 Places
-
-## 🗂️ Repo
-- [ ] Merge PR #7 into `master` (all of the above is on branch `claude/wanderlog-missing-info`)
