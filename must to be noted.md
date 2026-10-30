@@ -15,7 +15,6 @@ tags: [japan, todo, check]
 
 ## 🏨 Hotels
 - [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; decide whether to shorten
-- [ ] **Keio Plaza Nov 9–13 cancellation** (conf. 27044SG357332): pay at the hotel on arrival; cancel fee 50% from 2 days before arrival, 80% 1 day before, 100% day of / no-show
 
 ## 🚆 Transport
 - [ ] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
