@@ -4,14 +4,14 @@ order: 1
 leg_from: Tokyo
 leg_to: Nikko
 mode: train
-service: Tobu Ltd Exp Spacia/Revaty
-minutes: 120
-dep_station: Asakusa or Shinjuku
+service: Tobu Spacia Nikko 1
+minutes: 117
+dep_station: Shinjuku
 arr_station: Tobu-Nikko
-cost_yen:
+cost_yen: 8280
 dep_address:
 first_last:
-reserved: false
+reserved: true
 confirmation: ""
 tags:
   - japan
@@ -21,11 +21,13 @@ tags:
 
 # Tokyo → Nikko
 
-> [!info] Tobu Ltd Exp Spacia/Revaty
-> ~120 min · Asakusa or Shinjuku → Tobu-Nikko
+> [!info] Tobu Spacia Nikko 1
+> Fri 2026-11-13 · 09:34 Shinjuku → 11:31 Tobu-Nikko (~117 min)
+> Reserved seats: Car 4, 6A + 6B · 2 adults · ¥4,140 each, ¥8,280 total
 
 Back-links: [[Transport]] · [[Japan Trip]]
 
 ## Notes
-- [ ] Confirm platform / departure time
-- [ ] Reserve seat
+- [x] Reserve seat — done (Car 4, 6A/6B)
+- [ ] Collect reserved-seat ticket at the ticket counter or reserved-seat vending machine before 09:34 on Nov 13 (not at Tokyo/Shinagawa JR Central machines)
+- [ ] Free cancellation until 21:00 Japan time on Nov 12; refund fee after that; no seat change — cancel and rebook

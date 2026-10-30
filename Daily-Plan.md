@@ -16,7 +16,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-10 | Tue | Tokyo (Arrival) |  | Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
 | 2026-11-11 | Wed | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato → Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
 | 2026-11-12 | Thu | Tokyo (Arrival) |  | Shimokitazawa vintage → Gov. Building free deck at sunset → 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
-| 2026-11-13 | Fri | Nikko | 🚗/🚆 move | | Chuzenji Kanaya Hotel |
+| 2026-11-13 | Fri | Nikko | 🚗/🚆 move | 09:34 Spacia Nikko 1 Shinjuku → 11:31 Tobu-Nikko (Car 4, 6A/B) | Chuzenji Kanaya Hotel |
 | 2026-11-14 | Sat | Nikko |  | | Chuzenji Kanaya Hotel |
 | 2026-11-15 | Sun | Fujikawaguchiko | 🚗/🚆 move | | Hotel Regina Kawaguchiko |
 | 2026-11-16 | Mon | Fujikawaguchiko |  | | Hotel Regina Kawaguchiko |
