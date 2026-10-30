@@ -5,16 +5,18 @@ tags: [japan, itinerary, daily]
 
 # 📅 Day-by-Day Plan
 
-> [!info] 34 days · 2026-11-09 → 2026-12-12
+> [!info] 36 days · 2026-11-07 → 2026-12-12
 > One row per day. Fill **Plan** with sights/reservations/timings. **Sleep** = that night's hotel city. `move` = travel day.
 
 Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 
 | Date | Day | City | Travel | Plan | Sleep |
 |------|-----|------|--------|------|-------|
-| 2026-11-09 | Mon | Tokyo (Arrival) | 🚗/🚆 move | Land Narita 13:10 (EK320) → hotel; easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
-| 2026-11-10 | Tue | Tokyo (Arrival) |  | Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
-| 2026-11-11 | Wed | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato → Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
+| 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → N'EX/limousine to hotel; easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
+| 2026-11-08 | Sun | Tokyo (Arrival) |  | Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
+| 2026-11-09 | Mon | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato | Keio Plaza |
+| 2026-11-10 | Tue | Tokyo (Arrival) |  | Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
+| 2026-11-11 | Wed | Tokyo (Arrival) |  | Free day — e.g. Kamakura or Yokohama day trip | Keio Plaza |
 | 2026-11-12 | Thu | Tokyo (Arrival) |  | Shimokitazawa vintage → Gov. Building free deck at sunset → 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
 | 2026-11-13 | Fri | Nikko | 🚗/🚆 move | 09:34 Spacia Nikko 1 Shinjuku → 11:31 Tobu-Nikko (Car 4, 6A/B) | Chuzenji Kanaya Hotel |
 | 2026-11-14 | Sat | Nikko |  | | Chuzenji Kanaya Hotel |
@@ -44,10 +46,11 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-12-08 | Tue | Tokyo (Departure) | 🚗/🚆 move | Arrive from Hakone; Hibiya/Marunouchi illuminations; dinner Rare Tendon Ginza | THE BLOSSOM HIBIYA |
 | 2026-12-09 | Wed | Tokyo (Departure) |  | teamLab Borderless, Azabudai (book; closed Tue) → Yoroniku Azabudai → Roppongi illuminations | THE BLOSSOM HIBIYA |
 | 2026-12-10 | Thu | Tokyo (Departure) |  | Ueno Park + Tokyo National Museum + Ameyoko → Yanaka → Akihabara → Skytree sunset | THE BLOSSOM HIBIYA |
-| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → Nakameguro + Meguro River lights | THE BLOSSOM HIBIYA |
-| 2026-12-12 | Sat | ✈️ Depart | ✈️ fly home | Check out, bags at hotel; Shinjuku Gyoen/Meiji Gaien foliage; leave ~17:30 for Narita (EK321 21:30) | — |
+| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → ✈️ leave ~18:00 for Narita (EK319 22:20; Nakameguro/Meguro River lights only if time) | THE BLOSSOM HIBIYA |
+| 2026-12-12 | Sat | ✈️ In flight | ✈️ fly home | EK319 lands Dubai 05:30; Dubai → Tel Aviv leg not in the new booking — verify | — |
 
 > [!tip] Reservation-heavy days
 > - **Nov 23–28 Kyoto** — peak foliage: book Tofuku-ji/Kiyomizu night illuminations + kaiseki
 > - **Nov 15–17 Fuji** — sunrise Fuji shots at Chureito; onsen dinner
 > - **Dec 5** — first Hakone night (travel day from Osaka)
+> - **Dec 11** — flight EK319 at 22:20 (leave hotel ~18:00); Dec 11 night at Hibiya unused

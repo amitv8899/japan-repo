@@ -1,7 +1,7 @@
 ---
 title: Hotels
 tags: [japan, hotels, lodging]
-trip_start: 2026-11-09
+trip_start: 2026-11-07
 trip_end: 2026-12-12
 ---
 
@@ -13,7 +13,7 @@ trip_end: 2026-12-12
 
 | #   | Destination                | Hotel                             | Check-in         | Check-out        | Nights | Address                                                                  | Cost              | Confirmation                                                                               | Notes                                   |
 | --- | --------------------------- | ---------------------------------- | ---------------- | ---------------- | :----: | ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------- |
-| 1   | Tokyo (Arrival) — Shinjuku  | Keio Plaza Hotel Tokyo              | 2026-11-09 (Mon) | 2026-11-13 (Fri) |   4    | 2-2-1 Nishishinjuku, Shinjuku-ku, Tokyo 160-8330                          | ¥211,489 (₪5,076) | [Booking](https://mail.google.com/mail/u/0/#search/tokyo/FMfcgzQgMLvzZQGXTsDtbStXcLmzGSfp) | Arrival base; 5 min from Shinjuku Stn   |
+| 1   | Tokyo (Arrival) — Shinjuku  | Keio Plaza Hotel Tokyo              | 2026-11-07 (Sat) | 2026-11-13 (Fri) |   6    | 2-2-1 Nishishinjuku, Shinjuku-ku, Tokyo 160-8330                          | ¥334,289 (₪8,023) | [Booking](https://mail.google.com/mail/u/0/#search/tokyo/FMfcgzQgMLvzZQGXTsDtbStXcLmzGSfp) | Arrival base; 5 min from Shinjuku Stn; Nov 7–9 booked separately (¥122,800) |
 | 2   | Nikko                       | Chuzenji Kanaya Hotel               | 2026-11-13 (Fri) | 2026-11-15 (Sun) |   2    | 321-1661 Tochigi, Nikko, Chuugushi 2482, Japan                            | ¥80,167 (₪1,924)  | [Booking](confirm%20booking%20links.md)                                                    | Mountain shrines; dress warm; PAID      |
 | 3   | Fujikawaguchiko             | Hotel Regina Kawaguchiko            | 2026-11-15 (Sun) | 2026-11-17 (Tue) |   2    | Yamanashi, Fujikawaguchiko, Funatsu 5239-1, Japan                         | ¥57,875 (₪1,389)  | [Booking](confirm%20booking%20links.md)                                                    | Aim lake-view / onsen ryokan            |
 | 4   | Matsumoto                   | Hotel Buena Vista                   | 2026-11-17 (Tue) | 2026-11-18 (Wed) |   1    | Nagano, Matsumoto, Honjo 1-2-1, 390-0814, Japan                           | ¥15,417 (₪370)    | [Booking](confirm%20booking%20links.md)                                                    | 1 night; near castle/station            |
@@ -27,8 +27,8 @@ trip_end: 2026-12-12
 | 12  | Tokyo (Departure)           | THE BLOSSOM HIBIYA                   | 2026-12-08 (Tue) | 2026-12-12 (Sat) |   4    | Tokyo, Minato-ku, Shinbashi 1-1-13, Japan                                 | ¥192,504 (₪4,620) | [Booking](confirm%20booking%20links.md)                                                    | Final leg; near airport; breakfast extra; free cancel to Dec 4 |
 
 > [!abstract] Totals
-> **Known cost (12 of 12 stays):** ¥1,494,907 (₪35,878) · **All hotels booked.**
-> **Trip start:** 2026-11-09 (Mon) · **Trip end (depart):** 2026-12-12 (Sat) · **Span:** 33 nights (all booked), 12 stays, 11 destinations
+> **Known cost (12 of 12 stays):** ¥1,617,707 (₪38,825) · **All hotels booked.**
+> **Trip start:** 2026-11-07 (Sat) · **Trip end (depart):** 2026-12-12 (Sat) · **Span:** 35 nights (all booked), 12 stays, 11 destinations
 
 
 > [!note] Address confidence

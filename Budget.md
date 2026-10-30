@@ -21,11 +21,11 @@ See [[Hotels]] for the full table. Fill costs in each folder note (never here).
 
 | Category | Est. ¥ | ≈ ₪ | Notes |
 |----------|-------:|----:|-------|
-| Flights (Emirates/flydubai round-trip) | USD 2,570.74 | TBD | [[Flights]]; 2 passengers total, not per person; no USD→¥ rate set yet |
-| Hotels (see live total above) | 1,494,907 | ~35,878 | 33 nights, 12 stays — all booked |
+| Flights (Etihad/Emirates, rebooked Oct 29) | USD 2,570.74 (original booking) | TBD | [[Flights]]; 2 passengers total; new fare not in the email — update; no USD→¥ rate set yet |
+| Hotels (see live total above) | 1,617,707 | ~38,825 | 35 nights, 12 stays — all booked |
 | Trains (see live total above) | TBD | TBD | + JR Pass? price both |
 | Rental car (Tokyo→Kanazawa) | TBD | TBD | Base + one-way fee + tolls + fuel — see [[Transport]] |
-| Food (~¥6,000/day × 34) | ~204,000 | ~4,900 | Rough; adjust |
+| Food (~¥6,000/day × 36) | ~216,000 | ~5,200 | Rough; adjust |
 | Activities / entry / illuminations | TBD | TBD | teamLab, Shibuya Sky, temples, USJ |
 | Shopping / souvenirs | TBD | TBD | |
 | eSIM / data | TBD | TBD | |

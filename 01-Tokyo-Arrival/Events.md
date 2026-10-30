@@ -15,7 +15,7 @@ tags: [japan, tokyo, events]
 - [ ] Tokyo foliage peaks ~Nov 30–early Dec (still mostly green in early Nov) — Gyoen, Meiji Gaien ginkgo, Rikugien go in the Dec stay
 - [ ] Check Tokyo autumn illuminations start (many begin mid-Nov)
 - [ ] Sumo: Grand tournament is not in Nov (Fukuoka) — skip
-- [ ] Book Shibuya Sky sunset slot (Nov 10)
+- [ ] Book Shibuya Sky sunset slot (Nov 8)
 - [ ] Book ahead (flagged in Wanderlog): Uobei Shibuya, Shodai
 
 ## My Picks
