@@ -26,6 +26,12 @@ tags: [japan, tokyo, shopping]
 - [ ] Levi's Harajuku Store
 - [ ] GU — Shinjuku Tounanguchi Flags, Bic Camera Shinjuku East Exit
 - [ ] Gap Store Shinjuku Flagship
+- [ ] PLST Shinjuku Honten
+- [ ] SOÉJU Fitting Room
+- [ ] United Arrows Green Label Relaxing — Lumine Yurakucho
+- [ ] PUBLIC TOKYO Shibuya
+- [ ] AURALEE — Isetan Shinjuku + AURALEE Tokyo
+- [ ] 2nd Street (secondhand) — incl. Ueno Marui
 - [ ] Glasses — JINS Shinjuku Odakyu Ace, Zoff Keio Dept Store Shinjuku, OWNDAYS Shinjuku East Exit
 - [ ] Tax-free: bring passport, single-store ¥5,000+
 

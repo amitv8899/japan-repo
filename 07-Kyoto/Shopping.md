@@ -17,6 +17,7 @@ tags: [japan, kyoto, shopping]
 - [ ] Kyoto Station Isetan + Porta underground
 - [ ] Kawaramachi/Shijo (near Good Nature Hotel): Daimaru, Takashimaya, Loft
 - [ ] Handicrafts: Kyo-yaki pottery, furoshiki, matcha, knife shops (Aritsugu in Nishiki)
+- [ ] BOOKOFF PLUS Kawaramachi OPA — secondhand
 
 ## My Picks
 > [!note] Fill in your own choices here

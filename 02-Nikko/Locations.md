@@ -17,6 +17,8 @@ tags: [japan, nikko, locations]
 - [ ] Kegon Falls — 97m, dramatic (elevator to base)
 - [ ] Lake Chuzenji + Chuzenji Onsen
 - [ ] Irohazaka winding road (foliage often done by late Nov up high)
+- [ ] Nikko Futarasan Shrine — mountain-top Shinto shrine, 8th-century origins
+- [ ] Akechidaira Ropeway — views over Kegon Falls + Lake Chuzenji; Wanderlog flags it temporarily closed, check before going
 - [ ] Kanmangafuchi Abyss — row of Jizo statues, quiet walk
 
 ## My Picks

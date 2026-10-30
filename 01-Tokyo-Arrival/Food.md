@@ -23,6 +23,8 @@ tags: [japan, tokyo, food]
 - [ ] Suzukien Asakusa — matcha gelato
 - [ ] Uobei Shibuya Dogenzaka — conveyor-belt sushi; book ahead
 - [ ] Uogashi Nihon-Ichi Shibuya Dogenzaka — standing sushi (Shibuya branch)
+- [ ] Kaitenzushi Misaki Keio Shibuya — conveyor-belt sushi
+- [ ] Kaiten Sushi Misaki Shinjuku 3-chome — conveyor-belt sushi (listed under Osaka in Wanderlog, but it's Shinjuku)
 - [ ] Sushi Kenshin Ebisu Tokyo — sushi
 - [ ] AFURI Shinjuku Sumitomo Building — ramen
 - [ ] Shodai — traditional noodles; book ahead
