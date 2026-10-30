@@ -70,4 +70,4 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] Warm layers, waterproof jacket, comfortable walking shoes
 - [ ] Small overnight bag for 1-night stops (forward main luggage)
 
-See also: [[Hotels]] · [[Flights]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]
+See also: [[must to be noted|⚠️ Must be noted]] · [[Hotels]] · [[Flights]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]
