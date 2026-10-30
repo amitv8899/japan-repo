@@ -16,7 +16,8 @@ tags: [japan, todo, check]
 
 ## 🏨 Hotels
 - [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; decide whether to shorten
-- [ ] **Keio Plaza Nov 7–9 booking** (¥122,800) — no confirmation/booking ref saved; add to [[01-Tokyo-Arrival/01-Tokyo-Arrival]]
+- [ ] **Keio Plaza Nov 7–9 booking** (¥122,800 = ¥61,400/night vs ¥52,872/night on the Nov 9–13 booking) — no confirmation found in Gmail; add the ref to [[01-Tokyo-Arrival/01-Tokyo-Arrival]] and check it's the same room type
+- [ ] **Keio Plaza Nov 9–13 cancellation** (conf. 27044SG357332): pay at the hotel on arrival; cancel fee 50% from 2 days before arrival, 80% 1 day before, 100% day of / no-show
 
 ## 🚆 Transport
 - [ ] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
@@ -32,7 +33,7 @@ tags: [japan, todo, check]
 ## 📍 Places
 - [ ] **Akechidaira Ropeway (Nikko)** — Wanderlog says temporarily closed; check before going
 - [ ] Restaurant descriptors (ramen, yakiniku, etc.) were inferred from names — verify the Wanderlog-only ones (Aramaki, Grill Bon, Coco Nemaru, Tokito, Hasamun Kurodony, Kitan-in, Kitan Hibiki)
-- [ ] Wanderlog names the Tokyo hotel "Keio Plaza Hotel Tokyo PremierGrand"; repo says "Keio Plaza Hotel Tokyo" — confirm the right name
+- [x] Hotel name — the Nov 9–13 confirmation says "Keio Plaza Hotel Tokyo"; "PremierGrand" is only Wanderlog's map name (still check the Nov 7–9 booking)
 
 ## 🗂️ Repo
 - [ ] Merge PR #7 into `master` (all of the above is on branch `claude/wanderlog-missing-info`)
