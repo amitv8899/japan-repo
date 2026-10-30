@@ -17,6 +17,12 @@ tags: [japan, tokyo, food]
 - [ ] Ramen crawl: Tokyo shoyu, tsukemen, tonkotsu
 - [ ] Depachika gift-food haul (Ginza Mitsukoshi, Isetan)
 - [ ] Must-try: any last uni/otoro, monaka + wagashi gifts, a great tonkatsu (Tonki/Maisen)
+- [ ] Rare Tendon Ginza Mitsuyoshi Ginza Honten — tendon (Dec 8, walkable from hotel)
+- [ ] Ginza Kagari (Otemachi) — ramen
+- [ ] Coco Nemaru Ginza
+- [ ] Yoroniku Tokyo Azabudai Hills — yakiniku (pairs with teamLab Dec 9)
+- [ ] Ameyoko Market (Ueno) — food market (Dec 10)
+- [ ] Starbucks Reserve Roastery Tokyo (Nakameguro) — book ahead
 
 ## My Picks
 > [!note] Fill in your own choices here

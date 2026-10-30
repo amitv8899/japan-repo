@@ -16,6 +16,7 @@ tags: [japan, osaka, shopping]
 - [ ] Den Den Town (Nipponbashi) — electronics/anime
 - [ ] Umeda: Grand Front, Hankyu/Hanshin depachika, Yodobashi
 - [ ] Kuromon Ichiba for edible souvenirs
+- [ ] BOOKOFF PLUS Namba Ebisubashi — secondhand
 
 ## My Picks
 > [!note] Fill in your own choices here

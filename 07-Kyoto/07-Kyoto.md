@@ -6,6 +6,7 @@ checkin: 2026-11-23
 checkout: 2026-11-29
 nights: 6
 hotel: "Good Nature Hotel Kyoto"
+address: "Kyoto, Shimogyo-ku, Inaricho 2-chome 318-6, 600-8022, Japan"
 area: "Kawaramachi / Shijo"
 booked: true
 cost_yen: 325208

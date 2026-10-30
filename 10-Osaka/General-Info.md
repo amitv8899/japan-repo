@@ -16,7 +16,7 @@ tags: [japan, osaka, general]
 - [ ] From Miyajima: ferry back + Sanyo Shinkansen Hiroshima->Shin-Osaka (~1h20)
 - [ ] Subway Midosuji line is the spine; get ICOCA
 - [ ] Hommachi = business-district calm, 1 stop to Shinsaibashi/Namba nightlife
-- [ ] GAP NIGHT after checkout (Dec 5) — see itinerary; sort lodging or overnight plan
+- [x] Dec 5 gap night resolved — check out, travel to Hakone (nol hakone myojindai, Dec 5–8)
 
 ## My Picks
 > [!note] Fill in your own choices here

@@ -6,6 +6,7 @@ checkin: 2026-11-17
 checkout: 2026-11-18
 nights: 1
 hotel: "Hotel Buena Vista"
+address: "Nagano, Matsumoto, Honjo 1-2-1, 390-0814, Japan"
 area: "Matsumoto Castle town"
 booked: true
 cost_yen: 15417

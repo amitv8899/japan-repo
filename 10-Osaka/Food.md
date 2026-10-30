@@ -17,10 +17,17 @@ tags: [japan, osaka, food]
 - [ ] Kuromon Ichiba Market — seafood, wagyu skewers, fugu
 - [ ] Kobe beef day trip or teppanyaki in town
 - [ ] Must-try: takoyaki, okonomiyaki, kushikatsu, 551 Horai pork buns, doteyaki
+- [ ] Hasamun Kurodony Osakasea
+- [ ] Kitan-in
+- [ ] Kitan Hibiki
+- [ ] Maguroya Kurogin — tuna
+- [ ] Wagyu Idaten — wagyu
+- [ ] Matcha d'or 587 — matcha
+- [ ] Tokito
 
 ## My Picks
 > [!note] Fill in your own choices here
 
-- [ ] 
+- [ ] Dojima Yakiniku Restaurant — Thu Dec 3 dinner (time/booking not set)
 - [ ] 
 - [ ] 

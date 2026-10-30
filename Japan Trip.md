@@ -1,17 +1,17 @@
 ---
 title: Japan Trip
 tags: [japan, itinerary, hub]
-trip_start: 2026-11-09
+trip_start: 2026-11-07
 trip_end: 2026-12-12
 ---
 
 # 🗾 Japan Trip — 2026
 
 > [!info] Overview
-> **Dates:** 2026-11-09 (Mon) → 2026-12-12 (Sat)
-> **Total days:** 34 (33 nights, all booked) · **Cities:** 11 · **Stays:** 12
+> **Dates:** 2026-11-07 (Sat) → 2026-12-12 (Sat)
+> **Total days:** 36 (35 nights, all booked) · **Cities:** 11 · **Stays:** 12
 > **Season:** peak autumn foliage (koyo) — spectacular, crowded, cold. Pack layers.
-> **Flights:** depart Tel Aviv Nov 8, arrive home Dec 13 — see [[Flights]] for the travel-day bookends around these hotel dates.
+> **Flights:** depart Tel Aviv Nov 6, land Tokyo Nov 7; leave Tokyo Dec 11 at 22:20 (Dubai Dec 12) — see [[Flights]]. Dec 11 night at THE BLOSSOM HIBIYA is unused.
 
 ## 🧭 Route
 
@@ -46,7 +46,9 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] **Suica / PASMO / ICOCA** — add to phone wallet or buy Welcome Suica on arrival
 - [ ] **eSIM** installed + tested before departure
 - [ ] **Pocket wifi** only if multiple devices / heavy use
-- [ ] **Emirates/flydubai** online check-in (24h out each direction); flydubai legs (EK2449, EK2120) have no seats assigned yet — Emirates legs already have 046J/046K
+- [ ] **Etihad/Emirates** online check-in (opens 48h before each flight; Nov 4 and Dec 9); only EK319 has seats (082J/082K), Etihad legs EY608/EY800 have none yet
+- [ ] Confirm Dubai → Tel Aviv leg after Dec 12 05:30 landing (not in the new booking)
+- [ ] Verify EY800 time (11:40 vs 13:15 landing) and decide whether to shorten the Blossom Hibiya stay (free cancel to Dec 4)
 
 ### Reservations (book weeks ahead)
 - [ ] teamLab tickets (Tokyo)
@@ -68,4 +70,4 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] Warm layers, waterproof jacket, comfortable walking shoes
 - [ ] Small overnight bag for 1-night stops (forward main luggage)
 
-See also: [[Hotels]] · [[Flights]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]
+See also: [[must to be noted|⚠️ Must be noted]] · [[Hotels]] · [[Flights]] · [[Transport]] · [[Daily-Plan]] · [[Budget]] · Live views: [[Trip.base]]
