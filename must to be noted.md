@@ -10,7 +10,7 @@ tags: [japan, todo, check]
 
 ## ✈️ Flights
 - [ ] **EY800 time mismatch** — Etihad notice (Oct 27, ref 8ZNBLL): 21:05 → 11:40; Emirates confirmation (Oct 29, DP3V72): 22:20 → 13:15. Check etihad.com/manage; fix [[Flights]] + Nov 7 in [[Daily-Plan]]
-- [ ] **Dubai → Tel Aviv leg missing** — Oct 29 booking ends in Dubai (Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and rebook
+- [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
 
 ## 🏨 Hotels
