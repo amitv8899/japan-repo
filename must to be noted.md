@@ -19,6 +19,17 @@ tags: [japan, todo, check]
 ## 🚆 Transport
 - [ ] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
 
+## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
+- [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
+- [ ] **Nikko → Tokyo train Nov 15** has no time or seat yet ([[Legs/02-Nikko-to-Tokyo]]); the car pickup depends on it
+- [ ] **Winter tires** not on the rental (4WD only); Okuhida advises studless tires or chains. Add them before free cancel ends **Nov 8**, or confirm at pickup
+- [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
+- [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
+- [ ] **Parking** cost and availability unknown at Hotel Regina, Hotel Buena Vista, hotel around TAKAYAMA (2 nights), KUMU if keeping the car
+- [ ] Shirakawa-go parking (Seseragi, ¥2,000, opens 08:00): confirm no reservation is needed on Nov 20 — village office 05769-6-3111
+- [ ] Book dinner in Matsumoto (Tue Nov 17) and Takayama (Kyoya takes reservations); many places close Tue/Wed
+- [ ] Not confirmed: Momiji Kairo evening illumination hours, Matsumoto Castle night lighting, koi at Hida-Furukawa (may be moved by late Nov)
+
 ## 🎟️ Book / confirm before the trip
 - [ ] Shibuya Sky sunset slot (planned Nov 8)
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)

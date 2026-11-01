@@ -10,6 +10,8 @@ trip_end: 2026-11-20
 > [!info] At a glance
 > **Nov 15 → Nov 20, 2026.** Train Nikko → Tokyo, **pick up the rental in Tokyo**, drive Fujikawaguchiko → Matsumoto → Takayama, then drop the car in **Kanazawa** (one-way rental).
 
+Day-by-day driving plan with addresses and Maps/Waze links: **[[Road Trip]]**
+
 Back-links: [[Transport]] · [[Hotels]] · [[Japan Trip|🗾 Itinerary]] · [[Daily-Plan]]
 
 ## 🧾 Reservation (Toyota Rent a Car)

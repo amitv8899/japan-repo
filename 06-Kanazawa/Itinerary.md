@@ -12,7 +12,7 @@ tags: [japan, kanazawa, itinerary]
 > Times are a plan, not bookings. `~` = estimated walk/ride time, check it in Maps. `(verify)` = hours not confirmed from a source. Sunset is about 16:40, so do the outdoor sights before then.
 
 ## Getting around
-- **Hotel:** KUMU Kanazawa (Kamitsutsumicho 2-40). Per the repo coordinates it is ~0.55 km (~8 min walk) from Kenrokuen and ~2 km (~10 min taxi) from Kanazawa Station.
+- **Hotel:** KUMU Kanazawa (Kamitsutsumicho 2-40). Per Google Maps coordinates it is ~1.2 km (~15 min walk) from Kenrokuen and ~1.5 km (~5-10 min taxi) from Kanazawa Station (the earlier ~8 min / ~2 km figures came from inexact repo coordinates).
 - **Loop Bus:** ¥220 per ride from the station's East Exit (bus stop 7). Right loop runs about every 15 min, 08:30–18:00; left loop about every 20 min, 08:38–17:58. Stops include Omicho, Higashi Chaya, Kazuemachi, Kenrokuen, the Castle and Korinbo.
 - **One-day pass:** ¥800 (Loop Bus + city buses). It pays off at 4+ rides; on most days walking and one taxi is cheaper.
 - **Evenings:** the Loop Bus stops around 18:00, so plan to walk or taxi back from the illumination and dinner.
@@ -20,8 +20,8 @@ tags: [japan, kanazawa, itinerary]
 ## Fri Nov 20 — Arrival (car day, light evening)
 | Time | Plan | Notes |
 |---|---|---|
-| 07:30 | Leave Takayama | Check road status that morning |
-| 08:45 | Shirakawa-go, public lot | Crowded; viewpoint + village walk |
+| 07:15 | Leave Takayama | Check road status that morning. Full driving detail: [[Road Trip]] |
+| 08:20 | Shirakawa-go, Seseragi lot (opens 08:00, ¥2,000) | Beat the buses; village walk, optional viewpoint |
 | 10:30 | Drive to Kanazawa | ~1h15 |
 | 11:45 | Refuel (full tank) | Keep the receipt |
 | ~12:15 | Return car, Kanazawa Station | Reservation says 16:00, so early is fine if the shop accepts (verify). East Exit change still open |
@@ -37,7 +37,7 @@ tags: [japan, kanazawa, itinerary]
 ## Sat Nov 21 — Main day
 | Time | Plan | Notes |
 |---|---|---|
-| 08:00 | Kenrokuen (~8 min walk) | Opens 08:00, ¥320. Yukitsuri ropes + autumn color. Stay ~1h45 |
+| 08:00 | Kenrokuen (~15 min walk from hotel; leave 07:40) | Opens 08:00, ¥320. Yukitsuri ropes + autumn color. Stay ~1h45 |
 | 10:00 | Kanazawa Castle Park | Park free, 08:00-17:00. Hishi Yagura 09:00-16:30 (last entry 16:00), ¥320 cash |
 | 11:30 | Oyama Shrine (~10 min walk) | Stained-glass gate |
 | 12:15 | Lunch at Omicho (~10 min walk) | Snow crab at Shimada Suisan. Best window 10:00-14:30, be out by 14:00. Saturday is the last good Omicho day |

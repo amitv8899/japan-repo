@@ -20,12 +20,12 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-12 | Thu | Tokyo (Arrival) |  | Shimokitazawa vintage → Gov. Building free deck at sunset → 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
 | 2026-11-13 | Fri | Nikko | 🚗/🚆 move | 09:34 Spacia Nikko 1 Shinjuku → 11:31 Tobu-Nikko (Car 4, 6A/B) | Chuzenji Kanaya Hotel |
 | 2026-11-14 | Sat | Nikko |  | | Chuzenji Kanaya Hotel |
-| 2026-11-15 | Sun | Fujikawaguchiko | 🚗/🚆 move | | Hotel Regina Kawaguchiko |
-| 2026-11-16 | Mon | Fujikawaguchiko |  | | Hotel Regina Kawaguchiko |
-| 2026-11-17 | Tue | Matsumoto | 🚗/🚆 move | | Hotel Buena Vista |
-| 2026-11-18 | Wed | Takayama | 🚗/🚆 move | | Hotel around TAKAYAMA |
-| 2026-11-19 | Thu | Takayama |  | | Hotel around TAKAYAMA |
-| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | 08:45 Shirakawa-go (public lot) → 10:30 leave → ~12:15 return car at Kanazawa Stn → 13:00 Omicho lunch (stalls close ~15:00) → bags to hotel → 15:30 Higashi Chaya + Kazuemachi at golden hour (Kaikaro 10-17, closed Wed) → 19:00 Unagi Yondaime Kikukawa (near stn) → Tsuzumi-mon lights. Detail: [[06-Kanazawa/Itinerary]] | KUMU Kanazawa |
+| 2026-11-15 | Sun | Fujikawaguchiko | 🚗/🚆 move | Nikko → Tokyo train (time TBD) → 14:00 pick up car, Shinjuku → 14:30 Chuo Expwy → ~16:15 Oshino Hakkai (if on time, sunset 16:39) → 17:15 Hotel Regina → 18:30 dinner at Kosaku hoto. Detail: [[Road Trip]] | Hotel Regina Kawaguchiko |
+| 2026-11-16 | Mon | Fujikawaguchiko |  | 06:30 Oishi Park (Fuji at dawn) → 08:30 Mt. Tenjo ropeway → 10:15 Saiko Iyashi-no-Sato → 12:30 hoto lunch → 14:00 Chureito (optional) → 18:00 Momiji Kairo lights. Detail: [[Road Trip]] | Hotel Regina Kawaguchiko |
+| 2026-11-17 | Tue | Matsumoto | 🚗/🚆 move | 08:00 drive → 11:00 Narai-juku + soba lunch → 14:00 Matsumoto hotel → 14:30 castle (closes 16:30) → 16:00 Nawate/Nakamachi → 18:30 dinner (book). Detail: [[Road Trip]] | Hotel Buena Vista |
+| 2026-11-18 | Wed | Takayama | 🚗/🚆 move | Check Rte 158 status → 09:45 fuel + drive → 11:45 Hirayu Falls + foot bath → 13:30 Takayama → 15:00 Jinya (to 16:30) → 16:15 Sanmachi + Hida beef sushi → 18:30 dinner. Detail: [[Road Trip]] | Hotel around TAKAYAMA |
+| 2026-11-19 | Thu | Takayama |  | 07:30 Miyagawa morning market → 09:00 Sanmachi breweries → 11:30 ramen lunch → optional Hida-Furukawa → 18:00 dinner; fill the tank. Detail: [[Road Trip]] | Hotel around TAKAYAMA |
+| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | 08:20 Shirakawa-go (Seseragi lot) → 10:30 leave → ~12:15 return car at Kanazawa Stn → 13:00 Omicho lunch (stalls close ~15:00) → bags to hotel → 15:30 Higashi Chaya + Kazuemachi at golden hour (Kaikaro 10-17, closed Wed) → 19:00 Unagi Yondaime Kikukawa (near stn) → Tsuzumi-mon lights. Detail: [[06-Kanazawa/Itinerary]] | KUMU Kanazawa |
 | 2026-11-21 | Sat | Kanazawa |  | 08:00 Kenrokuen → 10:00 Castle Park → 11:30 Oyama Shrine → 12:15 Omicho crab lunch (out by 14:00) → 14:15 21st Century Museum (open to 20:00) → 16:30 rest → 18:00 Kenrokuen illumination (free) → 19:45 Sushi Ikuta (BOOK) | KUMU Kanazawa |
 | 2026-11-22 | Sun | Kanazawa |  | Sunday: Omicho half closed. 09:30 Myoryuji ninja temple (phone-book, ¥1,200 cash) → 10:45 Nagamachi + Nomura-ke (to 16:30) → 12:45 lunch → 14:15 Nishi Chaya + Kutani → 15:45 sake tasting → 19:00 Yakitori Ryo (illumination optional) | KUMU Kanazawa |
 | 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | National holiday. 09:00 check out → station gifts + gold leaf (Rinto/Anto) → early lunch → ~12:00 Thunderbird to Kyoto (reserve seat) → Kyoto ~14:20 | Good Nature |

@@ -17,7 +17,7 @@ tags: [japan, kanazawa, general]
 - [ ] Kanazawa Loop Bus + Kenrokuen Shuttle cover sights (buy 1-day pass)
 - [ ] Great Shinkansen hub for onward Kyoto (via Tsuruga/Thunderbird or Hokuriku Shinkansen)
 - [ ] Rainy region — pack umbrella
-- [ ] KUMU Kanazawa is ~0.55 km (~8 min walk) from Kenrokuen and ~2 km (~10 min taxi) from the station (from repo coordinates)
+- [ ] KUMU Kanazawa is ~1.2 km (~15 min walk) from Kenrokuen and ~1.5 km (~5-10 min taxi) from the station (Google Maps coordinates)
 - [ ] Loop Bus ¥220/ride, runs 08:30-18:00 only; evenings = walk or taxi. One-day pass ¥800 only pays off at 4+ rides
 - [ ] Kenrokuen Shuttle no longer listed as a current service — use the Loop Bus
 
