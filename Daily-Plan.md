@@ -25,10 +25,10 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-17 | Tue | Matsumoto | 🚗/🚆 move | | Hotel Buena Vista |
 | 2026-11-18 | Wed | Takayama | 🚗/🚆 move | | Hotel around TAKAYAMA |
 | 2026-11-19 | Thu | Takayama |  | | Hotel around TAKAYAMA |
-| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | | KUMU Kanazawa |
-| 2026-11-21 | Sat | Kanazawa |  | | KUMU Kanazawa |
-| 2026-11-22 | Sun | Kanazawa |  | | KUMU Kanazawa |
-| 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | | Good Nature |
+| 2026-11-20 | Fri | Kanazawa | 🚗/🚆 move | 08:45 Shirakawa-go (public lot) → 10:30 leave → ~12:15 return car at Kanazawa Stn → 13:00 Omicho lunch (stalls close ~15:00) → bags to hotel → 15:30 Higashi Chaya + Kazuemachi at golden hour (Kaikaro 10-17, closed Wed) → 19:00 Unagi Yondaime Kikukawa (near stn) → Tsuzumi-mon lights. Detail: [[06-Kanazawa/Itinerary]] | KUMU Kanazawa |
+| 2026-11-21 | Sat | Kanazawa |  | 08:00 Kenrokuen → 10:00 Castle Park → 11:30 Oyama Shrine → 12:15 Omicho crab lunch (out by 14:00) → 14:15 21st Century Museum (open to 20:00) → 16:30 rest → 18:00 Kenrokuen illumination (free) → 19:45 Sushi Ikuta (BOOK) | KUMU Kanazawa |
+| 2026-11-22 | Sun | Kanazawa |  | Sunday: Omicho half closed. 09:30 Myoryuji ninja temple (phone-book, ¥1,200 cash) → 10:45 Nagamachi + Nomura-ke (to 16:30) → 12:45 lunch → 14:15 Nishi Chaya + Kutani → 15:45 sake tasting → 19:00 Yakitori Ryo (illumination optional) | KUMU Kanazawa |
+| 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | National holiday. 09:00 check out → station gifts + gold leaf (Rinto/Anto) → early lunch → ~12:00 Thunderbird to Kyoto (reserve seat) → Kyoto ~14:20 | Good Nature |
 | 2026-11-24 | Tue | Kyoto |  | 20:00 Yakiniku Genshu Eishu (2p) | Good Nature |
 | 2026-11-25 | Wed | Kyoto |  | | Good Nature |
 | 2026-11-26 | Thu | Kyoto |  | | Good Nature |

@@ -16,6 +16,10 @@ tags: [japan, kanazawa, shopping]
 - [ ] Kutani porcelain and Kaga-yuzen textiles
 - [ ] Omicho Market — dried seafood, local produce
 - [ ] Kanazawa Station Rinto/Anto shops for gifts
+- [ ] Saint Nicolas gold-leaf chocolate (Onosho Canal, Nagamachi)
+- [ ] Kutani porcelain at Kaburaki (Nishi Chaya)
+- [ ] Artisan chopsticks at Higashi Chaya (shop name in the saved post: 今日香)
+- [ ] Sake tasting + bottles, ¥500-1000 per tasting
 
 ## My Picks
 > [!note] Fill in your own choices here

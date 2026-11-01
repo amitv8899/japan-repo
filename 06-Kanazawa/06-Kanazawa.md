@@ -26,6 +26,7 @@ tags: [japan, stay]
 Three nights. Gold leaf, geisha districts, one of Japan's top gardens, superb seafood.
 
 ## Files
+- [[06-Kanazawa/Itinerary|Itinerary]]
 - [[06-Kanazawa/Food|Food]]
 - [[06-Kanazawa/Locations|Locations]]
 - [[06-Kanazawa/Events|Events]]

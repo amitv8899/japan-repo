@@ -6,7 +6,7 @@ tags: [japan, todo, check]
 # ⚠️ Must be noted — things to check
 
 > [!warning] Claude must tell you what's open here at the start of every chat.
-> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-10-30.
+> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-01.
 
 ## ✈️ Flights
 - [ ] **EY800 time mismatch** — Etihad notice (Oct 27, ref 8ZNBLL): 21:05 → 11:40; Emirates confirmation (Oct 29, DP3V72): 22:20 → 13:15. Check etihad.com/manage; fix [[Flights]] + Nov 7 in [[Daily-Plan]]
@@ -26,3 +26,11 @@ tags: [japan, todo, check]
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set
 - [ ] Wanderlog "book ahead": Uobei Shibuya, Shodai, Starbucks Reserve Roastery Tokyo, Tokyo DisneySea (if going)
 - [ ] Tokyo winter/autumn illumination dates (Meguro River, Marunouchi, Roppongi) — not confirmed for 2026
+
+## 🦀 Kanazawa (Nov 20-23) — see [[06-Kanazawa/Itinerary]]
+- [ ] **Book Sushi Ikuta** — 8 seats, ~¥18,700 pp, planned Sat Nov 21 ~19:45; ask for a 19:30-20:00 seating
+- [ ] **Book Myoryuji ninja temple by phone** — 076-241-0888 (08:30-17:00 JST, English OK on the phone; tour is in Japanese; ¥1,200 cash); target Sun Nov 22 09:30
+- [ ] **Reserve Thunderbird seat Kanazawa → Kyoto, Mon Nov 23 (~12:00)** — national holiday + foliage weekend; see [[Legs/03-Kanazawa-to-Kyoto]]
+- [ ] **Car return Nov 20** — plan returns it ~12:15 but reservation says 16:00; confirm early return is OK, and the East Exit shop switch + winter tires are still open ([[Car Trip]])
+- [ ] Omicho: Sun Nov 22 and Mon Nov 23 (holiday) about half the shops are closed, some also close Wednesdays — eat there Fri/Sat; confirm on ohmicho-ichiba.com
+- [ ] Not confirmed from a source: KUMU check-in/check-out times, hours for Unagi Kikukawa, Yakitori Ryo, sake tasting spot, Nishi Chaya / Myoryuji walking times

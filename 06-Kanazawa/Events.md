@@ -15,6 +15,7 @@ tags: [japan, kanazawa, events]
 - [ ] Snow crab (kani) season opens early Nov — a highlight, plan a crab meal
 - [ ] Kenrokuen yukitsuri (winter rope cones) installed from ~Nov 1 — photogenic
 - [ ] Autumn foliage in Kenrokuen mid-late Nov
+- [ ] Kenrokuen + Castle Park night illumination — Sat Nov 21 and Sun Nov 22, 18:00-20:45, free, park closes 21:00 (confirm nearer the date)
 
 ## My Picks
 > [!note] Fill in your own choices here
