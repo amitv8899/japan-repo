@@ -17,6 +17,9 @@ tags: [japan, tokyo, events]
 - [ ] Sumo: Grand tournament is not in Nov (Fukuoka) — skip
 - [ ] Book Shibuya Sky sunset slot (Nov 9)
 - [ ] Book ahead (flagged in Wanderlog): Uobei Shibuya, Shodai
+- [ ] Shinjuku Minami Lumi — free illumination at Shinjuku Stn New South Gate, Nov 11 – Feb 14, 17:00-24:00 (Nov 11 from 18:00); fits the Nov 11 free day
+- [ ] Ramen Grand Prix Tokyo — Shinjuku Okubo Park, to Nov 15, 11:00-21:00, free entry, ramen ¥800 (unverified)
+- [ ] Yaki Imo Festival Tokyo — Nakano Shiki no Mori Park, to Nov 8, weekends 10:00-19:00, free entry (unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here
