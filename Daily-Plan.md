@@ -12,7 +12,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 
 | Date | Day | City | Travel | Plan | Sleep |
 |------|-----|------|--------|------|-------|
-| 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → N'EX/limousine to hotel; easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
+| 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → limousine bus to hotel (N'EX stops at Tokyo Station Nov 7, no Shinjuku service); easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
 | 2026-11-08 | Sun | Tokyo (Arrival) |  | Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
 | 2026-11-09 | Mon | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato | Keio Plaza |
 | 2026-11-10 | Tue | Tokyo (Arrival) |  | Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
