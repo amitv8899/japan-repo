@@ -9,7 +9,6 @@ tags: [japan, todo, check]
 > Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-06.
 
 ## ✈️ Flights
-- [ ] **EY800 time mismatch** — Etihad notice (Oct 27, ref 8ZNBLL): 21:05 → 11:40; Emirates confirmation (Oct 29, DP3V72): 22:20 → 13:15. Check etihad.com/manage; fix [[Flights]] + Nov 7 in [[Daily-Plan]]
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
 
@@ -22,7 +21,7 @@ tags: [japan, todo, check]
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
 - [ ] **Nikko → Tokyo train Nov 15** has no time or seat yet ([[Legs/02-Nikko-to-Tokyo]]); the car pickup depends on it
-- [ ] **Winter tires** not on the rental (4WD only); Okuhida advises studless tires or chains. Add them before free cancel ends **Nov 8**, or confirm at pickup
+- [ ] **Winter tires — ask the Keio Plaza front desk to help (Amit's plan)**: not on the rental (4WD only); Okuhida advises studless tires or chains. Toyota Shinjuku 03-3341-2603. Add them before free cancel ends **Nov 8**, or confirm at pickup
 - [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
 - [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
 - [ ] **Parking** cost and availability unknown at Hotel Regina, Hotel Buena Vista, hotel around TAKAYAMA (2 nights), KUMU if keeping the car
@@ -31,7 +30,7 @@ tags: [japan, todo, check]
 - [ ] Not confirmed: Momiji Kairo evening illumination hours, Matsumoto Castle night lighting, koi at Hida-Furukawa (may be moved by late Nov)
 
 ## 🎟️ Book / confirm before the trip
-- [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku. Pick once the real landing time is known (see EY800 item)
+- [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku.
 - [ ] **Shibuya Sky sunset slot (moved to Mon Nov 9)** — not booked; sunset slots sell out. Online adult ¥2,700 before 15:00, ¥3,400 from 15:00 (GO TOKYO, Apr 2026); if no slot, fallback is free Tokyo Metropolitan Govt Building deck
 - [ ] **Tokyo City Flea Market, Sun Nov 8** (Oi Racecourse, free, 09:00-14:30, cancelled if rain) — third-party listings only; check the organiser's Instagram @tokyocity_fleamarket that morning
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
