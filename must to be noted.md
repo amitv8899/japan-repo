@@ -32,7 +32,8 @@ tags: [japan, todo, check]
 
 ## 🎟️ Book / confirm before the trip
 - [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku. Pick once the real landing time is known (see EY800 item)
-- [ ] Shibuya Sky sunset slot (planned Nov 8, **tomorrow after arrival**) — online slots open ~28 days ahead and sunset slots sell out; sources disagree on adult price (¥2,000 vs ¥2,700/¥3,400, unverified); if no slot, fallback is free Tokyo Metropolitan Govt Building deck
+- [ ] **Shibuya Sky sunset slot (moved to Mon Nov 9)** — not booked; sunset slots sell out. Online adult ¥2,700 before 15:00, ¥3,400 from 15:00 (GO TOKYO, Apr 2026); if no slot, fallback is free Tokyo Metropolitan Govt Building deck
+- [ ] **Tokyo City Flea Market, Sun Nov 8** (Oi Racecourse, free, 09:00-14:30, cancelled if rain) — third-party listings only; check the organiser's Instagram @tokyocity_fleamarket that morning
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
 - [ ] Tokyo National Museum (planned Dec 10) — Wanderlog says closed Tue; confirm
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set

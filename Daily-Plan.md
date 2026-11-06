@@ -13,8 +13,8 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | Date | Day | City | Travel | Plan | Sleep |
 |------|-----|------|--------|------|-------|
 | 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → limousine bus to hotel (N'EX stops at Tokyo Station Nov 7, no Shinjuku service); easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
-| 2026-11-08 | Sun | Tokyo (Arrival) |  | Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
-| 2026-11-09 | Mon | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato | Keio Plaza |
+| 2026-11-08 | Sun | Tokyo (Arrival) |  | Tokyo City Flea Market, Oi Racecourse (09:00-14:30, arrive before noon; cancelled if rain) → Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) | Keio Plaza |
+| 2026-11-09 | Mon | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
 | 2026-11-10 | Tue | Tokyo (Arrival) |  | Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
 | 2026-11-11 | Wed | Tokyo (Arrival) |  | Free day — e.g. Kamakura or Yokohama day trip | Keio Plaza |
 | 2026-11-12 | Thu | Tokyo (Arrival) |  | Shimokitazawa vintage → Gov. Building free deck at sunset → 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
