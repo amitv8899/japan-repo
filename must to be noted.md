@@ -17,6 +17,7 @@ tags: [japan, todo, check]
 
 ## 🚆 Transport
 - [ ] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
+  - 2026-11-07: Gmail has the reservation details (Oct 29) but NO reservation number; JR-EAST site login shows no ticket; SMS verification not possible abroad. Plan: go to a staff-run counter (Midori no Madoguchi / View Plaza / JR East Travel Service Center at Shinjuku) with passport + the card used, well before 09:34 on Nov 13; fallback = cancel (free until 21:00 Nov 12) and rebook at the counter
 
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
