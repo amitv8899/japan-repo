@@ -6,7 +6,7 @@ tags: [japan, todo, check]
 # ⚠️ Must be noted — things to check
 
 > [!warning] Claude must tell you what's open here at the start of every chat.
-> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-06.
+> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-08.
 
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
@@ -33,9 +33,11 @@ tags: [japan, todo, check]
 ## 🎟️ Book / confirm before the trip
 - [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 11 flight), so a new card is needed then
 - [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku.
+- [ ] **Mon Nov 9 forecast: rain in the morning (~5 mm, ~10°C)** — 07:00 Senso-ji and Kappabashi will be wet; bring an umbrella/rain jacket, consider swapping to an indoor morning (Yr, 2026-11-08; check again tonight). Shibuya Sky sunset still needs booking
 - [ ] **Shibuya Sky sunset slot (moved to Mon Nov 9)** — not booked; sunset slots sell out. Online adult ¥2,700 before 15:00, ¥3,400 from 15:00 (GO TOKYO, Apr 2026); if no slot, fallback is free Tokyo Metropolitan Govt Building deck
 - [ ] **Tokyo City Flea Market, Sun Nov 8** (Oi Racecourse, free, 09:00-14:30, cancelled if rain) — third-party listings only; check the organiser's Instagram @tokyocity_fleamarket that morning
   - ⚠️ Evening prep 2026-11-07: Tokyo Cheapo lists Oi dates Sat Nov 7, 14, 21, 23 (none for Sun Nov 8) — it may NOT run tomorrow; confirm on the Instagram tonight, else start with Meiji Jingu
+  - 2026-11-08 brief: the Tokyo Cheapo listing is a Nov 7–8 span, so it probably runs today; forecast dry (16/10°C). Still confirm on @tokyocheapo's Instagram before leaving. Backup: Hanazono Shrine antique market (Shinjuku, Sun 06:30-16:00, free, stalls close ~15:00, skipped in bad weather)
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
 - [ ] Tokyo National Museum (planned Dec 10) — Wanderlog says closed Tue; confirm
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set

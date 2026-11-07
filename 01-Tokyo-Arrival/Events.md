@@ -20,6 +20,10 @@ tags: [japan, tokyo, events]
 - [ ] Shinjuku Minami Lumi — free illumination at Shinjuku Stn New South Gate, Nov 11 – Feb 14, 17:00-24:00 (Nov 11 from 18:00); fits the Nov 11 free day
 - [ ] Ramen Grand Prix Tokyo — Shinjuku Okubo Park, to Nov 15, 11:00-21:00, free entry, ramen ¥800 (unverified)
 - [ ] Yaki Imo Festival Tokyo — Nakano Shiki no Mori Park, to Nov 8, weekends 10:00-19:00, free entry (unverified)
+- [ ] Hanazono Shrine Antique Market — every Sun 06:30-16:00 (stalls close ~15:00), free, ~7 min walk from JR Shinjuku; skipped in bad weather
+- [ ] Asiba Matsuri, Koenji — Sun Nov 8 11:00-18:30, free, Koenji Stn north exit (rain or shine)
+- [ ] Tori-no-Ichi, Hanazono Shrine (Shinjuku) — Nov 12 and Nov 24 (eves Nov 11 / Nov 23); free; sources conflict for Asakusa dates, check torinoichi.jp
+- [ ] Marunouchi illumination — from Nov 12 (unverified); Roppongi Keyakizaka illumination from Nov 5 (unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here
