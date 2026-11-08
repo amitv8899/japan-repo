@@ -25,6 +25,8 @@ tags: [japan, tokyo, locations]
 - [ ] Hachiko Statue (Shibuya)
 - [ ] Shimokitazawa — vintage-shop neighborhood (Nov 12 daytime)
 
+- [ ] Rainy-day indoor (Mon Nov 9; hours unverified): Samurai Museum Shinjuku · Mori Art Museum + Tokyo City View (Roppongi, open Mon) · Kinokuniya Shinjuku (books) · Takashimaya Times Sq/Hands · Gov. Building free decks (check Nov 9 closure). AVOID Mondays: Sompo Museum, NTT ICC, Nezu, Ueno museums
+
 ## My Picks
 > [!note] Fill in your own choices here
 
