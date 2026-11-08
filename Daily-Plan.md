@@ -14,9 +14,9 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 |------|-----|------|--------|------|-------|
 | 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → limousine bus to hotel (N'EX stops at Tokyo Station Nov 7, no Shinjuku service); easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
 | 2026-11-08 | Sun | Tokyo (Arrival) |  | Tokyo City Flea Market, Oi Racecourse (09:00-14:30, arrive before noon; cancelled if rain) → Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) | Keio Plaza |
-| 2026-11-09 | Mon | Tokyo (Arrival) |  | 07:00 Senso-ji → Nakamise → Kappabashi (custom chopsticks) → Suzukien gelato → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
-| 2026-11-10 | Tue | Tokyo (Arrival) |  | Shinjuku shopping (Bic Camera, GU, Uniqlo, glasses) → Golden Gai | Keio Plaza |
-| 2026-11-11 | Wed | Tokyo (Arrival) |  | Free day — e.g. Kamakura or Yokohama day trip | Keio Plaza |
+| 2026-11-09 | Mon | Tokyo (Arrival) |  | Rainy rest day: shopping only — shop → rest at hotel → shop again (Shinjuku: Bic Camera, GU, Uniqlo, glasses; indoor/underground) | Keio Plaza |
+| 2026-11-10 | Tue | Tokyo (Arrival) |  | Ginza all day: Itoya, Uniqlo/GU flagships, Ginza Six, Mitsukoshi, Kabukiza area, Tsukiji outer market → evening Ginza lights | Keio Plaza |
+| 2026-11-11 | Wed | Tokyo (Arrival) |  | Shibuya again (finish what was missed) + temple day: Gotokuji cat temple (Setagaya, lucky-cat statues; check this is the one meant) and/or Senso-ji + Kappabashi → Shibuya Sky sunset (book) → Uobei/Uogashi Shibuya | Keio Plaza |
 | 2026-11-12 | Thu | Tokyo (Arrival) |  | Shimokitazawa vintage → Gov. Building free deck at sunset → 20:00 Inside Maguro Mart, Nakano (2p) | Keio Plaza |
 | 2026-11-13 | Fri | Nikko | 🚗/🚆 move | 09:34 Spacia Nikko 1 Shinjuku → 11:31 Tobu-Nikko (Car 4, 6A/B) | Chuzenji Kanaya Hotel |
 | 2026-11-14 | Sat | Nikko |  | | Chuzenji Kanaya Hotel |
