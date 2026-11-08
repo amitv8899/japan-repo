@@ -35,6 +35,18 @@ tags: [japan, tokyo, shopping]
 - [ ] Glasses — JINS Shinjuku Odakyu Ace, Zoff Keio Dept Store Shinjuku, OWNDAYS Shinjuku East Exit
 - [ ] Tax-free: bring passport, single-store ¥5,000+
 
+## Mon Nov 9 — rainy shopping day (all indoor / underground, Shinjuku)
+- [ ] 08:00 admin at hotel: items 1–3 in [[must to be noted]] (tires call, Shibuya Sky Wed, Nikko return train) + forecast
+- [ ] 09:30 breakfast
+- [ ] 10:00 Glasses first (fitting takes time): JINS Odakyu Ace or Zoff Keio Dept Store, then OWNDAYS East Exit if you want to compare
+- [ ] 11:15 JR Shinjuku Midori no Madoguchi — collect Nikko ticket E19958 (bring passport)
+- [ ] 11:45 East side: Bic Camera East Exit (electronics, tax-free), GU Shinjuku Tounanguchi Flags, Uniqlo
+- [ ] 13:30 lunch indoors: Takashimaya Times Square / Lumine / Isetan restaurant floors
+- [ ] 14:30 rest at hotel (~1.5 h)
+- [ ] 16:30 round 2: Isetan Shinjuku (Auralee, depachika), Onitsuka Tiger (assumed "the Tiger one" — Flying Tiger? tell me), Kinokuniya Shinjuku (books/stationery), PLST/Gap flagship
+- [ ] 19:00 dinner: Uogashi Nihon-ichi standing sushi or Omoide Yokocho; Kabukicho Don Quijote after if you still want to browse
+- Tax-free: passport, ¥5,000+ per store. Opening times (~10:00–11:00) not verified
+
 ## My Picks
 > [!note] Fill in your own choices here
 
