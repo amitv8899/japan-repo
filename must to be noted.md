@@ -14,7 +14,8 @@ tags: [japan, todo, check]
 - [ ] 2. **Book Shibuya Sky for Wed Nov 11 ~16:00** (sunset ~16:35): shibuya-scramble-square.com/sky — whole deck needs a timed ticket (45F-only option unverified); rooftop is weather-dependent
 - [ ] 3. **Book the return Nikko → Tokyo train, Sun Nov 15** (Tobu; time and seat) — the 14:00 car pickup depends on it. Fallback: buy at Tobu-Nikko station Nov 13-14
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
-- [ ] 5. Check Mon forecast again in the morning (indoor plan is in [[01-Tokyo-Arrival/Shopping]])
+- [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
+  - 2026-11-09: Shibuya Sky tickets reportedly open ~2 weeks ahead (so Nov 11 slot should be bookable now; 45F-only option still unverified)
 **This week:**
 - [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done

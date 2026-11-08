@@ -24,6 +24,8 @@ tags: [japan, tokyo, events]
 - [ ] Asiba Matsuri, Koenji — Sun Nov 8 11:00-18:30, free, Koenji Stn north exit (rain or shine)
 - [ ] Tori-no-Ichi, Hanazono Shrine (Shinjuku) — Nov 12 and Nov 24 (eves Nov 11 / Nov 23); free; sources conflict for Asakusa dates, check torinoichi.jp
 - [ ] Marunouchi illumination — from Nov 12 (unverified); Roppongi Keyakizaka illumination from Nov 5 (unverified)
+- [ ] Shinjuku Gyoen Chrysanthemum Festival — Nov 1–15, entry ¥500, 5 min walk from Shinjuku-gyoenmae (time unverified)
+- [ ] Shinjuku Park Tower winter illumination — from mid-Nov to mid-Feb, 16:00–04:00, free (start date unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here
