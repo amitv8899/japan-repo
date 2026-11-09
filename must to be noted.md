@@ -35,6 +35,7 @@ tags: [japan, todo, check]
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
 - [x] ~~Return Nikko → Tokyo train, Nov 15~~ — done: 3 options set (08:58/09:32/08:41, all IC card, no reservation), see [[Legs/02-Nikko-to-Tokyo]]
+- [ ] **Chuzenji → Tobu Nikko Station bus, Nov 15 morning** — Chuzenji Kanaya Hotel is up at Lake Chuzenji, not at the station; bus down Irohazaka is typically 45-60 min, but no actual Sunday-morning schedule checked yet. This determines what time to leave the hotel for the 08:58 train — check Tobu World Heritage bus timetable or ask the hotel desk
 - [ ] **Winter tires — ask the Keio Plaza front desk to help (Amit's plan)**: not on the rental (4WD only); Okuhida advises studless tires or chains. Toyota Shinjuku 03-3341-2603. Add them before free cancel ends **Nov 8**, or confirm at pickup
 - [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
 - [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
