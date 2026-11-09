@@ -10,7 +10,7 @@ tags: [japan, todo, check]
 
 ## 🔥 Do first — ranked (added 2026-11-08 evening)
 **Tonight / Mon Nov 9 morning (before shopping):**
-- [ ] 1. **Winter tires for the Nov 15 car** — free-cancel/add deadline was **Nov 8 (today)**. Call Toyota Shinjuku 03-3341-2603 when they open Mon morning (or ask Keio Plaza desk tonight). In the same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
+- [ ] 1. **Amit's call to Toyota Shinjuku 03-3341-2603** (winter tires handled by Amit — closed). Same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
 - [ ] 2. **Book Shibuya Sky for TUE Nov 10 ~16:00 (moved from Wed; BOOK TONIGHT)** (sunset ~16:35): shibuya-scramble-square.com/sky — whole deck needs a timed ticket (45F-only option unverified); rooftop is weather-dependent
 - [ ] 3. **Book the return Nikko → Tokyo train, Sun Nov 15** (Tobu; time and seat) — the 14:00 car pickup depends on it. Fallback: buy at Tobu-Nikko station Nov 13-14
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
@@ -36,7 +36,6 @@ tags: [japan, todo, check]
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
 - [ ] **BOOK the return Nikko → Tokyo train Nov 15 (still unbooked)** — no time or seat yet; Tobu/Spacia seats can be reserved at Tobu-Nikko station or online; the car pickup depends on it ([[Legs/02-Nikko-to-Tokyo]]); the car pickup depends on it
-- [ ] **Winter tires — ask the Keio Plaza front desk to help (Amit's plan)**: not on the rental (4WD only); Okuhida advises studless tires or chains. Toyota Shinjuku 03-3341-2603. Add them before free cancel ends **Nov 8**, or confirm at pickup
 - [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
 - [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
 - [ ] **Parking** cost and availability unknown at Hotel Regina, Hotel Buena Vista, hotel around TAKAYAMA (2 nights), KUMU if keeping the car
