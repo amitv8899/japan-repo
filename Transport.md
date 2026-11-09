@@ -1,7 +1,7 @@
 ---
 title: Transport
 tags: [japan, transport, trains, car]
-trip_start: 2026-11-09
+trip_start: 2026-11-07
 trip_end: 2026-12-12
 ---
 
