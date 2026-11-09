@@ -12,7 +12,7 @@ tags: [japan, todo, check]
 **Tonight / Mon Nov 9 morning (before shopping):**
 - [ ] 1. **Winter tires for the Nov 15 car** — free-cancel/add deadline was **Nov 8 (today)**. Call Toyota Shinjuku 03-3341-2603 when they open Mon morning (or ask Keio Plaza desk tonight). In the same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
 - [ ] 2. **Book Shibuya Sky for Wed Nov 11 ~16:00** (sunset ~16:35): shibuya-scramble-square.com/sky — whole deck needs a timed ticket (45F-only option unverified); rooftop is weather-dependent
-- [ ] 3. **Book the return Nikko → Tokyo train, Sun Nov 15** (Tobu; time and seat) — the 14:00 car pickup depends on it. Fallback: buy at Tobu-Nikko station Nov 13-14
+- [ ] 3. **Return Nikko → Tokyo train, Sun Nov 15** — Option 1 plan set: 08:58 Tobu Nikko Line → Kurihashi → 10:44 JR Shonan-Shinjuku Line → Shinjuku 11:44, ¥2,029, IC card, no reservation needed. Still need: 2 fallback options departing after 08:58 ([[Legs/02-Nikko-to-Tokyo]])
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
   - 2026-11-09: Shibuya Sky tickets reportedly open ~2 weeks ahead (so Nov 11 slot should be bookable now; 45F-only option still unverified)
@@ -35,7 +35,7 @@ tags: [japan, todo, check]
 
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
-- [ ] **BOOK the return Nikko → Tokyo train Nov 15 (still unbooked)** — no time or seat yet; Tobu/Spacia seats can be reserved at Tobu-Nikko station or online; the car pickup depends on it ([[Legs/02-Nikko-to-Tokyo]]); the car pickup depends on it
+- [ ] **Return Nikko → Tokyo train, Nov 15** — Option 1 set (08:58 departure, no reservation needed, see [[Legs/02-Nikko-to-Tokyo]]); still need 2 fallback options departing after 08:58
 - [ ] **Winter tires — ask the Keio Plaza front desk to help (Amit's plan)**: not on the rental (4WD only); Okuhida advises studless tires or chains. Toyota Shinjuku 03-3341-2603. Add them before free cancel ends **Nov 8**, or confirm at pickup
 - [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
 - [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
