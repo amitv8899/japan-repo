@@ -14,7 +14,7 @@ tags: [japan, fujikawaguchiko, locations]
 ## Suggestions
 - [ ] Chureito Pagoda (Arakura Sengen) — the iconic pagoda+Fuji shot, ~400 steps
 - [ ] Lake Kawaguchiko north shore — classic reflected Fuji
-- [ ] Momiji Corridor (Maple Tunnel) — late-Nov foliage + illumination
+- [ ] Momiji Kairo (Maple Corridor), north shore of Lake Kawaguchi — leaf-covered tunnel, peak late Oct–mid Nov; from Kawaguchiko Stn take Kawaguchiko Sightseeing Bus Red Line to Kubota Itchiku Art Museum, then walk ~5 min
 - [ ] Oishi Park — lavender/kochia beds + Fuji
 - [ ] Kachi Kachi Ropeway (Mt Tenjo) for panorama
 - [ ] Oshino Hakkai — spring-water ponds village
