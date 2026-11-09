@@ -26,6 +26,9 @@ tags: [japan, tokyo, events]
 - [ ] Marunouchi illumination — from Nov 12 (unverified); Roppongi Keyakizaka illumination from Nov 5 (unverified)
 - [ ] Shinjuku Gyoen Chrysanthemum Festival — Nov 1–15, entry ¥500, 5 min walk from Shinjuku-gyoenmae (time unverified)
 - [ ] Shinjuku Park Tower winter illumination — from mid-Nov to mid-Feb, 16:00–04:00, free (start date unverified)
+- [ ] Bunkyo Chrysanthemum Festival — Yushima Tenmangu, Nov 1–23, free; fits Wed Nov 11 Ueno day
+- [ ] Meiji Jingu Gaien Ginkgo Festival — Nov 15–Dec 8, street-food stalls (price/hours unverified)
+- [ ] Mt. Takao Autumn Leaves Festival — to ~Dec 13, free; Keio Line from Shinjuku ~50 min (dates differ by source)
 
 ## My Picks
 > [!note] Fill in your own choices here

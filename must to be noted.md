@@ -15,6 +15,7 @@ tags: [japan, todo, check]
 - [ ] 3. **Book the return Nikko → Tokyo train, Sun Nov 15** (Tobu; time and seat) — the 14:00 car pickup depends on it. Fallback: buy at Tobu-Nikko station Nov 13-14
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
+  - 2026-11-10: still unbooked; window open (~2 weeks ahead), book by Wed Nov 11 if Nov 12 forecast is clear
   - 2026-11-09: Shibuya Sky tickets reportedly open ~2 weeks ahead (so Nov 11 slot should be bookable now; 45F-only option still unverified)
 **This week:**
 - [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
@@ -53,7 +54,7 @@ tags: [japan, todo, check]
 - [ ] **Tokyo City Flea Market, Sun Nov 8** (Oi Racecourse, free, 09:00-14:30, cancelled if rain) — third-party listings only; check the organiser's Instagram @tokyocity_fleamarket that morning
   - ⚠️ Evening prep 2026-11-07: Tokyo Cheapo lists Oi dates Sat Nov 7, 14, 21, 23 (none for Sun Nov 8) — it may NOT run tomorrow; confirm on the Instagram tonight, else start with Meiji Jingu
   - 2026-11-08 brief: the Tokyo Cheapo listing is a Nov 7–8 span, so it probably runs today; forecast dry (16/10°C). Still confirm on @tokyocheapo's Instagram before leaving. Backup: Hanazono Shrine antique market (Shinjuku, Sun 06:30-16:00, free, stalls close ~15:00, skipped in bad weather)
-- [ ] Tue Nov 10 rain plan: hours unverified for Gotokuji, Reload, Shibuya Parco (Pokemon Center/Nintendo/Capcom), Mandarake — check Google Maps in the morning
+- [ ] Tue Nov 10 rain plan: still unverified hours for Capcom Store and Mandarake. Found 2026-11-10: Gotokuji 06:00-17:00 free; Reload complex 09:00-24:00 (varies by shop); Pokemon Center 10:00-21:00 (2024 source); Nintendo Tokyo 10:00-20:00
 - [ ] Wed Nov 11: confirm Tokyo National Museum needs a timed ticket (Wanderlog said book ahead) and which Ameyoko shops close Wed; museum is closed Tue, so Ueno must stay Wed (Dec 10 Ueno day removed as duplicate)
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
 - [ ] Tokyo National Museum (planned Dec 10) — Wanderlog says closed Tue; confirm
