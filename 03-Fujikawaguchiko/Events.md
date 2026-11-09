@@ -12,7 +12,7 @@ tags: [japan, fujikawaguchiko, events]
 > Lakeside Fuji views. Clear crisp Nov mornings = best chance of a clean Mt Fuji. Onsen + red autumn leaves.
 
 ## Suggestions
-- [ ] Kawaguchiko Autumn Leaves Festival / Momiji Corridor illumination runs early–late Nov — CONFIRM dates
+- [ ] Fujikawaguchiko Autumn Leaves Festival — confirmed Nov 7–29, 2026; Momiji Corridor evening illumination sunset–21:00
 - [ ] Fuji visibility best early morning — plan sunrise shots
 - [ ] Some ropeways/boats shorten winter hours
 
