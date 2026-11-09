@@ -25,12 +25,20 @@ tags: [japan, transport, leg]
 > 3. **10:44 JR Shonan-Shinjuku Line** (bound Zushi, 12 stations) → arrive **Shinjuku 11:44**
 > Leaves 2h16m before the 14:00 car pickup at Toyota Shinjuku 3-chome.
 
+> [!tip] Option 3 (fallback) — 08:41 → 11:14 (2h33m, 1 transfer, ¥2,750)
+> Earlier departure, same simplicity — IC card only, no reservation.
+> 1. **08:41 Tobu Nikko Line** → walk ~5 min to **Nikko Stn** (JR), arrive 08:46
+> 2. **08:48 JR Nikko Line** (6 stations) → arrive **Utsunomiya 09:31**
+> 3. 5-min transfer, depart **09:36**
+> 4. **JR Shonan-Shinjuku Line Rapid** (14 stations) → arrive **Shinjuku 11:14**
+
 Back-links: [[Transport]] · [[Japan Trip]]
 
 ## Fallback options
-- [ ] 2 more options still needed (prefer departing after 08:58, in case Option 1 is missed) — pending screenshots
+- [x] Option 3 confirmed — 08:41 departure, ¥2,750 (above)
+- [ ] 1 more option still needed (prefer departing after 08:58, in case Option 1 is missed) — pending screenshot
 
 ## Notes
 - [x] Departure time confirmed (08:58, Option 1 above)
-- [x] No seat reservation needed for Option 1 — IC card tap in/out covers the whole route
-- [ ] Confirm fallback options 2 and 3
+- [x] No seat reservation needed for Option 1 or Option 3 — IC card tap in/out covers both routes
+- [ ] Confirm fallback option 2 (after 08:58)
