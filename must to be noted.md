@@ -43,6 +43,7 @@ tags: [japan, todo, check]
 - [ ] Shirakawa-go parking (Seseragi, ¥2,000, opens 08:00): confirm no reservation is needed on Nov 20 — village office 05769-6-3111
 - [ ] Book dinner in Matsumoto (Tue Nov 17) and Takayama (Kyoya takes reservations); many places close Tue/Wed
 - [ ] Not confirmed: Momiji Kairo evening illumination hours, Matsumoto Castle night lighting, koi at Hida-Furukawa (may be moved by late Nov)
+- [ ] FYI only, not acted on: a route via Hakuba Valley/Itoigawa (Nagano Expwy → coast) was suggested as a Fuji→Kanazawa stopover alternative to Matsumoto/Takayama. It would skip Takayama entirely — already booked 2 nights there — so left out unless you want to reconsider that leg
 
 ## 🎟️ Book / confirm before the trip
 - [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 11 flight), so a new card is needed then
