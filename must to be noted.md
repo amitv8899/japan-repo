@@ -22,6 +22,11 @@ tags: [japan, todo, check]
 - [ ] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
 **Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Thunderbird seat Nov 23, Matsumoto/Takayama dinners
 
+## 🆕 Added 2026-11-11 (daily brief)
+- [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
+- [ ] **Tokyo National Museum** — I could not reach tnm.jp this morning: hours, closing day (usually Monday, not Tuesday as Wanderlog says) and timed-ticket need are unverified; open on Wed either way. Check tnm.jp before going
+- [ ] Wed Nov 11 forecast (weathernews): sunny, 14/7°C, rain 20% — Nov 12 sunny 19/8°C → Shibuya Sky Thu 16:00 looks bookable; book today if you still want it
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)

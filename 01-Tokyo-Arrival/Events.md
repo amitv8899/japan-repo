@@ -22,13 +22,17 @@ tags: [japan, tokyo, events]
 - [ ] Yaki Imo Festival Tokyo — Nakano Shiki no Mori Park, to Nov 8, weekends 10:00-19:00, free entry (unverified)
 - [ ] Hanazono Shrine Antique Market — every Sun 06:30-16:00 (stalls close ~15:00), free, ~7 min walk from JR Shinjuku; skipped in bad weather
 - [ ] Asiba Matsuri, Koenji — Sun Nov 8 11:00-18:30, free, Koenji Stn north exit (rain or shine)
-- [ ] Tori-no-Ichi, Hanazono Shrine (Shinjuku) — Nov 12 and Nov 24 (eves Nov 11 / Nov 23); free; sources conflict for Asakusa dates, check torinoichi.jp
+- [ ] Tori-no-Ichi, Hanazono Shrine (Shinjuku) — CORRECTED 2026-11-11: Matcha lists 2026 dates as Nov 7 and Nov 19 (eves Nov 6 / Nov 18, from ~15:00); the earlier Nov 12/24 dates look wrong (a Tokyo Cheapo page with Nov 11 is 2025 data). Asakusa Otori Shrine: Nov 7 and Nov 19. Free; verify on torinoichi.jp
 - [ ] Marunouchi illumination — from Nov 12 (unverified); Roppongi Keyakizaka illumination from Nov 5 (unverified)
 - [ ] Shinjuku Gyoen Chrysanthemum Festival — Nov 1–15, entry ¥500, 5 min walk from Shinjuku-gyoenmae (time unverified)
 - [ ] Shinjuku Park Tower winter illumination — from mid-Nov to mid-Feb, 16:00–04:00, free (start date unverified)
 - [ ] Bunkyo Chrysanthemum Festival — Yushima Tenmangu, Nov 1–23, free; fits Wed Nov 11 Ueno day
 - [ ] Meiji Jingu Gaien Ginkgo Festival — Nov 15–Dec 8, street-food stalls (price/hours unverified)
 - [ ] Mt. Takao Autumn Leaves Festival — to ~Dec 13, free; Keio Line from Shinjuku ~50 min (dates differ by source)
+
+- [ ] Roppongi Hills Keyakizaka illumination — Nov 5 – Dec 25 (hours/price unverified); Hibiya line from Ueno to Roppongi ~25 min, good after Ueno dinner
+- [ ] Marunouchi illumination — starts Thu Nov 12 per Matcha (to Feb 14, 2027); Tokyo Station Marunouchi side
+- [ ] Rikugien autumn evening light-up — Nov 25–Dec 6, ¥1,200 (Dec stay may miss it)
 
 ## My Picks
 > [!note] Fill in your own choices here
