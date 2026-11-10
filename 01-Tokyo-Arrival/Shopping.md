@@ -50,6 +50,6 @@ tags: [japan, tokyo, shopping]
 ## My Picks
 > [!note] Fill in your own choices here
 
-- [ ] 
+- [x] Levi's Harajuku Store pickup — Thu Nov 12, window 11:00-19:00; Jingumae Green Terrace, 6 Chome-16-12 Jingumae (9 min walk from Omotesando, past Tokyu Plaza Omotesando "OMOKADO")
 - [ ] 
 - [ ] 
