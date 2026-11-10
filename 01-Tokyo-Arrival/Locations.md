@@ -33,3 +33,5 @@ tags: [japan, tokyo, locations]
 - [ ] 
 - [ ] 
 - [ ] 
+- [ ] Shimokitazawa Reload — covered shop/cafe complex, rainy-day; hours unverified
+- [ ] Shibuya Parco — Pokemon Center, Nintendo, Capcom store (rain-proof) + Mandarake nearby; hours unverified. Bigger Pokemon Center option: Mega Tokyo, Ikebukuro Sunshine City
