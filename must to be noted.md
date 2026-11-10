@@ -12,7 +12,6 @@ tags: [japan, todo, check]
 **Tonight / Mon Nov 9 morning (before shopping):**
 - [ ] 1. **Amit's call to Toyota Shinjuku 03-3341-2603** (winter tires handled by Amit — closed). Same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
 - [ ] 2. **Book Shibuya Sky for THU Nov 12 ~16:00 (moved from Tue because of rain; book only after checking the Nov 12 forecast)** (sunset ~16:35): shibuya-scramble-square.com/sky — whole deck needs a timed ticket (45F-only option unverified); rooftop is weather-dependent
-- [ ] 3. **Book the return Nikko → Tokyo train, Sun Nov 15** (Tobu; time and seat) — the 14:00 car pickup depends on it. Fallback: buy at Tobu-Nikko station Nov 13-14
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
   - 2026-11-10: still unbooked; window open (~2 weeks ahead), book by Wed Nov 11 if Nov 12 forecast is clear
@@ -36,7 +35,8 @@ tags: [japan, todo, check]
 
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
 - [ ] **Nov 15 pickup is 14:00 but sunset is 16:39** — ask Toyota Shinjuku (03-3341-2603) for an earlier pickup, or accept that Oshino Hakkai will be at dusk
-- [ ] **BOOK the return Nikko → Tokyo train Nov 15 (still unbooked)** — no time or seat yet; Tobu/Spacia seats can be reserved at Tobu-Nikko station or online; the car pickup depends on it ([[Legs/02-Nikko-to-Tokyo]]); the car pickup depends on it
+- [x] ~~Return Nikko → Tokyo train, Nov 15~~ — done: 3 options set (08:58/09:32/08:41, all IC card, no reservation), see [[Legs/02-Nikko-to-Tokyo]]
+- [ ] **Chuzenji → Tobu Nikko Station, Nov 15 morning** — Chuzenji Kanaya Hotel is up at Lake Chuzenji, not at the station; bus down Irohazaka is typically 45-60 min, no schedule confirmed yet. Taxi is also an option — ask the hotel (call ahead or at check-in) to arrange the way down and confirm timing either way. This determines what time to leave the hotel for the 08:58 train
 - [ ] **Route 158 landslide (Takayama ↔ Hirayu)** — last info I found (Jul 14): reopening undetermined, detour via Takayama city roads ~+10 min. Check okuhida.or.jp/en/topics on the morning of Nov 18
 - [ ] **Switch the return shop** to Kanazawa Station East Exit and check the ETC card is included ([[Car Trip]])
 - [ ] **Parking** cost and availability unknown at Hotel Regina, Hotel Buena Vista, hotel around TAKAYAMA (2 nights), KUMU if keeping the car
@@ -62,6 +62,8 @@ tags: [japan, todo, check]
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set
 - [ ] Wanderlog "book ahead": Uobei Shibuya, Shodai, Starbucks Reserve Roastery Tokyo, Tokyo DisneySea (if going)
 - [ ] Tokyo winter/autumn illumination dates (Meguro River, Marunouchi, Roppongi) — not confirmed for 2026
+- [ ] **Meiji Jingu Gaien ginkgo avenue (Icho Namiki), planned Dec 8-12** — a source describes peak as "mid-Nov to early Dec, late Nov often best, timing shifts yearly." Your visit sits at the tail end of that window — real chance it's past peak or bare by then. No better slot currently available (Nov 7-13 stay is confirmed too early), so just a risk to go in aware of, check closer to the date
+  - The source photos were specifically **night illumination** shots, not daytime foliage — Jingu Gaien usually runs its own Icho Matsuri light-up event with its own date range, separate from general peak-foliage timing (same pattern as Fujikawaguchiko's Momiji Kairo). 2026 illumination dates not confirmed — check jingugaien-icho.jp closer to Dec
 
 ## 🦀 Kanazawa (Nov 20-23) — see [[06-Kanazawa/Itinerary]]
 - [ ] **Book Sushi Ikuta** — 8 seats, ~¥18,700 pp, planned Sat Nov 21 ~19:45; ask for a 19:30-20:00 seating

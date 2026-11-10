@@ -19,7 +19,7 @@ tags: [japan, tokyo, locations]
 - [ ] Odaiba / Toyosu Market tuna auction viewing
 - [ ] Last Fuji-view: Tokyo Tower or Skytree at sunset
 - [ ] Ueno Park + Tokyo National Museum (closed Tue; book ahead) — Dec 10
-- [ ] Foliage peak ~Nov 30–early Dec: Shinjuku Gyoen (¥500), Meiji Jingu Gaien ginkgo avenue, Rikugien
+- [ ] Foliage peak ~Nov 30–early Dec: Shinjuku Gyoen (¥500), Meiji Jingu Gaien ginkgo avenue (Icho Namiki — short walk from Gaienmae Stn, Ginza Line, or Aoyama-itchome Stn), Rikugien
 - [ ] Tokyo DisneySea — optional full day, book ahead; would replace the Dec 10 Ueno day
 
 ## My Picks
