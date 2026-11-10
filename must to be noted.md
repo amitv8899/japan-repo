@@ -61,6 +61,7 @@ tags: [japan, todo, check]
 - [ ] Wanderlog "book ahead": Uobei Shibuya, Shodai, Starbucks Reserve Roastery Tokyo, Tokyo DisneySea (if going)
 - [ ] Tokyo winter/autumn illumination dates (Meguro River, Marunouchi, Roppongi) — not confirmed for 2026
 - [ ] **Meiji Jingu Gaien ginkgo avenue (Icho Namiki), planned Dec 8-12** — a source describes peak as "mid-Nov to early Dec, late Nov often best, timing shifts yearly." Your visit sits at the tail end of that window — real chance it's past peak or bare by then. No better slot currently available (Nov 7-13 stay is confirmed too early), so just a risk to go in aware of, check closer to the date
+  - The source photos were specifically **night illumination** shots, not daytime foliage — Jingu Gaien usually runs its own Icho Matsuri light-up event with its own date range, separate from general peak-foliage timing (same pattern as Fujikawaguchiko's Momiji Kairo). 2026 illumination dates not confirmed — check jingugaien-icho.jp closer to Dec
 
 ## 🦀 Kanazawa (Nov 20-23) — see [[06-Kanazawa/Itinerary]]
 - [ ] **Book Sushi Ikuta** — 8 seats, ~¥18,700 pp, planned Sat Nov 21 ~19:45; ask for a 19:30-20:00 seating
