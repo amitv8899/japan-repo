@@ -29,7 +29,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-21 | Sat | Kanazawa |  | 08:00 Kenrokuen → 10:00 Castle Park → 11:30 Oyama Shrine → 12:15 Omicho crab lunch (out by 14:00) → 14:15 21st Century Museum (open to 20:00) → 16:30 rest → 18:00 Kenrokuen illumination (free) → 19:45 Sushi Ikuta (BOOK) | KUMU Kanazawa |
 | 2026-11-22 | Sun | Kanazawa |  | Sunday: Omicho half closed. 09:30 Myoryuji ninja temple (phone-book, ¥1,200 cash) → 10:45 Nagamachi + Nomura-ke (to 16:30) → 12:45 lunch → 14:15 Nishi Chaya + Kutani → 15:45 sake tasting → 19:00 Yakitori Ryo (illumination optional) | KUMU Kanazawa |
 | 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | National holiday. 09:00 check out → station gifts + gold leaf (Rinto/Anto) → ~10:30 Kanazawa Stn: receive tickets (early lunch or ekiben) → 11:05 Hakutaka 553 (car 10, 16-D/E) → 12:02 Tsuruga, change (12 min) → 12:14 Thunder-Bird 20 (car 11, 14-C/D) → Kyoto 13:09 (check-in from 15:00, drop bags) | Good Nature |
-| 2026-11-24 | Tue | Kyoto |  | 20:00 Yakiniku Genshu Eishu (2p) | Good Nature |
+| 2026-11-24 | Tue | Kyoto |  | 09:00-09:30 entry window: teamLab Biovortex Kyoto (2 adults, Higashikujo, Minami-ku; QR ticket in email) → 20:00 Yakiniku Genshu Eishu (2p) | Good Nature |
 | 2026-11-25 | Wed | Kyoto |  | | Good Nature |
 | 2026-11-26 | Thu | Kyoto |  | | Good Nature |
 | 2026-11-27 | Fri | Kyoto |  | | Good Nature |

@@ -39,6 +39,8 @@ tags: [japan, todo, check]
 - [ ] **Receive the paper tickets, Sun Nov 29 at Kyoto Station** before the 09:25 departure — physical Mastercard ending 8918 + the 4-digit ID number (same hint). Be there ~08:55
 - [ ] **Nov 23 departure is earlier than planned** (11:05, not ~12:00) — gifts/gold leaf and lunch before 10:30 are tight: take an ekiben for the train, and forward big bags to Good Nature if needed
 
+- [ ] **teamLab Biovortex Kyoto, Tue Nov 24, entry 09:00-09:30** (booked, 2 adults, ¥9,200) — before the day: open the confirmation email and screenshot the 2D code (offline backup); set the sender @kyoto.tickets.teamlab.art as allowed; leave Good Nature ~08:15. Slot can be changed up to 3 times, until 2h before → [[07-Kyoto/Events]]
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
