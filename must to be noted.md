@@ -24,6 +24,11 @@ tags: [japan, todo, check]
 - [ ] **Tokyo National Museum** — I could not reach tnm.jp this morning: hours, closing day (usually Monday, not Tuesday as Wanderlog says) and timed-ticket need are unverified; open on Wed either way. Check tnm.jp before going
 - [ ] Wed Nov 11 forecast (weathernews): sunny, 14/7°C, rain 20% — Nov 12 sunny 19/8°C
 
+## 🆕 Added 2026-11-12 (daily brief)
+- [ ] **Goku Harajuku is listed as WAGYU SUKIYAKI, not ramen** (TableCheck: 3-23-2 Jingumae, 03-5843-0255, sukiyaki sets ¥4,800-10,800, hours/closed days not stated) — confirm it is the right place for 12:30 lunch; reserve via TableCheck/phone or pick another lunch
+- [ ] **Marunouchi illumination starts TODAY Nov 12** (lighting ceremony, so start time differs; normally 16:00-23:00, Marunouchi Naka-dori by Tokyo Station) — optional add-on; Roppongi 66 Plaza + Mohri Garden lights only start Nov 13
+- [ ] Weather for Nov 12 only climatology (partly cloudy, ~17/9°C, unverified) — check a live forecast in the morning
+
 ## 🌙 Added 2026-11-11 (evening prep)
 - [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
 - [ ] **Thu Nov 12: glasses turnaround** — ask at the shop at 11:00 whether lenses are ready same day; if not, pick up at Dec 8-12 Tokyo stay or skip. Also confirm Wagyu Ramen Goku hours/queue and Keyakizaka lights (christmas.hills-site.com)

@@ -34,6 +34,9 @@ tags: [japan, tokyo, events]
 - [ ] Marunouchi illumination — starts Thu Nov 12 per Matcha (to Feb 14, 2027); Tokyo Station Marunouchi side
 - [ ] Rikugien autumn evening light-up — Nov 25–Dec 6, ¥1,200 (Dec stay may miss it)
 
+- [ ] Roppongi Hills 66 Plaza (Nov 13-Dec 27, 17:00-24:00) and Mohri Garden (Nov 13-Dec 25, 17:00-23:00) illuminations; Roppongi Hills Christmas Market at Oyane Plaza Nov 21-Dec 25, 11:00-21:00 (haveagood-holiday.com, 2026-11-12)
+- [ ] Marunouchi Illumination opens Thu Nov 12 (lighting ceremony), 16:00-23:00 to Feb 14 2027, Marunouchi Naka-dori (visit-chiyoda.tokyo)
+
 ## My Picks
 > [!note] Fill in your own choices here
 
