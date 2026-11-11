@@ -26,6 +26,7 @@ tags: [japan, todo, check]
 
 ## 🌙 Added 2026-11-11 (evening prep)
 - [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
+- [ ] **Thu Nov 12: glasses turnaround** — ask at the shop at 11:00 whether lenses are ready same day; if not, pick up at Dec 8-12 Tokyo stay or skip. Also confirm Wagyu Ramen Goku hours/queue and Keyakizaka lights (christmas.hills-site.com)
 - [ ] **Luggage Nov 13** — Keio Plaza checkout is Fri Nov 13; decide tonight whether to forward big bags (hotel takkyubin ~¥2,000-3,000/bag, front desk) to Chuzenji Kanaya or the Nov 15 pickup point; pack a 2-night bag for Nikko
 
 ## ✈️ Flights
