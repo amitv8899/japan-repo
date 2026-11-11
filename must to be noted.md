@@ -27,6 +27,12 @@ tags: [japan, todo, check]
 - [ ] **Tokyo National Museum** — I could not reach tnm.jp this morning: hours, closing day (usually Monday, not Tuesday as Wanderlog says) and timed-ticket need are unverified; open on Wed either way. Check tnm.jp before going
 - [ ] Wed Nov 11 forecast (weathernews): sunny, 14/7°C, rain 20% — Nov 12 sunny 19/8°C → Shibuya Sky Thu 16:00 looks bookable; book today if you still want it
 
+## 🌙 Added 2026-11-11 (evening prep)
+- [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
+- [ ] **Shibuya Sky Thu 16:00** — I could not confirm live availability or the Nov 12 forecast (search returned no content); check shibuya-scramble-square.com/sky and a forecast tonight before booking
+- [ ] **Luggage Nov 13** — Keio Plaza checkout is Fri Nov 13; decide tonight whether to forward big bags (hotel takkyubin ~¥2,000-3,000/bag, front desk) to Chuzenji Kanaya or the Nov 15 pickup point; pack a 2-night bag for Nikko
+- [ ] Shinjuku Gyoen (¥500) closing time/closed days unverified — usually closed Mondays, last entry ~16:00-16:30 in Nov; Thu should be open
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
