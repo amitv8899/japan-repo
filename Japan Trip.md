@@ -52,7 +52,6 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 
 ### Reservations (book weeks ahead)
 - [ ] teamLab tickets (Tokyo)
-- [ ] Shibuya Sky sunset slot
 - [ ] Kyoto kaiseki / tea ceremony
 - [ ] Kyoto autumn **night illuminations** (Tofuku-ji, Kiyomizu-dera, Eikando) — confirm 2026 dates
 - [ ] Onsen ryokan dinners (Fujikawaguchiko, Hakone)

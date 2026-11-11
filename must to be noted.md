@@ -11,11 +11,8 @@ tags: [japan, todo, check]
 ## 🔥 Do first — ranked (added 2026-11-08 evening)
 **Tonight / Mon Nov 9 morning (before shopping):**
 - [ ] 1. **Amit's call to Toyota Shinjuku 03-3341-2603** (winter tires handled by Amit — closed). Same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
-- [ ] 2. **Book Shibuya Sky for THU Nov 12 ~16:00 (moved from Tue because of rain; book only after checking the Nov 12 forecast)** (sunset ~16:35): shibuya-scramble-square.com/sky — whole deck needs a timed ticket (45F-only option unverified); rooftop is weather-dependent
 - [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
-  - 2026-11-10: still unbooked; window open (~2 weeks ahead), book by Wed Nov 11 if Nov 12 forecast is clear
-  - 2026-11-09: Shibuya Sky tickets reportedly open ~2 weeks ahead (so Nov 11 slot should be bookable now; 45F-only option still unverified)
 **This week:**
 - [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
@@ -25,13 +22,11 @@ tags: [japan, todo, check]
 ## 🆕 Added 2026-11-11 (daily brief)
 - [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
 - [ ] **Tokyo National Museum** — I could not reach tnm.jp this morning: hours, closing day (usually Monday, not Tuesday as Wanderlog says) and timed-ticket need are unverified; open on Wed either way. Check tnm.jp before going
-- [ ] Wed Nov 11 forecast (weathernews): sunny, 14/7°C, rain 20% — Nov 12 sunny 19/8°C → Shibuya Sky Thu 16:00 looks bookable; book today if you still want it
+- [ ] Wed Nov 11 forecast (weathernews): sunny, 14/7°C, rain 20% — Nov 12 sunny 19/8°C
 
 ## 🌙 Added 2026-11-11 (evening prep)
 - [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
-- [ ] **Shibuya Sky Thu 16:00** — I could not confirm live availability or the Nov 12 forecast (search returned no content); check shibuya-scramble-square.com/sky and a forecast tonight before booking
 - [ ] **Luggage Nov 13** — Keio Plaza checkout is Fri Nov 13; decide tonight whether to forward big bags (hotel takkyubin ~¥2,000-3,000/bag, front desk) to Chuzenji Kanaya or the Nov 15 pickup point; pack a 2-night bag for Nikko
-- [ ] Shinjuku Gyoen (¥500) closing time/closed days unverified — usually closed Mondays, last entry ~16:00-16:30 in Nov; Thu should be open
 
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
@@ -60,8 +55,7 @@ tags: [japan, todo, check]
 - [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 11 flight), so a new card is needed then
 - [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku.
 - [x] ~~Mon Nov 9 rain~~ — plan changed 2026-11-08: Mon = indoor shopping/rest day (Senso-ji/Kappabashi moved to Wed option)
-- [ ] (old) Mon Nov 9 forecast: rain in the morning (~5 mm, ~10°C)** — 07:00 Senso-ji and Kappabashi will be wet; bring an umbrella/rain jacket, consider swapping to an indoor morning (Yr, 2026-11-08; check again tonight). Shibuya Sky sunset still needs booking
-- [ ] **Shibuya Sky sunset slot (moved to Thu Nov 12, 16:00; rain on Nov 10)** — Amit asks whether 45F alone (no 46F rooftop ticket) is OK: unverified, I believe one timed ticket is needed for the whole deck; rooftop is outdoors/weather-dependent. Check shibuya-scramble-square.com/sky — not booked; sunset slots sell out. Online adult ¥2,700 before 15:00, ¥3,400 from 15:00 (GO TOKYO, Apr 2026); if no slot, fallback is free Tokyo Metropolitan Govt Building deck
+- [ ] (old) Mon Nov 9 forecast: rain in the morning (~5 mm, ~10°C)** — 07:00 Senso-ji and Kappabashi will be wet; bring an umbrella/rain jacket, consider swapping to an indoor morning (Yr, 2026-11-08; check again tonight).
 - [ ] **Tokyo City Flea Market, Sun Nov 8** (Oi Racecourse, free, 09:00-14:30, cancelled if rain) — third-party listings only; check the organiser's Instagram @tokyocity_fleamarket that morning
   - ⚠️ Evening prep 2026-11-07: Tokyo Cheapo lists Oi dates Sat Nov 7, 14, 21, 23 (none for Sun Nov 8) — it may NOT run tomorrow; confirm on the Instagram tonight, else start with Meiji Jingu
   - 2026-11-08 brief: the Tokyo Cheapo listing is a Nov 7–8 span, so it probably runs today; forecast dry (16/10°C). Still confirm on @tokyocheapo's Instagram before leaving. Backup: Hanazono Shrine antique market (Shinjuku, Sun 06:30-16:00, free, stalls close ~15:00, skipped in bad weather)
@@ -69,7 +63,7 @@ tags: [japan, todo, check]
 - [ ] Wed Nov 11: confirm Tokyo National Museum needs a timed ticket (Wanderlog said book ahead) and which Ameyoko shops close Wed; museum is closed Tue, so Ueno must stay Wed (Dec 10 Ueno day removed as duplicate)
 - [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
 - [ ] Tokyo National Museum (planned Dec 10) — Wanderlog says closed Tue; confirm
-- [ ] **Confirm which temple Amit meant** ("far, with the cats") — guess Gotokuji (Setagaya); planned for Tue Nov 10 with Shimokitazawa. Thu Nov 12 is the last Tokyo day (Shinjuku Gyoen or Nakano Broadway, Shibuya Sky, 20:00 Maguro Mart) — add anything missing
+- [ ] **Confirm which temple Amit meant** ("far, with the cats") — guess Gotokuji (Setagaya); planned for Tue Nov 10 with Shimokitazawa. Thu Nov 12 is the last Tokyo day (Nikko tickets, glasses, Levi's, Goku ramen, 20:00 Maguro Mart) — add anything missing
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set
 - [ ] Wanderlog "book ahead": Uobei Shibuya, Shodai, Starbucks Reserve Roastery Tokyo, Tokyo DisneySea (if going)
 - [ ] Tokyo winter/autumn illumination dates (Meguro River, Marunouchi, Roppongi) — not confirmed for 2026
