@@ -19,6 +19,7 @@ tags: [japan, tokyo, general]
 - [ ] Set up eSIM before landing; grab pocket wifi only if multiple devices
 - [ ] Luggage forward (takuhaibin) from hotel to later stay if skipping a leg
 - [ ] Emergency: Police 110, Fire/Ambulance 119
+- [ ] Thu Nov 12 transit (est., unverified): Roppongi → Nakano ~40 min by train (taxi ~27 min, ~¥4,500-6,000); Keio Plaza → Nakano by JR Chuo via Shinjuku ~20-25 min door to door (~¥170), taxi ~¥2,000-2,800; leave Roppongi 18:30 for 20:00 Maguro Mart; Nakano Broadway shops mostly close ~20:00
 
 ## My Picks
 > [!note] Fill in your own choices here

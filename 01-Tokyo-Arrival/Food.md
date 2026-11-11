@@ -34,6 +34,7 @@ tags: [japan, tokyo, food]
 - [ ] Hamburg Yoshi — hamburg steak
 - [ ] Wagyu Burger Hirokiya
 - [ ] Shogun Burger Shinjuku
+- [ ] Wagyu Ramen Goku — planned Thu Nov 12 ~12:30, near Levi's Jingumae (hours/queue unverified; arrive ~12:15)
 
 ## My Picks
 > [!note] Fill in your own choices here

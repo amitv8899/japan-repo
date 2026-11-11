@@ -34,6 +34,7 @@ tags: [japan, tokyo, shopping]
 - [ ] 2nd Street (secondhand) — incl. Ueno Marui
 - [ ] Glasses — JINS Shinjuku Odakyu Ace, Zoff Keio Dept Store Shinjuku, OWNDAYS Shinjuku East Exit
 - [ ] Tax-free: bring passport, single-store ¥5,000+
+- [ ] Glasses for wife — Thu Nov 12 11:00, Jingumae (near Levi's); ask if lenses are ready same day, else pickup Dec 8-12 or skip
 
 ## Mon Nov 9 — rainy shopping day (all indoor / underground, Shinjuku)
 - [ ] 08:00 admin at hotel: items 1–3 in [[must to be noted]] (tires call, Shibuya Sky Wed, Nikko return train) + forecast
