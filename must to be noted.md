@@ -6,7 +6,7 @@ tags: [japan, todo, check]
 # ⚠️ Must be noted — things to check
 
 > [!warning] Claude must tell you what's open here at the start of every chat.
-> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-08.
+> Tick `[x]` when done; delete a line once it no longer matters. Last updated: 2026-11-11.
 
 ## 🔥 Do first — ranked (added 2026-11-08 evening)
 **Tonight / Mon Nov 9 morning (before shopping):**
@@ -17,7 +17,7 @@ tags: [japan, todo, check]
 - [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
 - [ ] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
-**Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Thunderbird seat Nov 23, Matsumoto/Takayama dinners
+**Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
 
 ## 🆕 Added 2026-11-11 (daily brief)
 - [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
@@ -28,6 +28,16 @@ tags: [japan, todo, check]
 - [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
 - [ ] **Thu Nov 12: glasses turnaround** — ask at the shop at 11:00 whether lenses are ready same day; if not, pick up at Dec 8-12 Tokyo stay or skip. Also confirm Wagyu Ramen Goku hours/queue and Keyakizaka lights (christmas.hills-site.com)
 - [ ] **Luggage Nov 13** — Keio Plaza checkout is Fri Nov 13; decide tonight whether to forward big bags (hotel takkyubin ~¥2,000-3,000/bag, front desk) to Chuzenji Kanaya or the Nov 15 pickup point; pack a 2-night bag for Nikko
+
+## 🚄 Added 2026-11-11 (train bookings) — Claude: keep reminding Amit at the start of every chat and in every daily brief until each box is ticked
+- [x] Kanazawa → Kyoto, Mon Nov 23 — booked (Hakutaka 553 11:05 + Thunder-Bird 20, arrive 13:09; res. 44711) → [[Legs/03-Kanazawa-to-Kyoto]]
+- [x] Kyoto → Hiroshima, Sun Nov 29 — booked (Nozomi 9, 09:25 → 11:02; res. 48196) → [[Legs/04-Kyoto-to-Hiroshima]]
+- [ ] **BOOK Hiroshima → Shin-Osaka, Tue Dec 1** — Amit plans to book within 1-2 days (target Fri Nov 13). Miyajima ferry + JR local to Hiroshima first, then the Shinkansen; sales open since Nov 1 → [[Legs/06-Itsukushima-to-Osaka]]
+- [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama (Nozomi may not stop at Odawara — verify on the booking site); sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]]
+- [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]]
+- [ ] **Receive the paper tickets, Mon Nov 23 at Kanazawa Station** before the 11:05 departure — physical VISA ending 3275 + the 4-digit ID number (hint: Steven Gerrard double and Torres double). Never write the number in the vault. Be there ~10:30; confirm Kanazawa Station is on JR West's pickup list
+- [ ] **Receive the paper tickets, Sun Nov 29 at Kyoto Station** before the 09:25 departure — physical Mastercard ending 8918 + the 4-digit ID number (same hint). Be there ~08:55
+- [ ] **Nov 23 departure is earlier than planned** (11:05, not ~12:00) — gifts/gold leaf and lunch before 10:30 are tight: take an ekiben for the train, and forward big bags to Good Nature if needed
 
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
@@ -74,7 +84,7 @@ tags: [japan, todo, check]
 ## 🦀 Kanazawa (Nov 20-23) — see [[06-Kanazawa/Itinerary]]
 - [ ] **Book Sushi Ikuta** — 8 seats, ~¥18,700 pp, planned Sat Nov 21 ~19:45; ask for a 19:30-20:00 seating
 - [ ] **Book Myoryuji ninja temple by phone** — 076-241-0888 (08:30-17:00 JST, English OK on the phone; tour is in Japanese; ¥1,200 cash); target Sun Nov 22 09:30
-- [ ] **Reserve Thunderbird seat Kanazawa → Kyoto, Mon Nov 23 (~12:00)** — national holiday + foliage weekend; see [[Legs/03-Kanazawa-to-Kyoto]]
+- [x] ~~Reserve Thunderbird seat Kanazawa → Kyoto, Mon Nov 23~~ — done 2026-11-11: Hakutaka 553 11:05 + Thunder-Bird 20, arrive Kyoto 13:09 (res. 44711), see [[Legs/03-Kanazawa-to-Kyoto]]
 - [ ] **Car return Nov 20** — plan returns it ~12:15 but reservation says 16:00; confirm early return is OK, and the East Exit shop switch + winter tires are still open ([[Car Trip]])
 - [ ] Omicho: Sun Nov 22 and Mon Nov 23 (holiday) about half the shops are closed, some also close Wednesdays — eat there Fri/Sat; confirm on ohmicho-ichiba.com
 - [ ] Not confirmed from a source: KUMU check-in/check-out times, hours for Unagi Kikukawa, Yakitori Ryo, sake tasting spot, Nishi Chaya / Myoryuji walking times
