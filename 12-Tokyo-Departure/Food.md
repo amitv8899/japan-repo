@@ -20,7 +20,7 @@ tags: [japan, tokyo, food]
 - [ ] Rare Tendon Ginza Mitsuyoshi Ginza Honten — tendon (Dec 8, walkable from hotel)
 - [ ] Ginza Kagari (Otemachi) — ramen
 - [ ] Coco Nemaru Ginza
-- [ ] Yoroniku Tokyo Azabudai Hills — yakiniku (pairs with teamLab Dec 9)
+- [ ] Yoroniku Tokyo Azabudai Hills — yakiniku (Azabudai Hills; pairs with the optional teamLab Dec 9)
 - [ ] Ameyoko Market (Ueno) — food market (Dec 10)
 - [ ] Starbucks Reserve Roastery Tokyo (Nakameguro) — book ahead
 

@@ -13,7 +13,7 @@ tags: [japan, tokyo, locations]
 
 ## Suggestions
 - [ ] Neighborhoods you missed: Yanaka (old town), Nakameguro (Shimokitazawa moved to Nov 12)
-- [ ] Ginza + teamLab Borderless (MORI Building, Azabudai Hills) — closed Tue; book ahead (Dec 9)
+- [ ] Ginza + (optional, no reminder) teamLab Borderless (MORI Building, Azabudai Hills) — only if we like Biovortex Kyoto; closed some Tuesdays (Dec 9 is Wed)
 - [ ] Tokyo Station + Marunouchi + Imperial Palace East Gardens
 - [ ] Akihabara (electronics/anime), Ueno (museums + park)
 - [ ] Odaiba / Toyosu Market tuna auction viewing

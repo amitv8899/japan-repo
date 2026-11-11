@@ -51,7 +51,7 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] Verify EY800 time (11:40 vs 13:15 landing) and decide whether to shorten the Blossom Hibiya stay (free cancel to Dec 4)
 
 ### Reservations (book weeks ahead)
-- [ ] teamLab tickets (Tokyo) — Kyoto Biovortex Nov 24 already booked
+- [x] teamLab Kyoto Biovortex Nov 24 booked (Tokyo Borderless Dec 9 is optional — no reminder)
 - [ ] Kyoto kaiseki / tea ceremony
 - [ ] Kyoto autumn **night illuminations** (Tofuku-ji, Kiyomizu-dera, Eikando) — confirm 2026 dates
 - [ ] Onsen ryokan dinners (Fujikawaguchiko, Hakone)

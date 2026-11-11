@@ -74,7 +74,6 @@ tags: [japan, todo, check]
   - 2026-11-08 brief: the Tokyo Cheapo listing is a Nov 7–8 span, so it probably runs today; forecast dry (16/10°C). Still confirm on @tokyocheapo's Instagram before leaving. Backup: Hanazono Shrine antique market (Shinjuku, Sun 06:30-16:00, free, stalls close ~15:00, skipped in bad weather)
 - [ ] Tue Nov 10 rain plan: still unverified hours for Capcom Store and Mandarake. Found 2026-11-10: Gotokuji 06:00-17:00 free; Reload complex 09:00-24:00 (varies by shop); Pokemon Center 10:00-21:00 (2024 source); Nintendo Tokyo 10:00-20:00
 - [ ] Wed Nov 11: confirm Tokyo National Museum needs a timed ticket (Wanderlog said book ahead) and which Ameyoko shops close Wed; museum is closed Tue, so Ueno must stay Wed (Dec 10 Ueno day removed as duplicate)
-- [ ] teamLab Borderless (planned Dec 9) — **verify closing day** (first Wanderlog export said closed Tue, the second dropped it)
 - [ ] Tokyo National Museum (planned Dec 10) — Wanderlog says closed Tue; confirm
 - [ ] **Confirm which temple Amit meant** ("far, with the cats") — guess Gotokuji (Setagaya); planned for Tue Nov 10 with Shimokitazawa. Thu Nov 12 is the last Tokyo day (Nikko tickets, glasses, Levi's, Goku ramen, 20:00 Maguro Mart) — add anything missing
 - [ ] Dojima Yakiniku, Osaka (Dec 3 dinner) — no time or reservation set
