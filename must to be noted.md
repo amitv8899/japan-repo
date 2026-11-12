@@ -48,6 +48,11 @@ tags: [japan, todo, check]
 
 - [ ] **teamLab Biovortex Kyoto, Tue Nov 24, entry 09:00-09:30** (booked, 2 adults, ¥9,200) — before the day: open the confirmation email and screenshot the 2D code (offline backup); set the sender @kyoto.tickets.teamlab.art as allowed; leave Good Nature ~08:15. Slot can be changed up to 3 times, until 2h before → [[07-Kyoto/Events]]
 
+## 🌙 Added 2026-11-12 (evening prep)
+- [ ] **Fri Nov 13 — getting from Tobu-Nikko to Chuzenji Kanaya:** the hotel's free shuttle (no reservation) leaves the Tobu Sightseeing Bus Stop at 10:00 (too early), **14:30 (arr. 15:20)** and 16:40 (arr. 17:30) on weekdays. Train arrives 11:31, so either sightsee in town and take the 14:30 shuttle (check-in is 15:00) or use the Tobu bus up Irohazaka. Tobu warns autumn bus trips to Chuzenji can take 2h+ longer than usual — don't plan a tight schedule. Source: kanayahotel.co.jp/en/shuttle. Confirm with the hotel.
+- [ ] **Nov 15 return:** the hotel shuttle's weekday Chuzenji → Tobu-Nikko runs 8:50 (arr. 9:40) — too late for the 08:58 train; the Sunday timetable isn't listed. Ask the hotel at check-in about a taxi/earlier option (updates the Chuzenji → Tobu Nikko item under Road trip)
+- [ ] Nikko Nov 13 forecast (Ventusky, Nikko town, not Chuzenji): clear, ~4°C at dawn, ~17°C afternoon, no rain; Chuzenji will be colder
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
