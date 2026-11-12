@@ -11,12 +11,12 @@ tags: [japan, todo, check]
 ## 🔥 Do first — ranked (added 2026-11-08 evening)
 **Tonight / Mon Nov 9 morning (before shopping):**
 - [ ] 1. **Amit's call to Toyota Shinjuku 03-3341-2603** (winter tires handled by Amit — closed). Same call: earlier pickup Nov 15, return shop → Kanazawa Station East Exit, ETC card, parking tips
-- [ ] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
+- [x] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
 **This week:**
 - [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
-- [ ] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
+- [x] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
 **Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
 
 ## 🆕 Added 2026-11-11 (daily brief)
@@ -32,7 +32,7 @@ tags: [japan, todo, check]
 - [ ] **Nikko ticket pickup spot:** JR EAST Travel Service Center, right after the New South Ticket Gate at JR Shinjuku, 08:00-19:00 daily (jreast.co.jp). Collect TODAY Nov 12 (day before); whether it issues reserved-seat tickets is unverified, fallback = Midori no Madoguchi / reserved-seat machine. Free cancel until 21:00 tonight
 
 ## 🌙 Added 2026-11-11 (evening prep)
-- [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
+- [x] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
 - [ ] **Thu Nov 12: glasses turnaround** — ask at the shop at 11:00 whether lenses are ready same day; if not, pick up at Dec 8-12 Tokyo stay or skip. Also confirm Wagyu Ramen Goku hours/queue and Keyakizaka lights (christmas.hills-site.com)
 - [ ] **Luggage Nov 13** — Keio Plaza checkout is Fri Nov 13; decide tonight whether to forward big bags (hotel takkyubin ~¥2,000-3,000/bag, front desk) to Chuzenji Kanaya or the Nov 15 pickup point; pack a 2-night bag for Nikko
 
@@ -61,7 +61,7 @@ tags: [japan, todo, check]
 - [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; decide whether to shorten
 
 ## 🚆 Transport
-- [ ] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
+- [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
   - 2026-11-08: FOUND — reservation no. **E19958**, QR + pickup code in Gmail ("Fwd: [Reservation accepted] …11/13", from homeaa8899@gmail.com). Take it to a staff-run JR counter / reserved-seat machine with passport; basic fare may also be needed (check at counter). Fallback unchanged
 
 ## 🚗 Road trip (Nov 15-20) — see [[Road Trip]]
