@@ -60,6 +60,7 @@ tags: [japan, todo, check]
 - [ ] **Meals at Kanaya:** vault has no meal plan for the stay ("Paid in full" only) — confirm whether dinner/breakfast are included before choosing tonight's dinner
 - [ ] **Sun Nov 15 rain:** yr.no shows 8.2 mm for Nikko (morning light rain, afternoon rain). Irohazaka bus/taxi down to the 08:58 train and Oshino Hakkai at dusk will be wet — pack rain gear, decide on taxi when you check in
 - [ ] Rinnoji/Shoyoen and Futarasan hours + fees unverified; Nikko-town foliage status unverified (latest report Oct 22: Chuzenji/Kegon approaching peak, Senjogahara/Ryuzu peak) — expect past peak up high
+- [ ] **Spacia Nikko 1 (09:34) platform at JR Shinjuku unverified** — no 2026 source gives it (a 2019 Spacia Kinugawa used Platform 5). Ekitan says Nikko service runs "mainly on weekends and holidays" and Nov 13 is a Friday; your reservation E19958 exists, but confirm on the departure board / with staff at the Shinjuku ticket counter that train 1 is running
 - [ ] Past-dated items (Nov 9-12: glasses, Goku Harajuku, Marunouchi lights, Tokyo National Museum, Tori-no-Ichi) — tick or delete once you confirm they happened
 
 ## ✈️ Flights
