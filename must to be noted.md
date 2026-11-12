@@ -29,6 +29,8 @@ tags: [japan, todo, check]
 - [ ] **Marunouchi illumination starts TODAY Nov 12** (lighting ceremony, so start time differs; normally 16:00-23:00, Marunouchi Naka-dori by Tokyo Station) — optional add-on; Roppongi 66 Plaza + Mohri Garden lights only start Nov 13
 - [ ] Weather for Nov 12 only climatology (partly cloudy, ~17/9°C, unverified) — check a live forecast in the morning
 
+- [ ] **Nikko ticket pickup spot:** JR EAST Travel Service Center, right after the New South Ticket Gate at JR Shinjuku, 08:00-19:00 daily (jreast.co.jp). Collect TODAY Nov 12 (day before); whether it issues reserved-seat tickets is unverified, fallback = Midori no Madoguchi / reserved-seat machine. Free cancel until 21:00 tonight
+
 ## 🌙 Added 2026-11-11 (evening prep)
 - [ ] **Thu Nov 12 is the last day to collect the Nikko ticket (E19958) and cancel free (21:00 Nov 12)** — item 4 still unticked; pick up at JR Shinjuku Midori no Madoguchi in the morning, not Fri 09:00
 - [ ] **Thu Nov 12: glasses turnaround** — ask at the shop at 11:00 whether lenses are ready same day; if not, pick up at Dec 8-12 Tokyo stay or skip. Also confirm Wagyu Ramen Goku hours/queue and Keyakizaka lights (christmas.hills-site.com)
