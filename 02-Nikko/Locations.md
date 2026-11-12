@@ -20,6 +20,9 @@ tags: [japan, nikko, locations]
 - [ ] Nikko Futarasan Shrine — mountain-top Shinto shrine, 8th-century origins
 - [ ] ~~Akechidaira Ropeway~~ — CLOSED for renewal from Jan 16, 2026 until ~Sept 2027; not available on this trip
 - [ ] Kanmangafuchi Abyss — row of Jizo statues, quiet walk
+- [ ] Shoyoen Garden (Rinnoji) — pond maples, "approaching peak" on Oct 22 (japan-guide); hours/fee unverified
+- [ ] Senjogahara boardwalk + Ryuzu Falls — peak colour on Oct 22; likely past by mid-Nov, check
+- [ ] Yudaki Falls — end of Senjogahara walk, bus back toward Chuzenji
 
 ## My Picks
 > [!note] Fill in your own choices here

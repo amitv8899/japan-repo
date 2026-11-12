@@ -15,6 +15,7 @@ tags: [japan, nikko, events]
 - [ ] High-elevation foliage usually past peak by mid-Nov; verify before day trip up
 - [ ] Some Chuzenji/Yumoto buses reduce in winter — check timetable
 - [ ] Toshogu open year-round
+- [ ] 2026-11-13 search (EN + JA): no specific Nikko festival or illumination found for Nov 13-15 — ask at Tobu Tourist Center
 
 ## My Picks
 > [!note] Fill in your own choices here

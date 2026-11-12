@@ -17,6 +17,9 @@ tags: [japan, nikko, general]
 - [ ] Consider Nikko All Area / World Heritage bus pass
 - [ ] Dress warm — mountains, sharply colder than Tokyo
 - [ ] Buses to Chuzenji/Kegon leave from Tobu Nikko Station
+- [ ] Tobu bus Tobu-Nikko → Chuzenji Onsen ~50 min, ¥1,250 one way; shrine-area loop ¥350 (japan-guide, Nov 2025 data — verify)
+- [ ] Hours Nov: Toshogu 9:00-16:00 (¥1,300), Taiyuin 8:00-16:00 (¥550), last entry 30 min before; Kegon elevator 8:00-17:00 (¥600)
+- [ ] Kanaya free shuttle from Tobu Sightseeing Bus Stop: weekdays 14:30 and 16:40 (kanayahotel.co.jp/en/shuttle)
 
 ## My Picks
 > [!note] Fill in your own choices here

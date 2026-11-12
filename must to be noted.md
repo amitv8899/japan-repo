@@ -51,7 +51,16 @@ tags: [japan, todo, check]
 ## 🌙 Added 2026-11-12 (evening prep)
 - [ ] **Fri Nov 13 — getting from Tobu-Nikko to Chuzenji Kanaya:** the hotel's free shuttle (no reservation) leaves the Tobu Sightseeing Bus Stop at 10:00 (too early), **14:30 (arr. 15:20)** and 16:40 (arr. 17:30) on weekdays. Train arrives 11:31, so either sightsee in town and take the 14:30 shuttle (check-in is 15:00) or use the Tobu bus up Irohazaka. Tobu warns autumn bus trips to Chuzenji can take 2h+ longer than usual — don't plan a tight schedule. Source: kanayahotel.co.jp/en/shuttle. Confirm with the hotel.
 - [ ] **Nov 15 return:** the hotel shuttle's weekday Chuzenji → Tobu-Nikko runs 8:50 (arr. 9:40) — too late for the 08:58 train; the Sunday timetable isn't listed. Ask the hotel at check-in about a taxi/earlier option (updates the Chuzenji → Tobu Nikko item under Road trip)
-- [ ] Nikko Nov 13 forecast (Ventusky, Nikko town, not Chuzenji): clear, ~4°C at dawn, ~17°C afternoon, no rain; Chuzenji will be colder
+- [x] Nikko Nov 13 forecast (Ventusky, Nikko town, not Chuzenji): clear, ~4°C at dawn, ~17°C afternoon, no rain; Chuzenji will be colder — 2026-11-13: yr.no confirms Nikko Fri 18/6°C, 0 mm
+
+## 🆕 Added 2026-11-13 (daily brief)
+- [ ] **Cash before Chuzenji:** no foreign-card ATM verified near Chuzenji Kanaya or Toshogu. Withdraw ¥20,000+ at a Shinjuku 7-Eleven/JP Post ATM before the 09:34 train. Today's entries are about ¥5,000-6,000 for two
+- [ ] **Today's shuttle plan:** Toshogu and Taiyuin close 16:00 (last entry 15:30), so the 14:30 Kanaya shuttle is too early for them. Plan on the 16:40 (arr. 17:30). Exact location of the "Tobu Sightseeing Bus Stop" is unverified — ask the Tobu Tourist Center/station staff. If you miss 16:40: Tobu bus (~50 min, ¥1,250 pp, last time unverified) or taxi (~30 min, fare unverified)
+- [ ] **Nikko Pass / bus pass:** the old notes say a NIKKO PASS All Area was bought in Tokyo — unverified. If not, a 2-day Nikko–Chuzenji bus pass is ¥2,300 at Tobu-Nikko (japan-guide, Nov 2025 data)
+- [ ] **Meals at Kanaya:** vault has no meal plan for the stay ("Paid in full" only) — confirm whether dinner/breakfast are included before choosing tonight's dinner
+- [ ] **Sun Nov 15 rain:** yr.no shows 8.2 mm for Nikko (morning light rain, afternoon rain). Irohazaka bus/taxi down to the 08:58 train and Oshino Hakkai at dusk will be wet — pack rain gear, decide on taxi when you check in
+- [ ] Rinnoji/Shoyoen and Futarasan hours + fees unverified; Nikko-town foliage status unverified (latest report Oct 22: Chuzenji/Kegon approaching peak, Senjogahara/Ryuzu peak) — expect past peak up high
+- [ ] Past-dated items (Nov 9-12: glasses, Goku Harajuku, Marunouchi lights, Tokyo National Museum, Tori-no-Ichi) — tick or delete once you confirm they happened
 
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
