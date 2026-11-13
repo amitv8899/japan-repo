@@ -23,6 +23,8 @@ tags: [japan, nikko, locations]
 - [ ] Shoyoen Garden (Rinnoji) — pond maples, "approaching peak" on Oct 22 (japan-guide); hours/fee unverified
 - [ ] Senjogahara boardwalk + Ryuzu Falls — peak colour on Oct 22; likely past by mid-Nov, check
 - [ ] Yudaki Falls — end of Senjogahara walk, bus back toward Chuzenji
+- [ ] Chuzenji-ji (Tachiki Kannon) + Futarasan Shrine Chuzenji-ko — lakeside near Chuzenji Onsen, Nov 14 morning after Kegon; hours/fees unverified
+- [ ] Italian Embassy Villa Memorial Park — lakeside, quiet, Nov 14 if time; hours unverified (may be reduced or closed in late autumn)
 
 ## My Picks
 > [!note] Fill in your own choices here
