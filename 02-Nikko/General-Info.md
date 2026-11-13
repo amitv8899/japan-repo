@@ -20,6 +20,7 @@ tags: [japan, nikko, general]
 - [ ] Tobu bus Tobu-Nikko → Chuzenji Onsen ~50 min, ¥1,250 one way; shrine-area loop ¥350 (japan-guide, Nov 2025 data — verify)
 - [ ] Hours Nov: Toshogu 9:00-16:00 (¥1,300), Taiyuin 8:00-16:00 (¥550), last entry 30 min before; Kegon elevator 8:00-17:00 (¥600)
 - [ ] Kanaya free shuttle from Tobu Sightseeing Bus Stop: weekdays 14:30 and 16:40 (kanayahotel.co.jp/en/shuttle)
+- [ ] Nov 13 Shinjuku → Tobu-Nikko tickets (per Amit): 4 paper tickets for 2 people — 2 basic-fare tickets (used at the station gate) + 2 limited-express tickets (¥2,100 each, keep on you in the train). Looks like they replace Suica for this ride; not confirmed until exit at Tobu-Nikko
 
 ## My Picks
 > [!note] Fill in your own choices here
