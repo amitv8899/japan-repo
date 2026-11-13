@@ -25,6 +25,7 @@ tags: [japan, nikko, locations]
 - [ ] Yudaki Falls — end of Senjogahara walk, bus back toward Chuzenji
 - [ ] Chuzenji-ji (Tachiki Kannon) + Futarasan Shrine Chuzenji-ko — lakeside near Chuzenji Onsen, Nov 14 morning after Kegon; hours/fees unverified
 - [ ] Italian Embassy Villa Memorial Park — lakeside, quiet, Nov 14 if time; hours unverified (may be reduced or closed in late autumn)
+- [ ] British Embassy Villa Memorial Park (Chuzenji lakeside) — Tobu: 9:00-16:00 from Nov 11-30, closed Mondays in Nov (open Sat Nov 14); fee unverified. Alternative to the Italian Villa, whose Nov hours are unverified
 
 ## My Picks
 > [!note] Fill in your own choices here

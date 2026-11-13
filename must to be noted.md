@@ -66,7 +66,7 @@ tags: [japan, todo, check]
 - [ ] **Sat Nov 14 forecast conflict:** Weathernews (Nikko city) 7/-3°C, rain 30%, 0 mm; Ventusky 17/6°C, 0 mm. Lake Chuzenji is colder than town — dress for near/below freezing at 08:00 (Kegon), layers + gloves
 - [ ] **Sun Nov 15 rain confirmed by both sources** (Weathernews 80%, ~1 mm/h 08:00-17:00, 5/0°C; Ventusky light rain) — Chuzenji may be icy/wet for the 08:58 train; decide taxi vs bus at hotel tonight/tomorrow evening
 - [ ] **Sat Nov 14 buses unverified:** Chuzenji → Yumoto (Ryuzu Falls/Senjogahara) frequency and last bus not found; Chuzenji → Tobu-Nikko first bus not found. Ask Kanaya front desk / check Tobu or Nikko Kotsu timetable, and note the last bus back before going to Senjogahara
-- [ ] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide, page dated Nov 2025; confirm at kegon.jp). No Irohazaka/Chuzenji closure notice found (not a guarantee)
+- [x] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide + Tobu both give Nov 8:00-17:00; kegon.jp itself not reachable). No Irohazaka/Chuzenji closure notice found (not a guarantee)
 
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
@@ -116,3 +116,10 @@ tags: [japan, todo, check]
 - [ ] **Car return Nov 20** — plan returns it ~12:15 but reservation says 16:00; confirm early return is OK, and the East Exit shop switch + winter tires are still open ([[Car Trip]])
 - [ ] Omicho: Sun Nov 22 and Mon Nov 23 (holiday) about half the shops are closed, some also close Wednesdays — eat there Fri/Sat; confirm on ohmicho-ichiba.com
 - [ ] Not confirmed from a source: KUMU check-in/check-out times, hours for Unagi Kikukawa, Yakitori Ryo, sake tasting spot, Nishi Chaya / Myoryuji walking times
+
+## 🆕 Added 2026-11-14 (daily brief)
+- [ ] **Sat Nov 14 forecast — third source:** Windfinder (GFS, Nikko town) 17/9°C, overcast, 0 mm; Weathernews says 7/-3°C. Both are town figures; Chuzenji is colder — dress for ~0°C at the lake in the morning
+- [ ] **Foliage is likely past peak** at Chuzenji/Kegon/Senjogahara/Ryuzu (typical peak mid-Oct to late Oct; no 2026 observation found). Don't plan the day around colour; waterfalls and lake views still work
+- [ ] **Bus timetable still unverified** (tobu-bus.com not reachable from here): Chuzenji → Ryuzu/Senjogahara/Yumoto first/last bus and fares, and Chuzenji → Tobu-Nikko first bus. Ask Kanaya front desk at breakfast; note the last bus back from Senjogahara/Yumoto before leaving. Tobu stop order from Chuzenji-onsen: Futarasan Jinja-mae → Kegon Falls → Ryuzu-no-taki → Tachikikannon-mae (seasonal) → Sanbonmatsu → Hangetsusan (seasonal) → Senjogahara → Yumoto
+- [ ] **Hiroshima → Shin-Osaka (Dec 1) booking** was targeted for Fri Nov 13 — still unticked above; do it tonight or tomorrow (sales open since Nov 1)
+- [ ] **Toyota Shinjuku call (03-3341-2603)** is still open and pickup is tomorrow 14:00 — call before 18:00 today if they close early (hours unverified); ask for earlier pickup, East Exit return, ETC, winter tires
