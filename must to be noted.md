@@ -62,6 +62,12 @@ tags: [japan, todo, check]
 - [ ] Rinnoji/Shoyoen and Futarasan hours + fees unverified; Nikko-town foliage status unverified (latest report Oct 22: Chuzenji/Kegon approaching peak, Senjogahara/Ryuzu peak) — expect past peak up high
 - [ ] Past-dated items (Nov 9-12: glasses, Goku Harajuku, Marunouchi lights, Tokyo National Museum, Tori-no-Ichi) — tick or delete once you confirm they happened
 
+## 🌙 Added 2026-11-13 (evening prep)
+- [ ] **Sat Nov 14 forecast conflict:** Weathernews (Nikko city) 7/-3°C, rain 30%, 0 mm; Ventusky 17/6°C, 0 mm. Lake Chuzenji is colder than town — dress for near/below freezing at 08:00 (Kegon), layers + gloves
+- [ ] **Sun Nov 15 rain confirmed by both sources** (Weathernews 80%, ~1 mm/h 08:00-17:00, 5/0°C; Ventusky light rain) — Chuzenji may be icy/wet for the 08:58 train; decide taxi vs bus at hotel tonight/tomorrow evening
+- [ ] **Sat Nov 14 buses unverified:** Chuzenji → Yumoto (Ryuzu Falls/Senjogahara) frequency and last bus not found; Chuzenji → Tobu-Nikko first bus not found. Ask Kanaya front desk / check Tobu or Nikko Kotsu timetable, and note the last bus back before going to Senjogahara
+- [ ] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide, page dated Nov 2025; confirm at kegon.jp). No Irohazaka/Chuzenji closure notice found (not a guarantee)
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
