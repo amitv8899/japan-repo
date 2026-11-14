@@ -68,6 +68,11 @@ tags: [japan, todo, check]
 - [ ] **Sat Nov 14 buses unverified:** Chuzenji → Yumoto (Ryuzu Falls/Senjogahara) frequency and last bus not found; Chuzenji → Tobu-Nikko first bus not found. Ask Kanaya front desk / check Tobu or Nikko Kotsu timetable, and note the last bus back before going to Senjogahara
 - [x] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide + Tobu both give Nov 8:00-17:00; kegon.jp itself not reachable). No Irohazaka/Chuzenji closure notice found (not a guarantee)
 
+## 🌙 Added 2026-11-14 (evening prep)
+- [ ] **Sun Nov 15 first move from Chuzenji:** Kanaya shuttle's only morning departure is 08:50 (arr. Tobu-Nikko 09:40) — misses the 08:58 train; no Sunday-specific or earlier shuttle (autumn extra 10:30 ended Nov 8). A 09:40 arrival fits only the 10:35+ onward trains. Decide tonight: taxi down Irohazaka (ask front desk now, fare/time unverified) for the 08:58, or shuttle 08:50 + later train (arrive Shinjuku ~13:00+, tight for the 14:00 pickup). Tobu bus first-bus time still unverified (tobu-bus.com)
+- [ ] **Sun Nov 15 Fujikawaguchiko forecast (Weathernews, snapshot ~Nov 13):** 8/3°C, rain 80%, ~14 mm (≈1 mm/h 06:00-19:00) — Fuji will be hidden, Oshino Hakkai at dusk in rain; consider skipping it. **Mon Nov 16:** 12/3°C, 30% (dry until ~18:00) — Oishi Park/ropeway dawn plan stands; Momiji Kairo 18:00 may get rain
+- [ ] **Toyota Shinjuku call still open** (shop open until 20:00, call before then) — rainy Sunday, confirm winter tires/ETC and whether pickup earlier than 14:00 is possible
+
 ## ✈️ Flights
 - [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
