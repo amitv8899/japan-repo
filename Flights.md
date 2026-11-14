@@ -9,6 +9,7 @@ Back-links: [[Japan Trip|🗾 Main Itinerary]] · [[Hotels]] · [[Budget]]
 
 > [!warning] Rebooked Oct 29
 > Emirates changed booking DP3V72 "for operational reasons" and re-issued tickets (confirmation Oct 29). Old Emirates/flydubai flights (EK2449, EK320, EK321, EK2120) are superseded.
+> The original March booking returned **Sat Dec 12**: EK321 21:30 → Dubai Dec 13 04:40, then flydubai EK2120 06:15 → Tel Aviv 08:05. Emirates's Oct 29 "Your booking has changed" email says to contact them to discuss rebooking options; moving back to Dec 12 is the plan to ask for.
 
 ## Outbound — Nov 6–7, 2026
 

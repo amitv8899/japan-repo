@@ -69,11 +69,12 @@ tags: [japan, todo, check]
 - [x] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide + Tobu both give Nov 8:00-17:00; kegon.jp itself not reachable). No Irohazaka/Chuzenji closure notice found (not a guarantee)
 
 ## ✈️ Flights
-- [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
+- [ ] **Move the return flight back to Dec 12 (call Emirates, booking DP3V72)** — your original return was EK321 Sat Dec 12 21:30 → Dubai 04:40, then flydubai EK2120 Dec 13 06:15. Emirates moved it to EK319 Dec 11 22:20 on Oct 29 "for operational reasons" and its email says to contact them to discuss rebooking options. Ask for: Dec 12 departure, no fee (airline-initiated; fee rules not verified), and a Dubai → Tel Aviv leg in the same call. Decide before Dec 4 (Blossom Hibiya free-cancel deadline)
+- [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight. Note EK2120 departs 06:15, so a 22:20 arrival-at-05:30 flight would leave only 45 min to connect
 - [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
 
 ## 🏨 Hotels
-- [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; decide whether to shorten
+- [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; moot if the flight moves back to Dec 12 (see Flights), otherwise decide whether to shorten
 
 ## 🚆 Transport
 - [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
