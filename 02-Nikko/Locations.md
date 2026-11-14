@@ -26,6 +26,10 @@ tags: [japan, nikko, locations]
 - [ ] Chuzenji-ji (Tachiki Kannon) + Futarasan Shrine Chuzenji-ko — lakeside near Chuzenji Onsen, Nov 14 morning after Kegon; hours/fees unverified
 - [ ] Italian Embassy Villa Memorial Park — lakeside, quiet, Nov 14 if time; hours unverified (may be reduced or closed in late autumn)
 - [ ] British Embassy Villa Memorial Park (Chuzenji lakeside) — Tobu: 9:00-16:00 from Nov 11-30, closed Mondays in Nov (open Sat Nov 14); fee unverified. Alternative to the Italian Villa, whose Nov hours are unverified
+- [ ] Italian + British Embassy Villa Memorial Parks (japan-guide): 9:00-16:00 Nov 11-30, ¥300 each or ¥450 combined, closed Dec-Mar; British villa has a tea cafe (hours not stated)
+- [ ] Futarasan Chuzenji-ko Shrine: 9:00-16:00 Nov-Mar, free (¥300 for small paid area)
+- [ ] Nikko Natural Science Museum, next to Chuzenji Onsen bus terminal: 10:00-16:00 mid Nov-Mar, ¥510 — indoor option
+- [ ] Lake Chuzenji sightseeing boat (mid Apr-Nov): ¥1,850 full loop, 1 hour; latest sailing in Nov unverified
 
 ## My Picks
 > [!note] Fill in your own choices here
