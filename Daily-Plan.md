@@ -12,7 +12,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 
 | Date | Day | City | Travel | Plan | Sleep |
 |------|-----|------|--------|------|-------|
-| 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800; 11:40 per Etihad notice / 13:15 per Emirates confirmation — verify) → limousine bus to hotel (N'EX stops at Tokyo Station Nov 7, no Shinjuku service); easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
+| 2026-11-07 | Sat | Tokyo (Arrival) | ✈️ arrive | Land Narita (EY800) → limousine bus to hotel (N'EX stops at Tokyo Station Nov 7, no Shinjuku service); easy evening: Omoide Yokocho, Isetan depachika | Keio Plaza |
 | 2026-11-08 | Sun | Tokyo (Arrival) |  | Tokyo City Flea Market, Oi Racecourse (09:00-14:30, arrive before noon; cancelled if rain) → Meiji Jingu + Yoyogi → Harajuku (Takeshita, Cat St) → Shibuya (Crossing, Hachiko) | Keio Plaza |
 | 2026-11-09 | Mon | Tokyo (Arrival) |  | Rainy rest day (indoor Shinjuku): 08:00 admin (tires call, book Shibuya Sky, Nikko return train) → glasses → collect Nikko ticket → Bic/GU/Uniqlo → lunch → rest → Isetan/Onitsuka Tiger/Kinokuniya → dinner. Detail: [[01-Tokyo-Arrival/Shopping]] | Keio Plaza |
 | 2026-11-10 | Tue | Tokyo (Arrival) |  | Light-rain day, mostly covered stops: 09:30 train to Gotokuji (cat temple, open ~06:00-17:00; wet moss = quiet, bring umbrella) → 11:00 Shimokitazawa: Reload covered complex + vintage shops → 12:30 curry lunch (soup curry/spice curry district) → 14:00 Shibuya Parco: Pokemon Center Shibuya (6F), Nintendo Tokyo, Capcom store, then Mandarake (anime/retro games) + Loft/Hands (all indoor, ~3 h, no rush) → 17:15 Shibuya Scramble Square shops/45F-level views, Shibuya Sky NOT booked for today (moved to Thu) → 18:30 Uobei/Uogashi dinner | Keio Plaza |
@@ -46,11 +46,11 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-12-08 | Tue | Tokyo (Departure) | 🚗/🚆 move | Arrive from Hakone; Hibiya/Marunouchi illuminations; dinner Rare Tendon Ginza | THE BLOSSOM HIBIYA |
 | 2026-12-09 | Wed | Tokyo (Departure) |  | teamLab Borderless, Azabudai (OPTIONAL — only if we like Biovortex Kyoto; no booking reminder) → Yoroniku Azabudai → Roppongi illuminations | THE BLOSSOM HIBIYA |
 | 2026-12-10 | Thu | Tokyo (Departure) |  | Yanaka → Akihabara → Skytree sunset (Ueno Park/Tokyo National Museum/Ameyoko moved to Wed Nov 11; free time or DisneySea option) | THE BLOSSOM HIBIYA |
-| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → ✈️ leave ~18:00 for Narita (EK319 22:20; Nakameguro/Meguro River lights only if time) | THE BLOSSOM HIBIYA |
-| 2026-12-12 | Sat | ✈️ In flight | ✈️ fly home | EK319 lands Dubai 05:30; Dubai → Tel Aviv leg not in the new booking — verify | — |
+| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → evening Nakameguro/Meguro River lights; pack tonight | THE BLOSSOM HIBIYA |
+| 2026-12-12 | Sat | Tokyo → ✈️ Depart | ✈️ fly home | Check out, last morning errands → leave hotel ~12:30 for Narita (airport by 14:20) → 17:20 EY801 to Abu Dhabi → 00:40 land, 03:25 EY595 → Tel Aviv 05:05 (Sun Dec 13). Detail: [[Flights]] | — |
 
 > [!tip] Reservation-heavy days
 > - **Nov 23–28 Kyoto** — peak foliage: book Tofuku-ji/Kiyomizu night illuminations + kaiseki
 > - **Nov 15–17 Fuji** — sunrise Fuji shots at Chureito; onsen dinner
 > - **Dec 5** — first Hakone night (travel day from Osaka)
-> - **Dec 11** — flight EK319 at 22:20 (leave hotel ~18:00); Dec 11 night at Hibiya unused
+> - **Dec 12** — flight EY801 at 17:20 (leave hotel ~12:30; airport by 14:20)

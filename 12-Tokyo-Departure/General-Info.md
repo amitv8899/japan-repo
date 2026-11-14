@@ -12,12 +12,12 @@ tags: [japan, tokyo, general]
 > Final four nights back in Tokyo. Last shopping, missed neighborhoods, gifts, and easy airport access.
 
 ## Suggestions
-- [x] Hotel: THE BLOSSOM HIBIYA, Shinbashi 1-1-13 — booked Dec 8–12, but flight leaves Dec 11 22:20 — last night unused (free cancel to Dec 4); keep bags in room until leaving Dec 11
+- [x] Hotel: THE BLOSSOM HIBIYA, Shinbashi 1-1-13 — booked Dec 8–12; keep bags in the room until leaving on Dec 12
 - [ ] From Hakone: Hakone Tozan to Odawara + Shinkansen/Romancecar to Tokyo (~1.5h)
-- [ ] To airport: Narita (EK319, Dec 11, 22:20) — N'EX or Skyliner, leave hotel ~18:00; confirm terminal + allow buffer
+- [ ] To airport: Narita (EY801, Dec 12, 17:20) — N'EX from Tokyo Station (estimate 75–90 min door to door), leave hotel ~12:30 to be at the airport by 14:20; confirm terminal + allow buffer
 - [ ] Weigh/repack bags; ship overflow via takuhaibin or airport luggage service
 - [ ] Spend remaining IC-card balance or keep the card for next trip
-- [ ] Emirates online check-in opens 48h out (Dec 9, ~22:20); seats 082J/082K already assigned
+- [ ] Online check-in opens 48h out (Dec 10, ~17:20); no seats assigned yet — choose them then
 
 ## My Picks
 > [!note] Fill in your own choices here

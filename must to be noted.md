@@ -14,10 +14,9 @@ tags: [japan, todo, check]
 - [x] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
 **This week:**
-- [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
 - [x] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
-**Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
+**Later dates:** Dec 10 online check-in for the Dec 12 flights · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
 
 ## 🆕 Added 2026-11-11 (daily brief)
 - [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
@@ -69,12 +68,7 @@ tags: [japan, todo, check]
 - [x] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide + Tobu both give Nov 8:00-17:00; kegon.jp itself not reachable). No Irohazaka/Chuzenji closure notice found (not a guarantee)
 
 ## ✈️ Flights
-- [ ] **Move the return flight back to Dec 12 (call Emirates, booking DP3V72)** — your original return was EK321 Sat Dec 12 21:30 → Dubai 04:40, then flydubai EK2120 Dec 13 06:15. Emirates moved it to EK319 Dec 11 22:20 on Oct 29 "for operational reasons" and its email says to contact them to discuss rebooking options. Ask for: Dec 12 departure, no fee (airline-initiated; fee rules not verified), and a Dubai → Tel Aviv leg in the same call. Decide before Dec 4 (Blossom Hibiya free-cancel deadline)
-- [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight. Note EK2120 departs 06:15, so a 22:20 arrival-at-05:30 flight would leave only 45 min to connect
-- [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
-
-## 🏨 Hotels
-- [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; moot if the flight moves back to Dec 12 (see Flights), otherwise decide whether to shorten
+- [ ] **Return flights Dec 12 (EY801 17:20 → EY595 → Tel Aviv Dec 13 05:05)** — no seats assigned; online check-in opens ~Dec 10 17:20; confirm the Narita terminal; leave the hotel ~12:30 (airport by 14:20); the emails show no price for the Nov 14 change, so check the card statement for a fare difference ([[Flights]])
 
 ## 🚆 Transport
 - [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
@@ -93,7 +87,7 @@ tags: [japan, todo, check]
 - [ ] FYI only, not acted on: a route via Hakuba Valley/Itoigawa (Nagano Expwy → coast) was suggested as a Fuji→Kanazawa stopover alternative to Matsumoto/Takayama. It would skip Takayama entirely — already booked 2 nights there — so left out unless you want to reconsider that leg
 
 ## 🎟️ Book / confirm before the trip
-- [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 11 flight), so a new card is needed then
+- [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 12 flight), so a new card is needed then
 - [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku.
 - [x] ~~Mon Nov 9 rain~~ — plan changed 2026-11-08: Mon = indoor shopping/rest day (Senso-ji/Kappabashi moved to Wed option)
 - [ ] (old) Mon Nov 9 forecast: rain in the morning (~5 mm, ~10°C)** — 07:00 Senso-ji and Kappabashi will be wet; bring an umbrella/rain jacket, consider swapping to an indoor morning (Yr, 2026-11-08; check again tonight).
