@@ -18,6 +18,11 @@ tags: [japan, fujikawaguchiko, locations]
 - [ ] Oishi Park — lavender/kochia beds + Fuji
 - [ ] Kachi Kachi Ropeway (Mt Tenjo) for panorama
 - [ ] Oshino Hakkai — spring-water ponds village
+- [ ] Momiji Kaido (Kawaguchiko Museum street), ~1.2 km maple-lined road, festival spot — hours/parking unverified
+- [ ] Funatsu-hama / Hayashisaku Park (Funatsu lakeside, same district as Hotel Regina) — festival spot, short walk for dusk if the rain stops; distance unverified
+- [ ] Yagisaki Park + Okukawaguchiko Sakura no Sato Park — festival foliage spots on the north shore; hours unverified
+- [ ] Shoji-ko Tebanahama (Lake Shoji) — festival spot, 'peak now' per Nov 13 release; drive time from Hotel Regina unverified
+- [ ] Itchiku Kubota Art Museum — indoor rain backup next to Momiji Kairo; hours/closed days/fee unverified (check before going)
 
 ## My Picks
 > [!note] Fill in your own choices here

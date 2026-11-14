@@ -128,3 +128,15 @@ tags: [japan, todo, check]
 - [ ] **Bus timetable still unverified** (tobu-bus.com not reachable from here): Chuzenji → Ryuzu/Senjogahara/Yumoto first/last bus and fares, and Chuzenji → Tobu-Nikko first bus. Ask Kanaya front desk at breakfast; note the last bus back from Senjogahara/Yumoto before leaving. Tobu stop order from Chuzenji-onsen: Futarasan Jinja-mae → Kegon Falls → Ryuzu-no-taki → Tachikikannon-mae (seasonal) → Sanbonmatsu → Hangetsusan (seasonal) → Senjogahara → Yumoto
 - [ ] **Hiroshima → Shin-Osaka (Dec 1) booking** was targeted for Fri Nov 13 — still unticked above; do it tonight or tomorrow (sales open since Nov 1)
 - [ ] **Toyota Shinjuku call (03-3341-2603)** is still open and pickup is tomorrow 14:00 — call before 18:00 today if they close early (hours unverified); ask for earlier pickup, East Exit return, ETC, winter tires
+
+## 🆕 Added 2026-11-15 (daily brief)
+- [ ] **TODAY: way down from Chuzenji to Tobu-Nikko for the 08:58 train** — Nikko forecast is rain/snow, 5/-1°C (Weathernews, Nov 14 17:00); hotel shuttle (08:50) misses it. Taxi must leave Chuzenji ~07:40 (fare/time unverified, ~50 min by bus). Ask the front desk at 07:00; if you take the shuttle you arrive 09:40 and the next train to Shinjuku is unverified (check Navitime/Jorudan) — pickup is 14:00
+- [ ] **TODAY: Toyota Shinjuku call never confirmed** (03-3341-2603, open 08:00-20:00): winter tires, ETC card, earlier pickup. Call when you reach Shinjuku (~11:44) or at the counter; Nov 18 Rte 158 and Nov 20 Shirakawa-go need winter tires or chains
+- [ ] **Tomorrow Mon Nov 16 forecast improved:** 12/3°C, dry until ~18:00; light rain 18:00-21:00 may wet the Momiji Kairo lights. Momiji peak forecast Nov 14-23 (best ~Nov 18) — keep the 06:30 Oishi Park dawn plan
+- [ ] **Book dinner in Matsumoto for Tue Nov 17** (BANIKU BARU 0263-39-0141 or another) — 2 days left; Kobayashi Soba has no Tuesday dinner
+- [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
+- [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
+- [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
+- [ ] Hakone ryokan free cancel ends Nov 27; Blossom Hibiya Dec 11 night decision by Dec 4
+- [ ] Hotel Regina parking (cost, height limit) and hours — unverified; call 0555-20-9000 from the road if arriving after 17:00
+- [ ] Not verified in this run (fetch blocked): Oshino Hakkai hours/parking, Itchiku Kubota Museum hours, Kawaguchiko Sightseeing Bus fares/IC, first Tobu bus Chuzenji → Tobu-Nikko, Chuo Expressway toll Shinjuku → Kawaguchiko
