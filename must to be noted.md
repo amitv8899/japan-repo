@@ -149,3 +149,11 @@ tags: [japan, todo, check]
 - [ ] Hotel Regina parking and dinner at Kosaku (closes 19:30) are still unconfirmed
 - [ ] **Oishi Tsumugi (pongee) traditional workshop, north shore next to Oishi Park** — Amit wants to go Mon Nov 16 morning; hours, closed days and whether visitors/weaving can be seen are unverified. Phone/Google Maps check before 09:00
 - [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
+
+## 🆕 Added 2026-11-16 (daily brief)
+- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — BANIKU BARU 0263-39-0141; call today
+- [ ] **Oishi Tsumugi Traditional Craft Hall** (Oishi 1438-1, 0555-76-7901): 9:00-16:00, closed Tuesdays (info dated 2021) — only today works; hand-weaving ¥7,000 needs a reservation (~90 min), dyeing ¥1,500. Whether visitors can just watch weaving is unverified; call at 09:00
+- [ ] **Ropeway price/phone conflict:** gltjp says adult ¥1,000 round trip, 08:30-17:00, tel 0555-72-0363; Amit's draft says ¥1,200 and the vault has 0555-75-2929
+- [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
+- [ ] **Mon Nov 16 forecast (Windfinder GFS):** dry, 9-14°C, dawn cloud 1-2% but cloud 90%+ from noon — Fuji views only in the morning; Chureito at 14:00 not worth it for Fuji
+- [ ] **Momiji Kairo:** Weathernews Nov 13 about half coloured, peak from ~Nov 17; Red Line bus reportedly stops ~17:45 (one source), so the 18:00 lights need car/taxi; parking unverified

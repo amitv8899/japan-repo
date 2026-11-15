@@ -23,6 +23,8 @@ tags: [japan, fujikawaguchiko, locations]
 - [ ] Yagisaki Park + Okukawaguchiko Sakura no Sato Park — festival foliage spots on the north shore; hours unverified
 - [ ] Shoji-ko Tebanahama (Lake Shoji) — festival spot, 'peak now' per Nov 13 release; drive time from Hotel Regina unverified
 - [ ] Itchiku Kubota Art Museum — indoor rain backup next to Momiji Kairo; hours/closed days/fee unverified (check before going)
+- [ ] Oishi Tsumugi Traditional Craft Hall (大石紬伝統工芸館), Oishi 1438-1, tel 0555-76-7901 — 9:00-16:00, closed Tue (2021 info); hand-weaving ¥7,000 (reservation, ~90 min), plant handkerchief dyeing ¥1,500
+- [ ] Saiko Iyashi-no-Sato Nenba — thatched village, 9:00-17:00 in Nov, no closing days, adults ¥500
 
 ## My Picks
 > [!note] Fill in your own choices here
