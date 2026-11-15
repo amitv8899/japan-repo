@@ -147,3 +147,4 @@ tags: [japan, todo, check]
 - [ ] **Momiji Kairo 2026 (one source, jw-webmagazine):** Nov 7-29, free, 09:00-19:00 with light-up sunset to 21:00; bus 25 min from Kawaguchiko Station (stop: Itchiku Kubota Art Museum). Parking not found
 - [ ] **Saiko Iyashi-no-Sato Nenba (gltjp aggregator):** Nov 09:00-17:00, no closing days, adults ¥500 — official site not checked, so arrive by ~15:30 at the latest
 - [ ] Hotel Regina parking and dinner at Kosaku (closes 19:30) are still unconfirmed
+- [ ] **Oishi Tsumugi (pongee) traditional workshop, north shore next to Oishi Park** — Amit wants to go Mon Nov 16 morning; hours, closed days and whether visitors/weaving can be seen are unverified. Phone/Google Maps check before 09:00
