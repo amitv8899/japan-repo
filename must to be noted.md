@@ -148,3 +148,4 @@ tags: [japan, todo, check]
 - [ ] **Saiko Iyashi-no-Sato Nenba (gltjp aggregator):** Nov 09:00-17:00, no closing days, adults ¥500 — official site not checked, so arrive by ~15:30 at the latest
 - [ ] Hotel Regina parking and dinner at Kosaku (closes 19:30) are still unconfirmed
 - [ ] **Oishi Tsumugi (pongee) traditional workshop, north shore next to Oishi Park** — Amit wants to go Mon Nov 16 morning; hours, closed days and whether visitors/weaving can be seen are unverified. Phone/Google Maps check before 09:00
+- [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
