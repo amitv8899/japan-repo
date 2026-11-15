@@ -140,3 +140,10 @@ tags: [japan, todo, check]
 - [ ] Hakone ryokan free cancel ends Nov 27; Blossom Hibiya Dec 11 night decision by Dec 4
 - [ ] Hotel Regina parking (cost, height limit) and hours — unverified; call 0555-20-9000 from the road if arriving after 17:00
 - [ ] Not verified in this run (fetch blocked): Oshino Hakkai hours/parking, Itchiku Kubota Museum hours, Kawaguchiko Sightseeing Bus fares/IC, first Tobu bus Chuzenji → Tobu-Nikko, Chuo Expressway toll Shinjuku → Kawaguchiko
+
+## 🌙 Added 2026-11-15 (evening prep)
+- [ ] **Mon Nov 16 forecast conflict:** meteoblue ~19/13°C, dry, 7 h sun; Windfinder (GFS) 9-14°C, dry, clear dawn (1-2% cloud at 06:00-09:00, W wind 1-2 m/s); vault earlier said 12/3°C with light rain 18:00-21:00. All agree dawn is clear, so Oishi Park 06:30 stands. Dress for ~0-5°C at dawn, check a live forecast at 05:45
+- [ ] **Mt. Fuji Panoramic Ropeway (Kachi Kachi) Nov hours/price unverified** (source page failed) — plan says 08:30-17:00; check the day-of status on the official site before driving there
+- [ ] **Momiji Kairo 2026 (one source, jw-webmagazine):** Nov 7-29, free, 09:00-19:00 with light-up sunset to 21:00; bus 25 min from Kawaguchiko Station (stop: Itchiku Kubota Art Museum). Parking not found
+- [ ] **Saiko Iyashi-no-Sato Nenba (gltjp aggregator):** Nov 09:00-17:00, no closing days, adults ¥500 — official site not checked, so arrive by ~15:30 at the latest
+- [ ] Hotel Regina parking and dinner at Kosaku (closes 19:30) are still unconfirmed
