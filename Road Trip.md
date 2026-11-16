@@ -105,13 +105,12 @@ Changed 2026-11-16: no Narai-juku stop. Drive straight to Matsumoto; the rest of
 
 | Time | Plan | Notes |
 |---|---|---|
-| 07:00 | Breakfast, check out | |
-| 08:00 | Drive Chuo Expressway to Matsumoto IC | ~2h30 (unverified), Tue is the lightest traffic day |
-| ~10:30-11:00 | Park at the hotel, drop bags | Check-in ~15:00 (verify); ask about parking. Hotel ~1.2 km south of the castle |
-| 11:00 | Matsumoto Castle | Closes 16:30 (last entry ~16:00, verify). 60-90 min, steep stairs, shoes off. Queue ~30 min |
-| 12:30 | Lunch: soba (Kobayashi Soba, Tue 11:00-16:00, queue) | |
-| 14:00 | Nawate-dori (frog street) snacks → Nakamachi-dori | Shops close ~17:00-17:30 |
-| 16:00 | Coffee: Alps Coffee Lab (to 17:45) or oyaki at cohiludo (to 17:00) | |
+| 08:00 | Breakfast at the hotel, back to the room, pack | Last breakfast seating 09:30 |
+| ~10:00 | Check out, drive Chuo Expressway to Matsumoto IC | ~2h30 (unverified), Tue is the lightest traffic day |
+| ~12:30-13:00 | Park at the hotel, drop bags | Check-in ~15:00 (verify); ask about parking. Hotel ~1.2 km south of the castle |
+| 13:15 | Matsumoto Castle | Closes 16:30 (last entry ~16:00, verify). 60-90 min, steep stairs, shoes off. Queue ~30 min. Eat first if hungry (Kobayashi Soba closes 16:00, queue) |
+| 15:00 | Nawate-dori (frog street) snacks → Nakamachi-dori | Shops close ~17:00-17:30 |
+| 16:15 | Coffee: Alps Coffee Lab (to 17:45) or oyaki at cohiludo (to 17:00) | |
 | 18:30 | Dinner: BANIKU BARU (horse sashimi), book | Mixed reviews; Kobayashi Soba has no Tuesday dinner |
 | 20:00 | Castle grounds after dark (optional) | Night lighting not confirmed |
 
