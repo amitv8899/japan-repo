@@ -46,8 +46,8 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-12-08 | Tue | Tokyo (Departure) | 🚗/🚆 move | Arrive from Hakone; Hibiya/Marunouchi illuminations; dinner Rare Tendon Ginza | THE BLOSSOM HIBIYA |
 | 2026-12-09 | Wed | Tokyo (Departure) |  | teamLab Borderless, Azabudai (OPTIONAL — only if we like Biovortex Kyoto; no booking reminder) → Yoroniku Azabudai → Roppongi illuminations | THE BLOSSOM HIBIYA |
 | 2026-12-10 | Thu | Tokyo (Departure) |  | Yanaka → Akihabara → Skytree sunset (Ueno Park/Tokyo National Museum/Ameyoko moved to Wed Nov 11; free time or DisneySea option) | THE BLOSSOM HIBIYA |
-| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → ✈️ leave ~18:00 for Narita (EK319 22:20; Nakameguro/Meguro River lights only if time) | THE BLOSSOM HIBIYA |
-| 2026-12-12 | Sat | ✈️ In flight | ✈️ fly home | EK319 lands Dubai 05:30; Dubai → Tel Aviv leg not in the new booking — verify | — |
+| 2026-12-11 | Fri | Tokyo (Departure) |  | Tsukiji breakfast → Tokyo Stn/Marunouchi/Palace East Gardens → Ginza gifts + depachika → evening: Nakameguro/Meguro River lights if time (flight moved to Sat Dec 12 17:20, see Flights) | THE BLOSSOM HIBIYA |
+| 2026-12-12 | Sat | Tokyo → ✈️ | ✈️ fly home | Check out Blossom Hibiya; free morning/early afternoon; EY801 Narita 17:20 → Abu Dhabi 00:40 (Dec 13), EY595 → Tel Aviv 05:05 Dec 13 (rebooked Nov 14). Leave for Narita ~13:30 (estimate, unverified; confirm terminal) | — |
 
 > [!tip] Reservation-heavy days
 > - **Nov 23–28 Kyoto** — peak foliage: book Tofuku-ji/Kiyomizu night illuminations + kaiseki

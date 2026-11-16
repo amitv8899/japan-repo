@@ -14,10 +14,10 @@ tags: [japan, todo, check]
 - [x] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
 **This week:**
-- [ ] 6. **Flight home Dubai → Tel Aviv** not booked (flydubai ref M8E2M7) — biggest open item, no deadline found
+- [x] 6. **Flight home** — done: Nov 14 Emirates rebooking DP3V72 = EY801 Narita → Abu Dhabi Dec 12 17:20 + EY595 → Tel Aviv, lands Dec 13 05:05
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
 - [x] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
-**Later dates:** Dec 4 Blossom Hibiya Dec 11 night decision · Dec 9 online check-in EK319 · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
+**Later dates:** Dec 10 online check-in EY801 (unverified) · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
 
 ## 🆕 Added 2026-11-11 (daily brief)
 - [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
@@ -74,11 +74,11 @@ tags: [japan, todo, check]
 - [ ] **Toyota Shinjuku call still open** (shop open until 20:00, call before then) — rainy Sunday, confirm winter tires/ETC and whether pickup earlier than 14:00 is possible
 
 ## ✈️ Flights
-- [ ] **No flight home to Israel (Dubai → Tel Aviv)** — the Oct 29 booking ends in Dubai (lands Dec 12, 05:30). Old flydubai EK2120 (Dec 13) no longer fits; check flydubai ref M8E2M7 and book a Dubai → Tel Aviv flight
-- [ ] **Online check-in** opens 48h before: Nov 4 (Etihad EY608/EY800, no seats yet) and Dec 9 (EK319, seats 082J/082K assigned)
+- [x] **Flight home to Israel** — booked via the Nov 14 Emirates confirmation (DP3V72): EY801 NRT 17:20 Dec 12 → AUH 00:40 Dec 13, EY595 AUH 03:25 → TLV 05:05 Dec 13. Vault updated 2026-11-16 (it was stale)
+- [ ] **Online check-in** opens 48h before the return (EY801/EY595): about Dec 10 17:20 JST, unverified; seats not shown in the Nov 14 email. Nov 4 check-in is past
 
 ## 🏨 Hotels
-- [ ] **Blossom Hibiya night of Dec 11 is unused** — flight EK319 leaves Dec 11 at 22:20, hotel checks out Dec 12. Free cancel/change until **Dec 4**; decide whether to shorten
+- [x] **Blossom Hibiya night of Dec 11** — now used: flight moved to Dec 12 17:20, so keep the booking (no need to cancel by Dec 4)
 
 ## 🚆 Transport
 - [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
@@ -137,7 +137,7 @@ tags: [japan, todo, check]
 - [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
 - [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
 - [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
-- [ ] Hakone ryokan free cancel ends Nov 27; Blossom Hibiya Dec 11 night decision by Dec 4
+- [ ] Hakone ryokan free cancel ends Nov 27
 - [ ] Hotel Regina parking (cost, height limit) and hours — unverified; call 0555-20-9000 from the road if arriving after 17:00
 - [ ] Not verified in this run (fetch blocked): Oshino Hakkai hours/parking, Itchiku Kubota Museum hours, Kawaguchiko Sightseeing Bus fares/IC, first Tobu bus Chuzenji → Tobu-Nikko, Chuo Expressway toll Shinjuku → Kawaguchiko
 
@@ -157,3 +157,7 @@ tags: [japan, todo, check]
 - [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
 - [ ] **Mon Nov 16 forecast (Windfinder GFS):** dry, 9-14°C, dawn cloud 1-2% but cloud 90%+ from noon — Fuji views only in the morning; Chureito at 14:00 not worth it for Fuji
 - [ ] **Momiji Kairo:** Weathernews Nov 13 about half coloured, peak from ~Nov 17; Red Line bus reportedly stops ~17:45 (one source), so the 18:00 lights need car/taxi; parking unverified
+
+## 🆕 Added 2026-11-16 (correction)
+- [ ] **Return flight changed Nov 14** (Emirates DP3V72 email): EY801 Narita Sat Dec 12 17:20 → Abu Dhabi, EY595 → Tel Aviv, lands Sun Dec 13 05:05. My daily brief wrongly said "no flight home" — it read an outdated vault. Confirm in the email that EK319 (Dec 11) was cancelled and not double-booked; terminal and seats not stated
+- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~13:30, estimate) — plan it or keep it light
