@@ -17,6 +17,7 @@ tags: [japan, fujikawaguchiko, food]
 - [ ] Lake-view cafes along Kawaguchiko north shore
 - [ ] Fujiyama cookie / local Fuji-shaped sweets
 - [ ] Must-try: hoto, Yoshida udon (thick chewy), local trout
+- [ ] Hoto Kosaku (小作) Funatsu — 11:00-19:30 per Road Trip.md (Google Places, 2026-11-01), ~1.2 km straight line from Hotel Regina (computed from coordinates, ~15 min walk)
 
 ## My Picks
 > [!note] Fill in your own choices here

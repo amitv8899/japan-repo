@@ -67,6 +67,11 @@ tags: [japan, todo, check]
 - [ ] **Sat Nov 14 buses unverified:** Chuzenji → Yumoto (Ryuzu Falls/Senjogahara) frequency and last bus not found; Chuzenji → Tobu-Nikko first bus not found. Ask Kanaya front desk / check Tobu or Nikko Kotsu timetable, and note the last bus back before going to Senjogahara
 - [x] Kegon elevator 8:00-17:00, ¥600, no closing days (japan-guide + Tobu both give Nov 8:00-17:00; kegon.jp itself not reachable). No Irohazaka/Chuzenji closure notice found (not a guarantee)
 
+## 🌙 Added 2026-11-14 (evening prep)
+- [ ] **Sun Nov 15 first move from Chuzenji:** Kanaya shuttle's only morning departure is 08:50 (arr. Tobu-Nikko 09:40) — misses the 08:58 train; no Sunday-specific or earlier shuttle (autumn extra 10:30 ended Nov 8). A 09:40 arrival fits only the 10:35+ onward trains. Decide tonight: taxi down Irohazaka (ask front desk now, fare/time unverified) for the 08:58, or shuttle 08:50 + later train (arrive Shinjuku ~13:00+, tight for the 14:00 pickup). Tobu bus first-bus time still unverified (tobu-bus.com)
+- [ ] **Sun Nov 15 Fujikawaguchiko forecast (Weathernews, snapshot ~Nov 13):** 8/3°C, rain 80%, ~14 mm (≈1 mm/h 06:00-19:00) — Fuji will be hidden, Oshino Hakkai at dusk in rain; consider skipping it. **Mon Nov 16:** 12/3°C, 30% (dry until ~18:00) — Oishi Park/ropeway dawn plan stands; Momiji Kairo 18:00 may get rain
+- [ ] **Toyota Shinjuku call still open** (shop open until 20:00, call before then) — rainy Sunday, confirm winter tires/ETC and whether pickup earlier than 14:00 is possible
+
 ## ✈️ Flights
 - [ ] **Return flights Dec 12 (EY801 17:20 → EY595 → Tel Aviv Dec 13 05:05)** — no seats assigned; online check-in opens ~Dec 10 17:20; confirm the Narita terminal; leave the hotel ~12:30 (airport by 14:20); the emails show no price for the Nov 14 change, so check the card statement for a fare difference ([[Flights]])
 
@@ -118,3 +123,35 @@ tags: [japan, todo, check]
 - [ ] **Bus timetable still unverified** (tobu-bus.com not reachable from here): Chuzenji → Ryuzu/Senjogahara/Yumoto first/last bus and fares, and Chuzenji → Tobu-Nikko first bus. Ask Kanaya front desk at breakfast; note the last bus back from Senjogahara/Yumoto before leaving. Tobu stop order from Chuzenji-onsen: Futarasan Jinja-mae → Kegon Falls → Ryuzu-no-taki → Tachikikannon-mae (seasonal) → Sanbonmatsu → Hangetsusan (seasonal) → Senjogahara → Yumoto
 - [ ] **Hiroshima → Shin-Osaka (Dec 1) booking** was targeted for Fri Nov 13 — still unticked above; do it tonight or tomorrow (sales open since Nov 1)
 - [ ] **Toyota Shinjuku call (03-3341-2603)** is still open and pickup is tomorrow 14:00 — call before 18:00 today if they close early (hours unverified); ask for earlier pickup, East Exit return, ETC, winter tires
+
+## 🆕 Added 2026-11-15 (daily brief)
+- [ ] **TODAY: way down from Chuzenji to Tobu-Nikko for the 08:58 train** — Nikko forecast is rain/snow, 5/-1°C (Weathernews, Nov 14 17:00); hotel shuttle (08:50) misses it. Taxi must leave Chuzenji ~07:40 (fare/time unverified, ~50 min by bus). Ask the front desk at 07:00; if you take the shuttle you arrive 09:40 and the next train to Shinjuku is unverified (check Navitime/Jorudan) — pickup is 14:00
+- [ ] **TODAY: Toyota Shinjuku call never confirmed** (03-3341-2603, open 08:00-20:00): winter tires, ETC card, earlier pickup. Call when you reach Shinjuku (~11:44) or at the counter; Nov 18 Rte 158 and Nov 20 Shirakawa-go need winter tires or chains
+- [ ] **Tomorrow Mon Nov 16 forecast improved:** 12/3°C, dry until ~18:00; light rain 18:00-21:00 may wet the Momiji Kairo lights. Momiji peak forecast Nov 14-23 (best ~Nov 18) — keep the 06:30 Oishi Park dawn plan
+- [ ] **Book dinner in Matsumoto for Tue Nov 17** (BANIKU BARU 0263-39-0141 or another) — 2 days left; Kobayashi Soba has no Tuesday dinner
+- [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
+- [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
+- [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
+- [ ] Hakone ryokan free cancel ends Nov 27
+- [ ] Hotel Regina parking (cost, height limit) and hours — unverified; call 0555-20-9000 from the road if arriving after 17:00
+- [ ] Not verified in this run (fetch blocked): Oshino Hakkai hours/parking, Itchiku Kubota Museum hours, Kawaguchiko Sightseeing Bus fares/IC, first Tobu bus Chuzenji → Tobu-Nikko, Chuo Expressway toll Shinjuku → Kawaguchiko
+
+## 🌙 Added 2026-11-15 (evening prep)
+- [ ] **Mon Nov 16 forecast conflict:** meteoblue ~19/13°C, dry, 7 h sun; Windfinder (GFS) 9-14°C, dry, clear dawn (1-2% cloud at 06:00-09:00, W wind 1-2 m/s); vault earlier said 12/3°C with light rain 18:00-21:00. All agree dawn is clear, so Oishi Park 06:30 stands. Dress for ~0-5°C at dawn, check a live forecast at 05:45
+- [ ] **Mt. Fuji Panoramic Ropeway (Kachi Kachi) Nov hours/price unverified** (source page failed) — plan says 08:30-17:00; check the day-of status on the official site before driving there
+- [ ] **Momiji Kairo 2026 (one source, jw-webmagazine):** Nov 7-29, free, 09:00-19:00 with light-up sunset to 21:00; bus 25 min from Kawaguchiko Station (stop: Itchiku Kubota Art Museum). Parking not found
+- [ ] **Saiko Iyashi-no-Sato Nenba (gltjp aggregator):** Nov 09:00-17:00, no closing days, adults ¥500 — official site not checked, so arrive by ~15:30 at the latest
+- [ ] Hotel Regina parking and dinner at Kosaku (closes 19:30) are still unconfirmed
+- [ ] **Oishi Tsumugi (pongee) traditional workshop, north shore next to Oishi Park** — Amit wants to go Mon Nov 16 morning; hours, closed days and whether visitors/weaving can be seen are unverified. Phone/Google Maps check before 09:00
+- [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
+
+## 🆕 Added 2026-11-16 (daily brief)
+- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — BANIKU BARU 0263-39-0141; call today
+- [ ] **Oishi Tsumugi Traditional Craft Hall** (Oishi 1438-1, 0555-76-7901): 9:00-16:00, closed Tuesdays (info dated 2021) — only today works; hand-weaving ¥7,000 needs a reservation (~90 min), dyeing ¥1,500. Whether visitors can just watch weaving is unverified; call at 09:00
+- [ ] **Ropeway price/phone conflict:** gltjp says adult ¥1,000 round trip, 08:30-17:00, tel 0555-72-0363; Amit's draft says ¥1,200 and the vault has 0555-75-2929
+- [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
+- [ ] **Mon Nov 16 forecast (Windfinder GFS):** dry, 9-14°C, dawn cloud 1-2% but cloud 90%+ from noon — Fuji views only in the morning; Chureito at 14:00 not worth it for Fuji
+- [ ] **Momiji Kairo:** Weathernews Nov 13 about half coloured, peak from ~Nov 17; Red Line bus reportedly stops ~17:45 (one source), so the 18:00 lights need car/taxi; parking unverified
+
+## 🆕 Added 2026-11-16
+- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~12:30 to be there by 14:20, estimate) — plan it or keep it light
