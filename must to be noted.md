@@ -161,3 +161,10 @@ tags: [japan, todo, check]
 ## 🆕 Added 2026-11-16 (correction)
 - [ ] **Return flight changed Nov 14** (Emirates DP3V72 email): EY801 Narita Sat Dec 12 17:20 → Abu Dhabi, EY595 → Tel Aviv, lands Sun Dec 13 05:05. My daily brief wrongly said "no flight home" — it read an outdated vault. Confirm in the email that EK319 (Dec 11) was cancelled and not double-booked; terminal and seats not stated
 - [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~13:30, estimate) — plan it or keep it light
+
+## 🌙 Added 2026-11-16 (evening prep)
+- [ ] **Tue Nov 17 Matsumoto forecast unverified** (search returned only links; check weathernews.jp/onebox/tenki/nagano/20202/ at 07:00) — Matsumoto is colder than Kawaguchiko; frost possible at dawn, wet roads on Chuo Expwy higher sections
+- [ ] **Matsumoto dinner Tue Nov 17 still unbooked** — call BANIKU BARU 0263-39-0141 (open 17:00-22:00) before leaving Kawaguchiko in the morning or from the road; fallback: izakaya near the hotel
+- [ ] **Matsumoto Castle Nov hours/last entry still unverified** (vault says 08:30-16:30; last entry is usually 16:00) — aim to arrive by ~14:45; check matsumoto-castle.jp
+- [ ] **No Chuo Expressway closure notice found for Nov 17** (NEXCO search returned nothing relevant — not a guarantee); check Google Maps/JARTIC before leaving 08:00
+- [ ] **Hotel Buena Vista parking** (0263-37-0111) and Narai-juku lunch hours (Kokoro-ne 11:00-14:30, Tokkuriya 11:30-15:00) — vault values, unverified today
