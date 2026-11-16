@@ -170,3 +170,12 @@ tags: [japan, todo, check]
 - [ ] **Matsumoto Castle Nov hours/last entry still unverified** (vault says 08:30-16:30; last entry is usually 16:00) — aim to with a ~10:00 departure you reach the castle ~13:15, fine; check matsumoto-castle.jp
 - [ ] **No Chuo Expressway closure notice found for Nov 17** (NEXCO search returned nothing relevant — not a guarantee); check Google Maps/JARTIC before leaving 08:00
 - [ ] **Hotel Buena Vista parking** (0263-37-0111)(Narai-juku lunch no longer on the plan)
+
+## 🆕 Added 2026-11-17 (daily brief)
+- [ ] **Matsumoto dinner TONIGHT still unbooked** — BANIKU BARU 0263-39-0141 (open 17:00-22:00); call before ~15:00 or from the road. Fallback: izakaya near the hotel. Kobayashi Soba has no Tuesday dinner
+- [ ] **Hotel Buena Vista (Expedia listing, not hotel site):** check-in 15:00-24:00 (no late check-in), check-out 11:00, parking ¥1,100/night, limited spaces, height limit not stated; early bag drop not stated. Call 0263-37-0111 from the road to reserve a space and confirm bag drop
+- [ ] **Matsumoto Castle (go-nagano, page updated 2025-04):** regular hours 08:30-17:00, last entry 16:30; adult ¥1,200 e-ticket / ¥1,300 paper; vault's "closes 16:30" is off by 30 min. Official matsumoto-castle.jp not reached — confirm today's hours there
+- [ ] **Tue Nov 17 forecast is only a 2-week-ahead Weathernews figure (issued ~Nov 3): 16/7°C, rain 50%, reliability E** — treat as unverified; check live at 07:00. Sunset 16:40 (computed)
+- [ ] **Nov 18 Rte 158:** newest notice found still dated Jul 14 (landslide Feb 25 in Nyukawa-cho, Takayama side; detour via Takayama city road ≈ +10 min; restoration undecided). Abo/Matsumoto side open as usual. Check Gifu road info (douro.pref.gifu.lg.jp) or call 0577-33-1111 tomorrow morning
+- [ ] **Tolls Kawaguchiko → Matsumoto not found** (distance 135-143 km, ~1h50-2h10 per Wanderlog/TravelProfy); ETC card in the car? (still unconfirmed from Nov 15 Toyota call)
+- [ ] **Fuel:** fill up on the way or tonight; Niimura Apollostation (24h) is the plan for tomorrow morning before Rte 158
