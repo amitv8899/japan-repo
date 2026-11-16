@@ -128,7 +128,7 @@ tags: [japan, todo, check]
 - [ ] **TODAY: way down from Chuzenji to Tobu-Nikko for the 08:58 train** — Nikko forecast is rain/snow, 5/-1°C (Weathernews, Nov 14 17:00); hotel shuttle (08:50) misses it. Taxi must leave Chuzenji ~07:40 (fare/time unverified, ~50 min by bus). Ask the front desk at 07:00; if you take the shuttle you arrive 09:40 and the next train to Shinjuku is unverified (check Navitime/Jorudan) — pickup is 14:00
 - [ ] **TODAY: Toyota Shinjuku call never confirmed** (03-3341-2603, open 08:00-20:00): winter tires, ETC card, earlier pickup. Call when you reach Shinjuku (~11:44) or at the counter; Nov 18 Rte 158 and Nov 20 Shirakawa-go need winter tires or chains
 - [ ] **Tomorrow Mon Nov 16 forecast improved:** 12/3°C, dry until ~18:00; light rain 18:00-21:00 may wet the Momiji Kairo lights. Momiji peak forecast Nov 14-23 (best ~Nov 18) — keep the 06:30 Oishi Park dawn plan
-- [ ] **Book dinner in Matsumoto for Tue Nov 17** (BANIKU BARU 0263-39-0141 or another) — 2 days left; Kobayashi Soba has no Tuesday dinner
+- [ ] **Book dinner in Matsumoto for Tue Nov 17** — no horse meat (basashi); candidates in [[Road Trip]] (Takefudo Nakamachi, Kura no Mukou, Kawasho), none verified; Kobayashi Soba has no Tuesday dinner
 - [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
 - [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
 - [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
@@ -146,7 +146,7 @@ tags: [japan, todo, check]
 - [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
 
 ## 🆕 Added 2026-11-16 (daily brief)
-- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — BANIKU BARU 0263-39-0141; call today
+- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — pick a horse-free place (see [[Road Trip]]) and confirm Tuesday hours; call today
 - [ ] **Oishi Tsumugi Traditional Craft Hall** (Oishi 1438-1, 0555-76-7901): 9:00-16:00, closed Tuesdays (info dated 2021) — only today works; hand-weaving ¥7,000 needs a reservation (~90 min), dyeing ¥1,500. Whether visitors can just watch weaving is unverified; call at 09:00
 - [ ] **Ropeway price/phone conflict:** gltjp says adult ¥1,000 round trip, 08:30-17:00, tel 0555-72-0363; Amit's draft says ¥1,200 and the vault has 0555-75-2929
 - [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
