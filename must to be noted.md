@@ -179,3 +179,8 @@ tags: [japan, todo, check]
 - [ ] **Nov 18 Rte 158:** newest notice found still dated Jul 14 (landslide Feb 25 in Nyukawa-cho, Takayama side; detour via Takayama city road ≈ +10 min; restoration undecided). Abo/Matsumoto side open as usual. Check Gifu road info (douro.pref.gifu.lg.jp) or call 0577-33-1111 tomorrow morning
 - [ ] **Tolls Kawaguchiko → Matsumoto not found** (distance 135-143 km, ~1h50-2h10 per Wanderlog/TravelProfy); ETC card in the car? (still unconfirmed from Nov 15 Toyota call)
 - [ ] **Fuel:** fill up on the way or tonight; Niimura Apollostation (24h) is the plan for tomorrow morning before Rte 158
+
+## 🌙 Added 2026-11-17 (evening prep)
+- [ ] **Wed Nov 18 Rte 158 status still unverified (newest info Jul 2026):** Nyukawa-cho/Shioya (Takayama side) closed 2.4 km after the Feb 25 landslide + Apr 28 re-collapse; no reopening date. Passenger cars use the ~3.3 km city-road detour (Okuhida notice, updated Jul 14). Check douro.pref.gifu.lg.jp or call Takayama city 0577-32-3333 before leaving; wide detour if closed: Rte 41/471 or Chuo Expwy via Ina IC (130+ km)
+- [ ] **Takayama Jinya Nov hours: 08:45-16:30, ticket window closes 16:00** (¥500; page last modified 2020 — check jinya.gifu.jp/en/news). Arrive 15:00 as planned, don't go after 16:00. Vault note "closes 16:30" = building close, not last entry
+- [ ] **Wed Nov 18 weather unverified** (search returned only links) — check weathernews.jp Takayama/Matsumoto at 07:00; Hirayu (~1,300 m) can have ice/snow in mid-Nov, winter tires/chains were never confirmed with Toyota
