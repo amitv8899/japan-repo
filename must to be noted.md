@@ -184,3 +184,11 @@ tags: [japan, todo, check]
 - [ ] **Wed Nov 18 Rte 158 status still unverified (newest info Jul 2026):** Nyukawa-cho/Shioya (Takayama side) closed 2.4 km after the Feb 25 landslide + Apr 28 re-collapse; no reopening date. Passenger cars use the ~3.3 km city-road detour (Okuhida notice, updated Jul 14). Check douro.pref.gifu.lg.jp or call Takayama city 0577-32-3333 before leaving; wide detour if closed: Rte 41/471 or Chuo Expwy via Ina IC (130+ km)
 - [ ] **Takayama Jinya Nov hours: 08:45-16:30, ticket window closes 16:00** (¥500; page last modified 2020 — check jinya.gifu.jp/en/news). Arrive 15:00 as planned, don't go after 16:00. Vault note "closes 16:30" = building close, not last entry
 - [ ] **Wed Nov 18 weather unverified** (search returned only links) — check weathernews.jp Takayama/Matsumoto at 07:00; Hirayu (~1,300 m) can have ice/snow in mid-Nov, winter tires/chains were never confirmed with Toyota
+
+## 🆕 Added 2026-11-18 (daily brief)
+- [ ] **TODAY: Takayama dinner still unbooked** — Kyoya 0577-34-7660 (11:00-14:00, 17:00-20:00, reservation advised); fallback Hidagyu Maruaki 0577-35-5858 (to 20:30, no booking noted)
+- [ ] **TODAY: Rte 158 still unverified** — newest notice is Jul 14 (Nyukawa-cho/Shioya 2.4 km closed, city-road detour 3.3 km ~+10 min for cars, congestion likely). Nothing found for Abo/Hirayu winter closure in Nov 2026. Check Google Maps live traffic before 09:45; fallback Rte 41/471 via Ina IC is 130+ km
+- [ ] **Winter tires/chains never confirmed with Toyota** — Takayama low 1-8°C today, snow forecast Thu evening and likely Fri Nov 20 (AccuWeather: 1-3 in) — Shirakawa-go drive Fri 07:15 may be affected. Call Toyota Shinjuku 03-3341-2603 or look at the car for the tire type and a chain kit
+- [ ] **Nov 20 Fri snow risk** — decide Thu night whether to still drive Shirakawa-go 07:15 or leave earlier/go direct to Kanazawa
+- [ ] **Hotel around TAKAYAMA parking (2 nights)** unverified; phone conflict: Road Trip.md 0577-36-2811 vs stay note +81-577-33-0880 — try both
+- [ ] **Takayama forecast Wed Nov 18:** rain early morning and evening (~5-16 mm, sources differ), high 14-18°C, low 1-8°C; Thu high 7-9°C, snow from ~15:00 — Hirayu (~1,300 m) will be colder; hida.jp and weathernews.jp could not be reached
