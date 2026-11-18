@@ -198,3 +198,9 @@ tags: [japan, todo, check]
 - [ ] **Fill the tank tonight/tomorrow evening** for the Fri 07:15 Shirakawa-go leg; check tire type/chain kit before dark (never confirmed with Toyota)
 - [ ] **Fri Nov 20 go/no-go for Shirakawa-go** — decide Thu ~20:00 (JARTIC / Gifu road info / Google Maps); fallback: leave earlier or go direct to Kanazawa; Shirakawa parking 05769-6-3111 (¥2,000, not verified for Nov 20)
 - [ ] **Call Sushi Ikuta (Sat) and Myoryuji 076-241-0888 (08:30-17:00) by Nov 20** — still open above
+
+## 🆕 Added 2026-11-19 (daily brief)
+- [ ] **Fri Nov 20 heavy snow risk:** meteoblue shows Fri 3/0°C with snow; an unlabelled "8-12\"" most likely means 8-12 inches (20-30 cm), not verified. Snapshot was labelled "Thu Today", so its timing is uncertain. Decide by Thu ~20:00 whether to drive the Tokai-Hokuriku Expwy to Shirakawa-go at 07:15, leave earlier, or go straight to Kanazawa; check tires/chains tonight (never confirmed with Toyota 03-3341-2603) and JARTIC/Gifu road info
+- [ ] **Thu Nov 19 weather (meteoblue):** 9/2°C, rain through the day, light snow from ~21:00 — dress waterproof; do outdoor Sanmachi/market early, then Yatai Kaikan/ramen
+- [ ] **Menya Shirakawa is cash only and closes when the soup runs out** (opens 11:00, closed Tue) — arrive by ~11:00 with cash; Kamon (11:00-14:30) is the fallback, ticket machine, cards if asked
+- [ ] **Fill the tank today** (Fri 07:15 start, snow possible); no Takayama station verified — look for one on the way into town

@@ -18,6 +18,7 @@ tags: [japan, takayama, events]
 - [ ] Autumn Nakabashi + Enagogawa light-ups, Oct 1-Nov 30 nightly (hours/price not found; enjoytokyo.jp listing) — evening stroll from Sanmachi
 - [ ] Hida Kokubun-ji 1,200-year-old ginkgo — foliage listed late Nov-early Dec, may be early on Nov 19-20
 - [ ] Winter Hida Takayama light-up starts Dec 1 (after your stay)
+- [ ] Nov 19-20 weather: rain then snow Thu night, heavy snow forecast Fri (meteoblue) — outdoor light-ups/ginkgo may be wet or snowed over
 
 ## My Picks
 > [!note] Fill in your own choices here
