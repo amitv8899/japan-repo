@@ -192,3 +192,9 @@ tags: [japan, todo, check]
 - [ ] **Nov 20 Fri snow risk** — decide Thu night whether to still drive Shirakawa-go 07:15 or leave earlier/go direct to Kanazawa
 - [ ] **Hotel around TAKAYAMA parking (2 nights)** unverified; phone conflict: Road Trip.md 0577-36-2811 vs stay note +81-577-33-0880 — try both
 - [ ] **Takayama forecast Wed Nov 18:** rain early morning and evening (~5-16 mm, sources differ), high 14-18°C, low 1-8°C; Thu high 7-9°C, snow from ~15:00 — Hirayu (~1,300 m) will be colder; hida.jp and weathernews.jp could not be reached
+
+## 🆕 Added 2026-11-18 (evening prep for Thu Nov 19)
+- [ ] **Thu Nov 19 Takayama forecast still unverified** (search returned only links; vault note: snow from ~15:00, high 7-9°C) — check weathernews.jp/meteoblue at 07:00; keep the afternoon indoors
+- [ ] **Fill the tank tonight/tomorrow evening** for the Fri 07:15 Shirakawa-go leg; check tire type/chain kit before dark (never confirmed with Toyota)
+- [ ] **Fri Nov 20 go/no-go for Shirakawa-go** — decide Thu ~20:00 (JARTIC / Gifu road info / Google Maps); fallback: leave earlier or go direct to Kanazawa; Shirakawa parking 05769-6-3111 (¥2,000, not verified for Nov 20)
+- [ ] **Call Sushi Ikuta (Sat) and Myoryuji 076-241-0888 (08:30-17:00) by Nov 20** — still open above
