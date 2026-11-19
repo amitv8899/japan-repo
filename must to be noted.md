@@ -210,3 +210,12 @@ tags: [japan, todo, check]
 - [ ] **Hida winter-driving rules (shirakawa-go.gr.jp notice, Dec 2025):** snow tires mandatory in the Takayama/Shirakawa-go area in winter — winter tires still never confirmed on the rental. Check the car tonight or call Toyota (03-3341-2603, closes 20:00); if not on snow tires, skip Shirakawa-go by car (bus option in [[Car Trip]])
 - [ ] **Unagi Yondaime Kikukawa Crossgate Kanazawa** (Cross Gate 2F, 1-5-3 Hirooka, 076-255-2670?): 11:30–15:00, 17:00–22:00, no closing days (visitkanazawa, page ©2022); reservations not stated — call before 19:00 Fri
 - [ ] **Shirakawa-go Seseragi parking Nov 20:** still unverified (village office 05769-6-3111)
+
+## 🆕 Added 2026-11-20 (daily brief)
+- [ ] **TODAY Fri Nov 20 Kanazawa forecast conflicts:** wetter2 7/2°C, 61% rain, light sleet from ~21:00; weerplaza 10/8°C, ~21 mm, W wind force 5-6, thunder chance ~19:00-23:00. Either way a wet, windy day: umbrella + rain jacket, keep Higashi Chaya short, taxi back after dinner
+- [ ] **Hida notice dated 2026-11-19 (city.hida.gifu.jp):** snow tires requested mid-Nov to March in northern Gifu, roads may close for heavy snow; check JARTIC before the Shirakawa-go drive. Tire type on the rental still never confirmed
+- [ ] **Kenrokuen/Castle illumination is NOT tonight:** 2026 nights listed Nov 7, 14, 15, 21, 22, 28, 29 (18:00-20:45, free; secondary sources, official pages not read). Sat 21 and Sun 22 are fine. Castle Park Gyokusen'inmaru "Fri/Sat" light-up is unconfirmed
+- [ ] **Call Myoryuji 076-241-0888 TODAY (08:30-17:00)** for Sun Nov 22 09:30 — last day in the plan to book
+- [ ] **Sushi Ikuta (Sat Nov 21 19:45) still unbooked** — book today; no phone in vault (unverified, search TableCheck/Omakase)
+- [ ] **Kikukawa tonight 19:00:** reported hours 11:30-15:00 / 17:00-22:00 (2022 page), reservations not stated — call before 19:00 or have a plan B
+- [ ] Omicho hours sources conflict (09:00-16:00 visitkanazawa 2022 vs 09:00-17:00 ishikawatravel); stalls vary — arrive by 13:00 as planned
