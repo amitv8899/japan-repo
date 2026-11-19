@@ -11,13 +11,13 @@ Back-links: [[Japan Trip|🗾 Main Itinerary]] · [[Hotels]] · [[Budget]]
 
 | Leg | Airline | Flight | Route | Departure | Arrival | Duration | Aircraft | Class |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Etihad | EY801 | Tokyo Narita → Abu Dhabi | Dec 12, 17:20 | Dec 13, 00:40 | 12h 20m | Airbus A380-800 | Economy |
-| — | — | — | Connection in Abu Dhabi | — | — | 2h 45m | — | — |
-| 2 | Etihad | EY595 | Abu Dhabi → Tel Aviv | Dec 13, 03:25 | Dec 13, 05:05 | 3h 40m | Airbus A321neo | Economy |
+| 1 | Etihad | EY801 | Tokyo Narita (Terminal 1) → Abu Dhabi (Terminal A) | Dec 12, 17:35 | Dec 13, 00:50 | 12h 15m | Airbus A380-800 | Economy |
+| — | — | — | Connection in Abu Dhabi | — | — | 2h 35m | — | — |
+| 2 | Etihad | EY595 | Abu Dhabi (Terminal A) → Tel Aviv (Terminal 3) | Dec 13, 03:25 | Dec 13, 05:25 | 4h 00m | Airbus A321LR | Economy |
 
-Total journey 18h 45m. Seats are not assigned yet.
+Total journey 18h 50m. Seats are not assigned yet. Times are from Etihad's flight-change notice of Nov 19 (ref 7KL96T).
 
-**Getting to Narita (estimate):** be at the airport by **14:20** (3h before 17:20). From THE BLOSSOM HIBIYA in Shinbashi, count 75–90 min by Narita Express from Tokyo Station, so leave the hotel around **12:30**. Confirm the terminal before the day.
+**Getting to Narita (estimate):** be at **Terminal 1** by **14:35** (3h before 17:35). From THE BLOSSOM HIBIYA in Shinbashi, count 75–90 min by Narita Express from Tokyo Station, so leave the hotel around **12:45**.
 
 ## Outbound — Nov 6–7, 2026 (flown)
 
@@ -29,7 +29,7 @@ Etihad EY608 Tel Aviv → Abu Dhabi (Nov 6, 14:25), then EY800 Abu Dhabi → Tok
 - **Etihad ref:** 7KL96T (operates EY801 + EY595)
 - **Passengers:** Amit Viner, Adi Scheffler
 - **Cost:** USD 2,570.74 for 2 passengers (~₪9,260) was the original booking total; the emails for the Nov 14 return change show no price, so check your card statement for any difference
-- **Check-in:** online opens 48h before departure, so about Dec 10, 17:20 (per the Emirates email; seats can be chosen then)
+- **Check-in:** online opens 48h before departure, so about Dec 10, 17:35 (seats can be chosen then)
 
 > [!info] Hotel dates vs flights
 > First hotel night is **Nov 7** (Keio Plaza, 6 nights). THE BLOSSOM HIBIYA is booked Dec 8–12, and every night is used.

@@ -11,7 +11,7 @@ trip_end: 2026-12-12
 > **Dates:** 2026-11-07 (Sat) → 2026-12-12 (Sat)
 > **Total days:** 36 (35 nights, all booked) · **Cities:** 11 · **Stays:** 12
 > **Season:** peak autumn foliage (koyo) — spectacular, crowded, cold. Pack layers.
-> **Flights:** depart Tel Aviv Nov 6, land Tokyo Nov 7; leave Tokyo Sat Dec 12 at 17:20, land Tel Aviv Sun Dec 13 at 05:05 — see [[Flights]].
+> **Flights:** depart Tel Aviv Nov 6, land Tokyo Nov 7; leave Tokyo Sat Dec 12 at 17:35, land Tel Aviv Sun Dec 13 at 05:25 — see [[Flights]].
 
 ## 🧭 Route
 
@@ -46,7 +46,7 @@ link to map : https://www.google.com/maps/d/edit?mid=1LULLED7JngTvYSGvr5gXroN4lN
 - [ ] **Suica / PASMO / ICOCA** — add to phone wallet or buy Welcome Suica on arrival
 - [ ] **eSIM** installed + tested before departure
 - [ ] **Pocket wifi** only if multiple devices / heavy use
-- [ ] Online check-in for the Dec 12 flights (EY801 + EY595) opens 48h before, about Dec 10 17:20; no seats assigned yet
+- [ ] Online check-in for the Dec 12 flights (EY801 + EY595) opens 48h before, about Dec 10 17:35; no seats assigned yet
 
 ### Reservations (book weeks ahead)
 - [x] teamLab Kyoto Biovortex Nov 24 booked (Tokyo Borderless Dec 9 is optional — no reminder)

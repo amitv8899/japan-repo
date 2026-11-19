@@ -17,6 +17,7 @@ tags: [japan, matsumoto, locations]
 - [ ] Matsumoto City Museum of Art (Yayoi Kusama hometown)
 - [ ] Metoba River walk
 - [ ] Optional Daio Wasabi Farm (Azumino) if time
+- [ ] Japan Ukiyo-e Museum (Matsumoto) — rain backup; hours/price/closed days unverified
 
 ## My Picks
 > [!note] Fill in your own choices here

@@ -99,25 +99,22 @@ Back-links: [[Car Trip]] · [[Transport]] · [[Hotels]] · [[Daily-Plan]] · [[m
 
 ---
 
-## Nov 17 (Tue): Fujikawaguchiko → Narai-juku → Matsumoto · sleep: Hotel Buena Vista
+## Nov 17 (Tue): Fujikawaguchiko → Matsumoto (direct) · sleep: Hotel Buena Vista
 
-Your longest driving day (~4.5-5h with stops). Leave by 08:00.
+Changed 2026-11-16: no Narai-juku stop. Drive straight to Matsumoto; the rest of the day is castle, walking the old town and eating.
 
 | Time | Plan | Notes |
 |---|---|---|
-| 07:00 | Breakfast, check out | |
-| 08:00 | Drive Chuo Expressway to Shiojiri IC | ~2h20 |
-| 11:00 | Narai-juku (Nakasendo post town) | Park, walk the 1 km main street. Food stalls close ~14:00 |
-| 11:30 | Lunch: soba at Kokoro-ne or Soba Tokkuriya | Kokoro-ne closed Wed (Tue is fine) |
-| 13:15 | Drive to Matsumoto (~40 min) | |
-| 14:00 | Park at the hotel, drop bags | Hotel is ~1.2 km south of the castle |
-| 14:30 | Matsumoto Castle | Closes 16:30 (verify last entry). 60-90 min. Steep stairs, shoes off |
-| 16:00 | Nawate-dori → Nakamachi-dori | Shops close ~17:00-17:30 |
-| 16:45 | Coffee: Alps Coffee Lab (to 17:45) or oyaki at cohiludo (to 17:00) | |
+| 08:00 | Breakfast at the hotel, back to the room, pack | Last breakfast seating 09:30 |
+| ~10:00 | Check out, drive Chuo Expressway to Matsumoto IC | ~2h30 (unverified), Tue is the lightest traffic day |
+| ~12:30-13:00 | Park at the hotel, drop bags | Check-in ~15:00 (verify); ask about parking. Hotel ~1.2 km south of the castle |
+| 13:15 | Matsumoto Castle | Closes 16:30 (last entry ~16:00, verify). 60-90 min, steep stairs, shoes off. Queue ~30 min. Eat first if hungry (Kobayashi Soba closes 16:00, queue) |
+| 15:00 | Nawate-dori (frog street) snacks → Nakamachi-dori | Shops close ~17:00-17:30 |
+| 16:15 | Coffee: Alps Coffee Lab (to 17:45) or oyaki at cohiludo (to 17:00) | |
 | 18:30 | Dinner, no horse meat (Amit doesn't eat it; many Matsumoto izakaya serve basashi, so check the menu) | Options (all unverified, confirm Tuesday hours): Takefudo Matsumoto Nakamachi (weekday dinner 17:30-21:00, last order 20:00), Kura no Mukou (soba izakaya near the station), Kawasho (famous sanzoku-yaki, but out at Asama Onsen: bus or taxi). Kobayashi Soba has no Tuesday dinner |
-| 20:00 | Castle grounds after dark (optional) | Lighting at night: not confirmed |
+| 20:00 | Castle grounds after dark (optional) | Night lighting not confirmed |
 
-**Matsumoto is one night: the minimum.** Castle + the two streets + one good coffee. If you want a second sight: Matsumoto City Museum of Art (Kusama) or the Metoba river walk.
+Narai-juku, Kokoro-ne and Soba Tokkuriya (rows below) are dropped from the plan; kept only for reference.
 
 | Stop | Address | Phone (type into car navi) | Hours / note | Navigate |
 |---|---|---|---|---|

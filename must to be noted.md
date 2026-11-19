@@ -73,7 +73,7 @@ tags: [japan, todo, check]
 - [ ] **Toyota Shinjuku call still open** (shop open until 20:00, call before then) — rainy Sunday, confirm winter tires/ETC and whether pickup earlier than 14:00 is possible
 
 ## ✈️ Flights
-- [ ] **Return flights Dec 12 (EY801 17:20 → EY595 → Tel Aviv Dec 13 05:05)** — no seats assigned; online check-in opens ~Dec 10 17:20; confirm the Narita terminal; leave the hotel ~12:30 (airport by 14:20); the emails show no price for the Nov 14 change, so check the card statement for a fare difference ([[Flights]])
+- [ ] **Return flights Dec 12 (EY801 17:35 from Narita Terminal 1 → EY595 → Tel Aviv Dec 13 05:25)** — Etihad changed the times on Nov 19; no seats assigned; online check-in opens ~Dec 10 17:35; leave the hotel ~12:45 (airport by 14:35); the emails show no price for the Nov 14 change, so check the card statement for a fare difference ([[Flights]])
 
 ## 🚆 Transport
 - [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
@@ -128,7 +128,6 @@ tags: [japan, todo, check]
 - [ ] **TODAY: way down from Chuzenji to Tobu-Nikko for the 08:58 train** — Nikko forecast is rain/snow, 5/-1°C (Weathernews, Nov 14 17:00); hotel shuttle (08:50) misses it. Taxi must leave Chuzenji ~07:40 (fare/time unverified, ~50 min by bus). Ask the front desk at 07:00; if you take the shuttle you arrive 09:40 and the next train to Shinjuku is unverified (check Navitime/Jorudan) — pickup is 14:00
 - [ ] **TODAY: Toyota Shinjuku call never confirmed** (03-3341-2603, open 08:00-20:00): winter tires, ETC card, earlier pickup. Call when you reach Shinjuku (~11:44) or at the counter; Nov 18 Rte 158 and Nov 20 Shirakawa-go need winter tires or chains
 - [ ] **Tomorrow Mon Nov 16 forecast improved:** 12/3°C, dry until ~18:00; light rain 18:00-21:00 may wet the Momiji Kairo lights. Momiji peak forecast Nov 14-23 (best ~Nov 18) — keep the 06:30 Oishi Park dawn plan
-- [ ] **Book dinner in Matsumoto for Tue Nov 17** — no horse meat (basashi); candidates in [[Road Trip]] (Takefudo Nakamachi, Kura no Mukou, Kawasho), none verified; Kobayashi Soba has no Tuesday dinner
 - [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
 - [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
 - [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
@@ -146,7 +145,6 @@ tags: [japan, todo, check]
 - [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
 
 ## 🆕 Added 2026-11-16 (daily brief)
-- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — pick a horse-free place (see [[Road Trip]]) and confirm Tuesday hours; call today
 - [ ] **Oishi Tsumugi Traditional Craft Hall** (Oishi 1438-1, 0555-76-7901): 9:00-16:00, closed Tuesdays (info dated 2021) — only today works; hand-weaving ¥7,000 needs a reservation (~90 min), dyeing ¥1,500. Whether visitors can just watch weaving is unverified; call at 09:00
 - [ ] **Ropeway price/phone conflict:** gltjp says adult ¥1,000 round trip, 08:30-17:00, tel 0555-72-0363; Amit's draft says ¥1,200 and the vault has 0555-75-2929
 - [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
@@ -154,4 +152,60 @@ tags: [japan, todo, check]
 - [ ] **Momiji Kairo:** Weathernews Nov 13 about half coloured, peak from ~Nov 17; Red Line bus reportedly stops ~17:45 (one source), so the 18:00 lights need car/taxi; parking unverified
 
 ## 🆕 Added 2026-11-16
-- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~12:30 to be there by 14:20, estimate) — plan it or keep it light
+- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~12:45 to be there by 14:35, estimate) — plan it or keep it light
+
+## 🌙 Added 2026-11-16 (evening prep)
+- [ ] **Tue Nov 17 Matsumoto forecast unverified** (search returned only links; check weathernews.jp/onebox/tenki/nagano/20202/ at 07:00) — Matsumoto is colder than Kawaguchiko; frost possible at dawn, wet roads on Chuo Expwy higher sections
+- [ ] **Clarify: "9.5" in Amit's message** — I read it as Tue Nov 17 (leave ~10:00, breakfast 08:00, pack, then drive); tell me if it meant a different date/time
+- [ ] **Nov 17 plan changed (Amit, 11-16): drive straight to Matsumoto, no Narai-juku.** Castle ~11:00 right after parking; check hotel early bag drop (0263-37-0111) since check-in is ~15:00; fuel/rest stop on the Chuo is on you
+- [ ] **Matsumoto Castle Nov hours/last entry still unverified** (vault says 08:30-16:30; last entry is usually 16:00) — aim to with a ~10:00 departure you reach the castle ~13:15, fine; check matsumoto-castle.jp
+- [ ] **No Chuo Expressway closure notice found for Nov 17** (NEXCO search returned nothing relevant — not a guarantee); check Google Maps/JARTIC before leaving 08:00
+- [ ] **Hotel Buena Vista parking** (0263-37-0111)(Narai-juku lunch no longer on the plan)
+
+## 🆕 Added 2026-11-17 (daily brief)
+- [ ] **Hotel Buena Vista (Expedia listing, not hotel site):** check-in 15:00-24:00 (no late check-in), check-out 11:00, parking ¥1,100/night, limited spaces, height limit not stated; early bag drop not stated. Call 0263-37-0111 from the road to reserve a space and confirm bag drop
+- [ ] **Matsumoto Castle (go-nagano, page updated 2025-04):** regular hours 08:30-17:00, last entry 16:30; adult ¥1,200 e-ticket / ¥1,300 paper; vault's "closes 16:30" is off by 30 min. Official matsumoto-castle.jp not reached — confirm today's hours there
+- [ ] **Tue Nov 17 forecast is only a 2-week-ahead Weathernews figure (issued ~Nov 3): 16/7°C, rain 50%, reliability E** — treat as unverified; check live at 07:00. Sunset 16:40 (computed)
+- [ ] **Nov 18 Rte 158:** newest notice found still dated Jul 14 (landslide Feb 25 in Nyukawa-cho, Takayama side; detour via Takayama city road ≈ +10 min; restoration undecided). Abo/Matsumoto side open as usual. Check Gifu road info (douro.pref.gifu.lg.jp) or call 0577-33-1111 tomorrow morning
+- [ ] **Tolls Kawaguchiko → Matsumoto not found** (distance 135-143 km, ~1h50-2h10 per Wanderlog/TravelProfy); ETC card in the car? (still unconfirmed from Nov 15 Toyota call)
+- [ ] **Fuel:** fill up on the way or tonight; Niimura Apollostation (24h) is the plan for tomorrow morning before Rte 158
+
+## 🌙 Added 2026-11-17 (evening prep)
+- [ ] **Wed Nov 18 Rte 158 status still unverified (newest info Jul 2026):** Nyukawa-cho/Shioya (Takayama side) closed 2.4 km after the Feb 25 landslide + Apr 28 re-collapse; no reopening date. Passenger cars use the ~3.3 km city-road detour (Okuhida notice, updated Jul 14). Check douro.pref.gifu.lg.jp or call Takayama city 0577-32-3333 before leaving; wide detour if closed: Rte 41/471 or Chuo Expwy via Ina IC (130+ km)
+- [ ] **Takayama Jinya Nov hours: 08:45-16:30, ticket window closes 16:00** (¥500; page last modified 2020 — check jinya.gifu.jp/en/news). Arrive 15:00 as planned, don't go after 16:00. Vault note "closes 16:30" = building close, not last entry
+- [ ] **Wed Nov 18 weather unverified** (search returned only links) — check weathernews.jp Takayama/Matsumoto at 07:00; Hirayu (~1,300 m) can have ice/snow in mid-Nov, winter tires/chains were never confirmed with Toyota
+
+## 🆕 Added 2026-11-18 (daily brief)
+- [ ] **TODAY: Takayama dinner still unbooked** — Kyoya 0577-34-7660 (11:00-14:00, 17:00-20:00, reservation advised); fallback Hidagyu Maruaki 0577-35-5858 (to 20:30, no booking noted)
+- [ ] **TODAY: Rte 158 still unverified** — newest notice is Jul 14 (Nyukawa-cho/Shioya 2.4 km closed, city-road detour 3.3 km ~+10 min for cars, congestion likely). Nothing found for Abo/Hirayu winter closure in Nov 2026. Check Google Maps live traffic before 09:45; fallback Rte 41/471 via Ina IC is 130+ km
+- [ ] **Winter tires/chains never confirmed with Toyota** — Takayama low 1-8°C today, snow forecast Thu evening and likely Fri Nov 20 (AccuWeather: 1-3 in) — Shirakawa-go drive Fri 07:15 may be affected. Call Toyota Shinjuku 03-3341-2603 or look at the car for the tire type and a chain kit
+- [ ] **Nov 20 Fri snow risk** — decide Thu night whether to still drive Shirakawa-go 07:15 or leave earlier/go direct to Kanazawa
+- [ ] **Hotel around TAKAYAMA parking (2 nights)** unverified; phone conflict: Road Trip.md 0577-36-2811 vs stay note +81-577-33-0880 — try both
+- [ ] **Takayama forecast Wed Nov 18:** rain early morning and evening (~5-16 mm, sources differ), high 14-18°C, low 1-8°C; Thu high 7-9°C, snow from ~15:00 — Hirayu (~1,300 m) will be colder; hida.jp and weathernews.jp could not be reached
+
+## 🆕 Added 2026-11-18 (evening prep for Thu Nov 19)
+- [ ] **Thu Nov 19 Takayama forecast still unverified** (search returned only links; vault note: snow from ~15:00, high 7-9°C) — check weathernews.jp/meteoblue at 07:00; keep the afternoon indoors
+- [ ] **Fill the tank tonight/tomorrow evening** for the Fri 07:15 Shirakawa-go leg; check tire type/chain kit before dark (never confirmed with Toyota)
+- [ ] **Fri Nov 20 go/no-go for Shirakawa-go** — decide Thu ~20:00 (JARTIC / Gifu road info / Google Maps); fallback: leave earlier or go direct to Kanazawa; Shirakawa parking 05769-6-3111 (¥2,000, not verified for Nov 20)
+- [ ] **Call Sushi Ikuta (Sat) and Myoryuji 076-241-0888 (08:30-17:00) by Nov 20** — still open above
+
+## 🆕 Added 2026-11-19 (daily brief)
+- [ ] **Fri Nov 20 heavy snow risk:** meteoblue shows Fri 3/0°C with snow; an unlabelled "8-12\"" most likely means 8-12 inches (20-30 cm), not verified. Snapshot was labelled "Thu Today", so its timing is uncertain. Decide by Thu ~20:00 whether to drive the Tokai-Hokuriku Expwy to Shirakawa-go at 07:15, leave earlier, or go straight to Kanazawa; check tires/chains tonight (never confirmed with Toyota 03-3341-2603) and JARTIC/Gifu road info
+- [ ] **Thu Nov 19 weather (meteoblue):** 9/2°C, rain through the day, light snow from ~21:00 — dress waterproof; do outdoor Sanmachi/market early, then Yatai Kaikan/ramen
+- [ ] **Menya Shirakawa is cash only and closes when the soup runs out** (opens 11:00, closed Tue) — arrive by ~11:00 with cash; Kamon (11:00-14:30) is the fallback, ticket machine, cards if asked
+- [ ] **Fill the tank today** (Fri 07:15 start, snow possible); no Takayama station verified — look for one on the way into town
+
+## 🌙 Added 2026-11-19 (evening prep for Fri Nov 20)
+- [ ] **Fri Nov 20 forecast (meteoblue, 1 source):** Takayama 3/0°C, rain–snow mix, ~10–20 mm, overcast; snow already from ~18:00 Thu (~5 mm by midnight). **Kanazawa 8/7°C, rain with thunderstorms, >20 mm** — wet day for car return, Omicho and Higashi Chaya; pack rain gear
+- [ ] **Hida winter-driving rules (shirakawa-go.gr.jp notice, Dec 2025):** snow tires mandatory in the Takayama/Shirakawa-go area in winter — winter tires still never confirmed on the rental. Check the car tonight or call Toyota (03-3341-2603, closes 20:00); if not on snow tires, skip Shirakawa-go by car (bus option in [[Car Trip]])
+- [ ] **Unagi Yondaime Kikukawa Crossgate Kanazawa** (Cross Gate 2F, 1-5-3 Hirooka, 076-255-2670?): 11:30–15:00, 17:00–22:00, no closing days (visitkanazawa, page ©2022); reservations not stated — call before 19:00 Fri
+- [ ] **Shirakawa-go Seseragi parking Nov 20:** still unverified (village office 05769-6-3111)
+
+## 🆕 Added 2026-11-20 (daily brief)
+- [ ] **TODAY Fri Nov 20 Kanazawa forecast conflicts:** wetter2 7/2°C, 61% rain, light sleet from ~21:00; weerplaza 10/8°C, ~21 mm, W wind force 5-6, thunder chance ~19:00-23:00. Either way a wet, windy day: umbrella + rain jacket, keep Higashi Chaya short, taxi back after dinner
+- [ ] **Hida notice dated 2026-11-19 (city.hida.gifu.jp):** snow tires requested mid-Nov to March in northern Gifu, roads may close for heavy snow; check JARTIC before the Shirakawa-go drive. Tire type on the rental still never confirmed
+- [ ] **Kenrokuen/Castle illumination is NOT tonight:** 2026 nights listed Nov 7, 14, 15, 21, 22, 28, 29 (18:00-20:45, free; secondary sources, official pages not read). Sat 21 and Sun 22 are fine. Castle Park Gyokusen'inmaru "Fri/Sat" light-up is unconfirmed
+- [ ] **Call Myoryuji 076-241-0888 TODAY (08:30-17:00)** for Sun Nov 22 09:30 — last day in the plan to book
+- [ ] **Sushi Ikuta (Sat Nov 21 19:45) still unbooked** — book today; no phone in vault (unverified, search TableCheck/Omakase)
+- [ ] **Kikukawa tonight 19:00:** reported hours 11:30-15:00 / 17:00-22:00 (2022 page), reservations not stated — call before 19:00 or have a plan B
+- [ ] Omicho hours sources conflict (09:00-16:00 visitkanazawa 2022 vs 09:00-17:00 ishikawatravel); stalls vary — arrive by 13:00 as planned
