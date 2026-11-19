@@ -111,7 +111,7 @@ Changed 2026-11-16: no Narai-juku stop. Drive straight to Matsumoto; the rest of
 | 13:15 | Matsumoto Castle | Closes 16:30 (last entry ~16:00, verify). 60-90 min, steep stairs, shoes off. Queue ~30 min. Eat first if hungry (Kobayashi Soba closes 16:00, queue) |
 | 15:00 | Nawate-dori (frog street) snacks → Nakamachi-dori | Shops close ~17:00-17:30 |
 | 16:15 | Coffee: Alps Coffee Lab (to 17:45) or oyaki at cohiludo (to 17:00) | |
-| 18:30 | Dinner: BANIKU BARU (horse sashimi), book | Mixed reviews; Kobayashi Soba has no Tuesday dinner |
+| 18:30 | Dinner, no horse meat (Amit doesn't eat it; many Matsumoto izakaya serve basashi, so check the menu) | Options (all unverified, confirm Tuesday hours): Takefudo Matsumoto Nakamachi (weekday dinner 17:30-21:00, last order 20:00), Kura no Mukou (soba izakaya near the station), Kawasho (famous sanzoku-yaki, but out at Asama Onsen: bus or taxi). Kobayashi Soba has no Tuesday dinner |
 | 20:00 | Castle grounds after dark (optional) | Night lighting not confirmed |
 
 Narai-juku, Kokoro-ne and Soba Tokkuriya (rows below) are dropped from the plan; kept only for reference.
@@ -128,7 +128,6 @@ Narai-juku, Kokoro-ne and Soba Tokkuriya (rows below) are dropped from the plan;
 | **Alps Coffee Lab** | 2-4-9 Chuo, Matsumoto, Nagano 390-0811 | 070-3196-2708 | Tue 10:00-17:45; closed Wed/Thu. Specialty coffee | [Maps](https://www.google.com/maps/search/?api=1&query=36.2340813,137.9702371&query_place_id=ChIJlbZRL74PHWARWOrxkAXWGKI) · [Waze](https://waze.com/ul?ll=36.2340813,137.9702371&navigate=yes) |
 | **cohiludo (oyaki + coffee)** | 3-5-11 Ote, Matsumoto, Nagano 390-0874 | 0263-88-3291 | Tue 10:00-17:00; closed Wed. Famous oyaki (cheese-potato) | [Maps](https://www.google.com/maps/search/?api=1&query=36.2363657,137.9697207&query_place_id=ChIJG3t4ReYPHWAR0VGmlc8PstE) · [Waze](https://waze.com/ul?ll=36.2363657,137.9697207&navigate=yes) |
 | **Kobayashi Soba** | 3-3-20 Ote, Matsumoto, Nagano 390-0874 | 0263-32-1298 | Tue 11:00-16:00 only (evenings Fri/Sat); closed Wed/Thu. Queue | [Maps](https://www.google.com/maps/search/?api=1&query=36.2349186,137.9699525&query_place_id=ChIJe8Ruz5EOHWAR7ed1MacIKrY) · [Waze](https://waze.com/ul?ll=36.2349186,137.9699525&navigate=yes) |
-| **BANIKU BARU Shinmiyoshi (horse meat izakaya)** | 1-7-17 Chuo, Matsumoto, Nagano 390-0811 | 0263-39-0141 | 11:30-14:00, 17:00-22:00 daily. Basashi; reviews mixed, book if going | [Maps](https://www.google.com/maps/search/?api=1&query=36.2313448,137.96847&query_place_id=ChIJ4cuyTowOHWARnhG_0lG-BqY) · [Waze](https://waze.com/ul?ll=36.2313448,137.96847&navigate=yes) |
 
 ---
 
@@ -211,7 +210,7 @@ Narai-juku, Kokoro-ne and Soba Tokkuriya (rows below) are dropped from the plan;
 
 **Fujikawaguchiko (2 nights)** · must: Fuji at dawn from Oishi Park, hoto noodles, Momiji Kairo at night · skip: Yamanaka and Saruhashi unless you pick up early · tip: the Autumn Leaves Festival runs Nov 7-29, so the evening spots are busy on Nov 15-16.
 
-**Matsumoto (1 night)** · must: the castle (before 16:30), Nakamachi and Nawate streets, one soba or oyaki · eat: Kobayashi Soba is the famous one but is lunch-only on Tuesday and closed Wed/Thu; cohiludo has the best-reviewed oyaki · tip: dinner choices are thin on a Tuesday, book Baniku Baru or ask the hotel.
+**Matsumoto (1 night)** · must: the castle (before 16:30), Nakamachi and Nawate streets, one soba or oyaki · eat: Kobayashi Soba is the famous one but is lunch-only on Tuesday and closed Wed/Thu; cohiludo has the best-reviewed oyaki · tip: dinner choices are thin on a Tuesday and many izakaya serve horse meat (basashi); ask the hotel for a horse-free place or check the menu first.
 
 **Takayama (2 nights)** · must: Sanmachi Suji, morning market, Jinya, Hida beef (sushi at lunch, grilled at dinner) · eat: ramen at Kamon or Menya Shirakawa · tip: this town closes early (shops ~17:00, many restaurants shut 14:00-17:00), plan lunch before 14:00.
 

@@ -14,10 +14,9 @@ tags: [japan, todo, check]
 - [x] 4. **Collect the Nikko ticket (res. E19958)** at JR Shinjuku Midori no Madoguchi / View Plaza — do it Mon during shopping so a problem still leaves time to cancel (free until 21:00 Nov 12). Passport + card ending 3275 + QR/pickup code from Gmail
 - [x] 5. Mon forecast checked 2026-11-09: rain all day, 10/8°C (Yr) — indoor plan stands
 **This week:**
-- [x] 6. **Flight home** — done: Nov 14 Emirates rebooking DP3V72 = EY801 Narita → Abu Dhabi Dec 12 17:20 + EY595 → Tel Aviv, lands Dec 13 05:05
 - [ ] 7. Buy physical Suica (Narita/Shinjuku) if not done
 - [x] 8. Nov 12 21:00 — last free cancel of Nikko train (decide after pickup)
-**Later dates:** Dec 10 online check-in EY801 (unverified) · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
+**Later dates:** Dec 10 online check-in for the Dec 12 flights · before Nov 20-23: Sushi Ikuta, Myoryuji (phone), Matsumoto/Takayama dinners
 
 ## 🆕 Added 2026-11-11 (daily brief)
 - [ ] **Tori-no-Ichi dates were wrong in the vault** — 2026 Hanazono Shrine is Nov 7 and Nov 19 (eve Nov 18), not Nov 12; Nov 12 has no Tori-no-Ichi. Corrected in Events.md; confirm on torinoichi.jp if you want to go Nov 18/19 (you will be on the road trip then — likely skip)
@@ -74,11 +73,7 @@ tags: [japan, todo, check]
 - [ ] **Toyota Shinjuku call still open** (shop open until 20:00, call before then) — rainy Sunday, confirm winter tires/ETC and whether pickup earlier than 14:00 is possible
 
 ## ✈️ Flights
-- [x] **Flight home to Israel** — booked via the Nov 14 Emirates confirmation (DP3V72): EY801 NRT 17:20 Dec 12 → AUH 00:40 Dec 13, EY595 AUH 03:25 → TLV 05:05 Dec 13. Vault updated 2026-11-16 (it was stale)
-- [ ] **Online check-in** opens 48h before the return (EY801/EY595): about Dec 10 17:20 JST, unverified; seats not shown in the Nov 14 email. Nov 4 check-in is past
-
-## 🏨 Hotels
-- [x] **Blossom Hibiya night of Dec 11** — now used: flight moved to Dec 12 17:20, so keep the booking (no need to cancel by Dec 4)
+- [ ] **Return flights Dec 12 (EY801 17:35 from Narita Terminal 1 → EY595 → Tel Aviv Dec 13 05:25)** — Etihad changed the times on Nov 19; no seats assigned; online check-in opens ~Dec 10 17:35; leave the hotel ~12:45 (airport by 14:35); the emails show no price for the Nov 14 change, so check the card statement for a fare difference ([[Flights]])
 
 ## 🚆 Transport
 - [x] **Nikko train Nov 13 (Spacia Nikko 1, 09:34)** — collect the ticket at a ticket counter/reserved-seat machine before departure (not at Tokyo/Shinagawa JR Central machines); free cancel until **21:00 JST Nov 12**; no confirmation ref saved — see [[Legs/01-Tokyo-to-Nikko]]
@@ -97,7 +92,7 @@ tags: [japan, todo, check]
 - [ ] FYI only, not acted on: a route via Hakuba Valley/Itoigawa (Nagano Expwy → coast) was suggested as a Fuji→Kanazawa stopover alternative to Matsumoto/Takayama. It would skip Takayama entirely — already booked 2 nights there — so left out unless you want to reconsider that leg
 
 ## 🎟️ Book / confirm before the trip
-- [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 11 flight), so a new card is needed then
+- [ ] **Suica on Android** — phone wallet likely won't work (foreign Android usually lacks FeliCa). Buy a physical card at Narita per person: regular Suica (¥500 deposit, no expiry issue) if sold, else Welcome Suica, which lasts only 28 days (runs out ~Dec 4, before the Dec 12 flight), so a new card is needed then
 - [ ] **Nov 7 arrival transfer — N'EX does NOT run to Shinjuku on Nov 7** (JR East Yokosuka Line tunnel works: N'EX runs Narita ↔ Tokyo Station only, around 19:40 Nov 6 → 08:00 Nov 8; jreast.co.jp/en/yokosuka-tunnel-koji/). Use Airport Limousine to Keio Plaza door (~¥3,600, no reservation, unverified) or N'EX to Tokyo Station + Chuo Rapid to Shinjuku.
 - [x] ~~Mon Nov 9 rain~~ — plan changed 2026-11-08: Mon = indoor shopping/rest day (Senso-ji/Kappabashi moved to Wed option)
 - [ ] (old) Mon Nov 9 forecast: rain in the morning (~5 mm, ~10°C)** — 07:00 Senso-ji and Kappabashi will be wet; bring an umbrella/rain jacket, consider swapping to an indoor morning (Yr, 2026-11-08; check again tonight).
@@ -133,7 +128,6 @@ tags: [japan, todo, check]
 - [ ] **TODAY: way down from Chuzenji to Tobu-Nikko for the 08:58 train** — Nikko forecast is rain/snow, 5/-1°C (Weathernews, Nov 14 17:00); hotel shuttle (08:50) misses it. Taxi must leave Chuzenji ~07:40 (fare/time unverified, ~50 min by bus). Ask the front desk at 07:00; if you take the shuttle you arrive 09:40 and the next train to Shinjuku is unverified (check Navitime/Jorudan) — pickup is 14:00
 - [ ] **TODAY: Toyota Shinjuku call never confirmed** (03-3341-2603, open 08:00-20:00): winter tires, ETC card, earlier pickup. Call when you reach Shinjuku (~11:44) or at the counter; Nov 18 Rte 158 and Nov 20 Shirakawa-go need winter tires or chains
 - [ ] **Tomorrow Mon Nov 16 forecast improved:** 12/3°C, dry until ~18:00; light rain 18:00-21:00 may wet the Momiji Kairo lights. Momiji peak forecast Nov 14-23 (best ~Nov 18) — keep the 06:30 Oishi Park dawn plan
-- [ ] **Book dinner in Matsumoto for Tue Nov 17** (BANIKU BARU 0263-39-0141 or another) — 2 days left; Kobayashi Soba has no Tuesday dinner
 - [ ] **Book dinner in Takayama for Wed Nov 18** (Kyoya 0577-34-7660, closed Tue so Wed is fine)
 - [ ] **Sushi Ikuta (Sat Nov 21) — 6 days away**; Myoryuji phone booking (076-241-0888, 08:30-17:00) for Sun Nov 22 — call by Nov 20
 - [ ] **Kyoto Nov 25-28 is empty in Daily-Plan** and is peak foliage: book Tofuku-ji/Kiyomizu night illuminations and kaiseki before leaving Kanazawa (Nov 23)
@@ -151,28 +145,24 @@ tags: [japan, todo, check]
 - [ ] **Mon Nov 16 draft itinerary (Amit, Hebrew) has no hotel breakfast slot** (last seating 09:30) and puts the ropeway at 09:45 (queue ~50 min by 10:00). Itchiku Kubota Art Museum hours/last entry unverified (next to Momiji Kairo; consider museum 15:00-16:30 then lights from sunset 16:38). Ropeway price ¥1,200 round trip is from Amit's draft, not verified by me. Chureito = ~40 min drive + ~400 steps, optional
 
 ## 🆕 Added 2026-11-16 (daily brief)
-- [ ] **Matsumoto dinner for Tue Nov 17 still unbooked** — BANIKU BARU 0263-39-0141; call today
 - [ ] **Oishi Tsumugi Traditional Craft Hall** (Oishi 1438-1, 0555-76-7901): 9:00-16:00, closed Tuesdays (info dated 2021) — only today works; hand-weaving ¥7,000 needs a reservation (~90 min), dyeing ¥1,500. Whether visitors can just watch weaving is unverified; call at 09:00
 - [ ] **Ropeway price/phone conflict:** gltjp says adult ¥1,000 round trip, 08:30-17:00, tel 0555-72-0363; Amit's draft says ¥1,200 and the vault has 0555-75-2929
 - [ ] **Itchiku Kubota Art Museum Nov 2026 hours/fee unverified** (only a 2023-24 notice: Sat-Mon 10:00-16:30)
 - [ ] **Mon Nov 16 forecast (Windfinder GFS):** dry, 9-14°C, dawn cloud 1-2% but cloud 90%+ from noon — Fuji views only in the morning; Chureito at 14:00 not worth it for Fuji
 - [ ] **Momiji Kairo:** Weathernews Nov 13 about half coloured, peak from ~Nov 17; Red Line bus reportedly stops ~17:45 (one source), so the 18:00 lights need car/taxi; parking unverified
 
-## 🆕 Added 2026-11-16 (correction)
-- [ ] **Return flight changed Nov 14** (Emirates DP3V72 email): EY801 Narita Sat Dec 12 17:20 → Abu Dhabi, EY595 → Tel Aviv, lands Sun Dec 13 05:05. My daily brief wrongly said "no flight home" — it read an outdated vault. Confirm in the email that EK319 (Dec 11) was cancelled and not double-booked; terminal and seats not stated
-- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~13:30, estimate) — plan it or keep it light
+## 🆕 Added 2026-11-16
+- [ ] **Dec 12 is now a free Tokyo day** (check out Blossom Hibiya, leave for Narita ~12:45 to be there by 14:35, estimate) — plan it or keep it light
 
 ## 🌙 Added 2026-11-16 (evening prep)
 - [ ] **Tue Nov 17 Matsumoto forecast unverified** (search returned only links; check weathernews.jp/onebox/tenki/nagano/20202/ at 07:00) — Matsumoto is colder than Kawaguchiko; frost possible at dawn, wet roads on Chuo Expwy higher sections
 - [ ] **Clarify: "9.5" in Amit's message** — I read it as Tue Nov 17 (leave ~10:00, breakfast 08:00, pack, then drive); tell me if it meant a different date/time
-- [ ] **Matsumoto dinner Tue Nov 17 still unbooked** — call BANIKU BARU 0263-39-0141 (open 17:00-22:00) before leaving Kawaguchiko in the morning or from the road; fallback: izakaya near the hotel
 - [ ] **Nov 17 plan changed (Amit, 11-16): drive straight to Matsumoto, no Narai-juku.** Castle ~11:00 right after parking; check hotel early bag drop (0263-37-0111) since check-in is ~15:00; fuel/rest stop on the Chuo is on you
 - [ ] **Matsumoto Castle Nov hours/last entry still unverified** (vault says 08:30-16:30; last entry is usually 16:00) — aim to with a ~10:00 departure you reach the castle ~13:15, fine; check matsumoto-castle.jp
 - [ ] **No Chuo Expressway closure notice found for Nov 17** (NEXCO search returned nothing relevant — not a guarantee); check Google Maps/JARTIC before leaving 08:00
 - [ ] **Hotel Buena Vista parking** (0263-37-0111)(Narai-juku lunch no longer on the plan)
 
 ## 🆕 Added 2026-11-17 (daily brief)
-- [ ] **Matsumoto dinner TONIGHT still unbooked** — BANIKU BARU 0263-39-0141 (open 17:00-22:00); call before ~15:00 or from the road. Fallback: izakaya near the hotel. Kobayashi Soba has no Tuesday dinner
 - [ ] **Hotel Buena Vista (Expedia listing, not hotel site):** check-in 15:00-24:00 (no late check-in), check-out 11:00, parking ¥1,100/night, limited spaces, height limit not stated; early bag drop not stated. Call 0263-37-0111 from the road to reserve a space and confirm bag drop
 - [ ] **Matsumoto Castle (go-nagano, page updated 2025-04):** regular hours 08:30-17:00, last entry 16:30; adult ¥1,200 e-ticket / ¥1,300 paper; vault's "closes 16:30" is off by 30 min. Official matsumoto-castle.jp not reached — confirm today's hours there
 - [ ] **Tue Nov 17 forecast is only a 2-week-ahead Weathernews figure (issued ~Nov 3): 16/7°C, rain 50%, reliability E** — treat as unverified; check live at 07:00. Sunset 16:40 (computed)

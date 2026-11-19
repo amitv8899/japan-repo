@@ -21,7 +21,7 @@ See [[Hotels]] for the full table. Fill costs in each folder note (never here).
 
 | Category | Est. ¥ | ≈ ₪ | Notes |
 |----------|-------:|----:|-------|
-| Flights (Etihad/Emirates, rebooked Oct 29) | USD 2,570.74 | TBD | [[Flights]]; 2 passengers total; rebooking cost nothing extra (same price); no USD→¥ rate set yet |
+| Flights (Emirates booking, flown by Etihad) | USD 2,570.74 | TBD | [[Flights]]; 2 passengers total, original total; any fare difference for the Nov 14 return change isn't in the emails, check the card statement; no USD→¥ rate set yet |
 | Hotels (see live total above) | 1,617,707 | ~38,825 | 35 nights, 12 stays — all booked |
 | Trains (see live total above) | TBD | TBD | + JR Pass? price both |
 | Rental car (Tokyo→Kanazawa) | TBD | TBD | Base + one-way fee + tolls + fuel — see [[Transport]] |
