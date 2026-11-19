@@ -204,3 +204,9 @@ tags: [japan, todo, check]
 - [ ] **Thu Nov 19 weather (meteoblue):** 9/2°C, rain through the day, light snow from ~21:00 — dress waterproof; do outdoor Sanmachi/market early, then Yatai Kaikan/ramen
 - [ ] **Menya Shirakawa is cash only and closes when the soup runs out** (opens 11:00, closed Tue) — arrive by ~11:00 with cash; Kamon (11:00-14:30) is the fallback, ticket machine, cards if asked
 - [ ] **Fill the tank today** (Fri 07:15 start, snow possible); no Takayama station verified — look for one on the way into town
+
+## 🌙 Added 2026-11-19 (evening prep for Fri Nov 20)
+- [ ] **Fri Nov 20 forecast (meteoblue, 1 source):** Takayama 3/0°C, rain–snow mix, ~10–20 mm, overcast; snow already from ~18:00 Thu (~5 mm by midnight). **Kanazawa 8/7°C, rain with thunderstorms, >20 mm** — wet day for car return, Omicho and Higashi Chaya; pack rain gear
+- [ ] **Hida winter-driving rules (shirakawa-go.gr.jp notice, Dec 2025):** snow tires mandatory in the Takayama/Shirakawa-go area in winter — winter tires still never confirmed on the rental. Check the car tonight or call Toyota (03-3341-2603, closes 20:00); if not on snow tires, skip Shirakawa-go by car (bus option in [[Car Trip]])
+- [ ] **Unagi Yondaime Kikukawa Crossgate Kanazawa** (Cross Gate 2F, 1-5-3 Hirooka, 076-255-2670?): 11:30–15:00, 17:00–22:00, no closing days (visitkanazawa, page ©2022); reservations not stated — call before 19:00 Fri
+- [ ] **Shirakawa-go Seseragi parking Nov 20:** still unverified (village office 05769-6-3111)
