@@ -36,7 +36,7 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-28 | Sat | Kyoto |  | | Good Nature |
 | 2026-11-29 | Sun | Hiroshima | 🚗/🚆 move | ~08:55 Kyoto Stn: receive tickets → 09:25 Nozomi 9 (car 4, 14-D/E) → 11:02 Hiroshima → bags to Mercure Tokyu Stay (check-in from 14:00) | Mercure Tokyu Stay |
 | 2026-11-30 | Mon | Itsukushima | 🚗/🚆 move | | Miyajima Grand Hotel |
-| 2026-12-01 | Tue | Osaka | 🚗/🚆 move | | Miyako City |
+| 2026-12-01 | Tue | Osaka | 🚗/🚆 move | 10:00 checkout → ferry + JR local to Hiroshima Stn; ~11:45 receive tickets → 12:33 Sakura 750 (car 8, 10-C/D) → 13:59 Shin-Osaka → Miyako City (check-in 15:00) | Miyako City |
 | 2026-12-02 | Wed | Osaka |  | | Miyako City |
 | 2026-12-03 | Thu | Osaka |  | Dinner: Dojima Yakiniku Restaurant | Miyako City |
 | 2026-12-04 | Fri | Osaka |  | | Miyako City |
