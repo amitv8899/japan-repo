@@ -38,9 +38,10 @@ tags: [japan, todo, check]
 ## 🚄 Added 2026-11-11 (train bookings) — Claude: keep reminding Amit at the start of every chat and in every daily brief until each box is ticked
 - [x] Kanazawa → Kyoto, Mon Nov 23 — booked (Hakutaka 553 11:05 + Thunder-Bird 20, arrive 13:09; res. 44711) → [[Legs/03-Kanazawa-to-Kyoto]]
 - [x] Kyoto → Hiroshima, Sun Nov 29 — booked (Nozomi 9, 09:25 → 11:02; res. 48196) → [[Legs/04-Kyoto-to-Hiroshima]]
-- [ ] **BOOK Hiroshima → Shin-Osaka, Tue Dec 1** — Amit plans to book within 1-2 days (target Fri Nov 13). Miyajima ferry + JR local to Hiroshima first, then the Shinkansen; sales open since Nov 1 → [[Legs/06-Itsukushima-to-Osaka]]
-- [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama (Nozomi may not stop at Odawara — verify on the booking site); sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]]
-- [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]]
+- [x] ~~BOOK Hiroshima → Shin-Osaka, Tue Dec 1~~ — booked Nov 20: Sakura 750, 12:33 → 13:59, car 8 seats 10-C/D → [[Legs/06-Itsukushima-to-Osaka]]
+- [ ] **Receive the Dec 1 paper tickets at Hiroshima Station before 12:33** — physical Mastercard ending 8918 + 4-digit ID; be there ~11:45 → [[Legs/06-Itsukushima-to-Osaka]]
+- [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama (Nozomi may not stop at Odawara — verify on the booking site); sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]] Gmail check Nov 20: no confirmation email, still unbooked.
+- [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]] Gmail check Nov 20: no confirmation email, still unbooked.
 - [ ] **Receive the paper tickets, Mon Nov 23 at Kanazawa Station** before the 11:05 departure — physical VISA ending 3275 + the 4-digit ID number (hint: Steven Gerrard double and Torres double). Never write the number in the vault. Be there ~10:30; confirm Kanazawa Station is on JR West's pickup list
 - [ ] **Receive the paper tickets, Sun Nov 29 at Kyoto Station** before the 09:25 departure — physical Mastercard ending 8918 + the 4-digit ID number (same hint). Be there ~08:55
 - [ ] **Nov 23 departure is earlier than planned** (11:05, not ~12:00) — gifts/gold leaf and lunch before 10:30 are tight: take an ekiben for the train, and forward big bags to Good Nature if needed
@@ -113,6 +114,7 @@ tags: [japan, todo, check]
 - [ ] **Book Sushi Ikuta** — 8 seats, ~¥18,700 pp, planned Sat Nov 21 ~19:45; ask for a 19:30-20:00 seating
 - [ ] **Book Myoryuji ninja temple by phone** — 076-241-0888 (08:30-17:00 JST, English OK on the phone; tour is in Japanese; ¥1,200 cash); target Sun Nov 22 09:30
 - [x] ~~Reserve Thunderbird seat Kanazawa → Kyoto, Mon Nov 23~~ — done 2026-11-11: Hakutaka 553 11:05 + Thunder-Bird 20, arrive Kyoto 13:09 (res. 44711), see [[Legs/03-Kanazawa-to-Kyoto]]
+- [ ] **JR West train status before Mon Nov 23** — on the evening of Nov 20 the JR West status page showed delays (△) for Hokuriku, Kansai, Chugoku, San-yo Shinkansen and Hokuriku Shinkansen, and **Limited Express Trains marked ×** (likely the Kanazawa storm; cause not read). Your Nov 23 trip is Hakutaka 553 (Hokuriku Shinkansen) + Thunder-Bird 20 (a limited express). Recheck on Sun Nov 22 evening and Mon Nov 23 morning before leaving the hotel: westjr.co.jp/global/en → Train Status, and global.trafficinfo.westjr.co.jp/en. If a train is cancelled, ask at the JR West ticket office for a change or refund (tickets can be changed only once). Same check on Sat Nov 28 evening for the Nov 29 Nozomi 9
 - [ ] **Car return Nov 20** — plan returns it ~12:15 but reservation says 16:00; confirm early return is OK, and the East Exit shop switch + winter tires are still open ([[Car Trip]])
 - [ ] Omicho: Sun Nov 22 and Mon Nov 23 (holiday) about half the shops are closed, some also close Wednesdays — eat there Fri/Sat; confirm on ohmicho-ichiba.com
 - [ ] Not confirmed from a source: KUMU check-in/check-out times, hours for Unagi Kikukawa, Yakitori Ryo, sake tasting spot, Nishi Chaya / Myoryuji walking times
@@ -121,7 +123,6 @@ tags: [japan, todo, check]
 - [ ] **Sat Nov 14 forecast — third source:** Windfinder (GFS, Nikko town) 17/9°C, overcast, 0 mm; Weathernews says 7/-3°C. Both are town figures; Chuzenji is colder — dress for ~0°C at the lake in the morning
 - [ ] **Foliage is likely past peak** at Chuzenji/Kegon/Senjogahara/Ryuzu (typical peak mid-Oct to late Oct; no 2026 observation found). Don't plan the day around colour; waterfalls and lake views still work
 - [ ] **Bus timetable still unverified** (tobu-bus.com not reachable from here): Chuzenji → Ryuzu/Senjogahara/Yumoto first/last bus and fares, and Chuzenji → Tobu-Nikko first bus. Ask Kanaya front desk at breakfast; note the last bus back from Senjogahara/Yumoto before leaving. Tobu stop order from Chuzenji-onsen: Futarasan Jinja-mae → Kegon Falls → Ryuzu-no-taki → Tachikikannon-mae (seasonal) → Sanbonmatsu → Hangetsusan (seasonal) → Senjogahara → Yumoto
-- [ ] **Hiroshima → Shin-Osaka (Dec 1) booking** was targeted for Fri Nov 13 — still unticked above; do it tonight or tomorrow (sales open since Nov 1)
 - [ ] **Toyota Shinjuku call (03-3341-2603)** is still open and pickup is tomorrow 14:00 — call before 18:00 today if they close early (hours unverified); ask for earlier pickup, East Exit return, ETC, winter tires
 
 ## 🆕 Added 2026-11-15 (daily brief)
