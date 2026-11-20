@@ -19,6 +19,8 @@ tags: [japan, kanazawa, events]
 - [ ] Kenrokuen/Castle illumination 2026 nights per secondary sources: Nov 7, 14, 15, 21, 22, 28, 29 (not Fri Nov 20); Kasumigaike pond live music Nov 21 (flute + koto) per one source, unverified
 - [ ] Kohrinbo / Katamachi winter illuminations (free, usually Nov to Feb) — evening walk option, 2026 dates unverified
 
+- [x] Kenrokuen/Castle illumination Nov 21 confirmed on VISIT KANAZAWA (Nov 7, 14, 15, 21, 22, 28, 29), 18:00-20:45, free; official kenrokuen.or.jp/illumination not read
+
 ## My Picks
 > [!note] Fill in your own choices here
 
