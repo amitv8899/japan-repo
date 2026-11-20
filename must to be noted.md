@@ -38,9 +38,9 @@ tags: [japan, todo, check]
 ## 🚄 Added 2026-11-11 (train bookings) — Claude: keep reminding Amit at the start of every chat and in every daily brief until each box is ticked
 - [x] Kanazawa → Kyoto, Mon Nov 23 — booked (Hakutaka 553 11:05 + Thunder-Bird 20, arrive 13:09; res. 44711) → [[Legs/03-Kanazawa-to-Kyoto]]
 - [x] Kyoto → Hiroshima, Sun Nov 29 — booked (Nozomi 9, 09:25 → 11:02; res. 48196) → [[Legs/04-Kyoto-to-Hiroshima]]
-- [ ] **BOOK Hiroshima → Shin-Osaka, Tue Dec 1** — Amit plans to book within 1-2 days (target Fri Nov 13). Miyajima ferry + JR local to Hiroshima first, then the Shinkansen; sales open since Nov 1 → [[Legs/06-Itsukushima-to-Osaka]]
-- [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama (Nozomi may not stop at Odawara — verify on the booking site); sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]]
-- [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]]
+- [ ] **BOOK Hiroshima → Shin-Osaka, Tue Dec 1** — Amit plans to book within 1-2 days (target Fri Nov 13). Miyajima ferry + JR local to Hiroshima first, then the Shinkansen; sales open since Nov 1 → [[Legs/06-Itsukushima-to-Osaka]] Gmail check Nov 20: no confirmation email, still unbooked; the Nov 13 target was missed.
+- [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama (Nozomi may not stop at Odawara — verify on the booking site); sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]] Gmail check Nov 20: no confirmation email, still unbooked.
+- [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]] Gmail check Nov 20: no confirmation email, still unbooked.
 - [ ] **Receive the paper tickets, Mon Nov 23 at Kanazawa Station** before the 11:05 departure — physical VISA ending 3275 + the 4-digit ID number (hint: Steven Gerrard double and Torres double). Never write the number in the vault. Be there ~10:30; confirm Kanazawa Station is on JR West's pickup list
 - [ ] **Receive the paper tickets, Sun Nov 29 at Kyoto Station** before the 09:25 departure — physical Mastercard ending 8918 + the 4-digit ID number (same hint). Be there ~08:55
 - [ ] **Nov 23 departure is earlier than planned** (11:05, not ~12:00) — gifts/gold leaf and lunch before 10:30 are tight: take an ekiben for the train, and forward big bags to Good Nature if needed
