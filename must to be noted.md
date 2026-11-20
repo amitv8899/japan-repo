@@ -209,3 +209,7 @@ tags: [japan, todo, check]
 - [ ] **Sushi Ikuta (Sat Nov 21 19:45) still unbooked** — book today; no phone in vault (unverified, search TableCheck/Omakase)
 - [ ] **Kikukawa tonight 19:00:** reported hours 11:30-15:00 / 17:00-22:00 (2022 page), reservations not stated — call before 19:00 or have a plan B
 - [ ] Omicho hours sources conflict (09:00-16:00 visitkanazawa 2022 vs 09:00-17:00 ishikawatravel); stalls vary — arrive by 13:00 as planned
+
+## 🌙 Added 2026-11-20 (evening prep)
+- [ ] **Sushi Ikuta Sat Nov 21 19:45 — book TONIGHT:** TableCheck page https://www.tablecheck.com/shops/sushi-ikuta/reserve (also lastminutejapan.com/sushi_ikuta); 8 seats, ask 19:30-20:00. If full, pick a backup omakase/sushi
+- [ ] **Sat Nov 21 Kanazawa forecast unverified** (searches returned only links) — check meteoblue/weather.yahoo.co.jp at 07:00; Kenrokuen illumination Nov 21 listed on secondary sources only
