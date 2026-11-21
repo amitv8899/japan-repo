@@ -228,3 +228,9 @@ tags: [japan, todo, check]
 - [ ] **Myoryuji Sun 09:30 still not confirmed — call 076-241-0888 at 08:30 sharp** (phone only, English OK; same-day possible if space, per a tour-operator blog). Closing time conflicts: 16:30 (16:00 in winter) vs 16:00; closed on Buddhist memorial service days (dates not listed). Late = counted as cancellation. ¥1,200 pp cash only, no photos inside
 - [ ] **Nomura-ke:** open 08:30-16:30 in Nov (last entry ~16:00), ¥550, no cards — bring cash. No Sunday closure found for any planned stop (Kutani/Kaburaki, sake tasting not verified)
 - [ ] **Mon Nov 23 move day:** collect JR West paper tickets (res. 44711) at Kanazawa Stn by ~10:30 — physical VISA ending 3275 + 4-digit ID; train 11:05. Pack tonight/Sun evening; check KUMU luggage forwarding/early bag options
+
+## 🆕 Added 2026-11-21 (Kyoto itinerary)
+- [ ] **MAIKOYA Kimono Tea Ceremony, Fri Nov 27 11:00** — add price, address, people count, kimono return time and the booking channel (no confirmation email found in Gmail); check whether you can walk around in the kimono → [[07-Kyoto/Itinerary]]
+- [ ] **Kyoto forecast:** rain possible Tue Nov 24 and Sat Nov 28 — recheck each evening; Sat has a rain plan in the itinerary
+- [ ] **Kyoto illumination dates/hours** (To-ji, Kodai-ji, Kiyomizu-dera, Eikando) and last entry for Adashino Nenbutsu-ji — verify before Nov 25-27
+- [ ] **Kinkaku-ji** is not scheduled — decide whether to give it its own half day

@@ -30,10 +30,10 @@ Back-links: [[Japan Trip|🗾 Itinerary]] · [[Transport]] · [[Hotels]]
 | 2026-11-22 | Sun | Kanazawa |  | Sunday: Omicho half closed. 09:30 Myoryuji ninja temple (phone-book, ¥1,200 cash) → 10:45 Nagamachi + Nomura-ke (to 16:30) → 12:45 lunch → 14:15 Nishi Chaya + Kutani → 15:45 sake tasting → 19:00 Yakitori Ryo (illumination optional) | KUMU Kanazawa |
 | 2026-11-23 | Mon | Kyoto | 🚗/🚆 move | National holiday. 09:00 check out → station gifts + gold leaf (Rinto/Anto) → ~10:30 Kanazawa Stn: receive tickets (early lunch or ekiben) → 11:05 Hakutaka 553 (car 10, 16-D/E) → 12:02 Tsuruga, change (12 min) → 12:14 Thunder-Bird 20 (car 11, 14-C/D) → Kyoto 13:09 (check-in from 15:00, drop bags) | Good Nature |
 | 2026-11-24 | Tue | Kyoto |  | 09:00-09:30 entry window: teamLab Biovortex Kyoto (2 adults, Higashikujo, Minami-ku; QR ticket in email) → 20:00 Yakiniku Genshu Eishu (2p) | Good Nature |
-| 2026-11-25 | Wed | Kyoto |  | | Good Nature |
-| 2026-11-26 | Thu | Kyoto |  | | Good Nature |
-| 2026-11-27 | Fri | Kyoto |  | | Good Nature |
-| 2026-11-28 | Sat | Kyoto |  | | Good Nature |
+| 2026-11-25 | Wed | Kyoto |  | 08:00 Arashiyama: Bamboo Grove → Tenryu-ji → Togetsukyo → taxi to Otagi Nenbutsu-ji → Saga-Toriimoto → back by ~16:00. Detail: [[07-Kyoto/Itinerary]] | Good Nature |
+| 2026-11-26 | Thu | Kyoto |  | 08:00 Fushimi Inari → 10:30 Tofuku-ji → 13:30 Sanjusangendo → rest → 18:00 To-ji illumination (optional). Detail: [[07-Kyoto/Itinerary]] | Good Nature |
+| 2026-11-27 | Fri | Kyoto |  | 11:00 Kimono Tea Ceremony MAIKOYA (arrive 10:30) → Yasaka Pagoda, Ninenzaka, Sannenzaka → 15:15 Kiyomizu-dera → Kodai-ji (optional) → Gion / Hanamikoji → dinner. Detail: [[07-Kyoto/Itinerary]] | Good Nature |
+| 2026-11-28 | Sat | Kyoto |  | 09:00 Nanzen-ji → 10:30 Eikando → Philosopher's Path → Ginkaku-ji → shopping + dinner (rain: Kyoto BAL, Teramachi, Nishiki). Detail: [[07-Kyoto/Itinerary]] | Good Nature |
 | 2026-11-29 | Sun | Hiroshima | 🚗/🚆 move | ~08:55 Kyoto Stn: receive tickets → 09:25 Nozomi 9 (car 4, 14-D/E) → 11:02 Hiroshima → bags to Mercure Tokyu Stay (check-in from 14:00) | Mercure Tokyu Stay |
 | 2026-11-30 | Mon | Itsukushima | 🚗/🚆 move | | Miyajima Grand Hotel |
 | 2026-12-01 | Tue | Osaka | 🚗/🚆 move | 10:00 checkout → ferry + JR local to Hiroshima Stn; ~11:45 receive tickets → 12:33 Sakura 750 (car 8, 10-C/D) → 13:59 Shin-Osaka → Miyako City (check-in 15:00) | Miyako City |
