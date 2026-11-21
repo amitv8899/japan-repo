@@ -214,3 +214,11 @@ tags: [japan, todo, check]
 ## 🌙 Added 2026-11-20 (evening prep)
 - [ ] **Sushi Ikuta Sat Nov 21 19:45 — book TONIGHT:** TableCheck page https://www.tablecheck.com/shops/sushi-ikuta/reserve (also lastminutejapan.com/sushi_ikuta); 8 seats, ask 19:30-20:00. If full, pick a backup omakase/sushi
 - [ ] **Sat Nov 21 Kanazawa forecast unverified** (searches returned only links) — check meteoblue/weather.yahoo.co.jp at 07:00; Kenrokuen illumination Nov 21 listed on secondary sources only
+
+## 🆕 Added 2026-11-21 (daily brief)
+- [ ] **Sat Nov 21 forecast (meteoblue, 1 source): 8/6°C, rain >20 mm, gusts to ~58 km/h, 0 h sun** — wet and windy; museum first (opens 10:00), Kenrokuen in a break, taxi for the evening illumination leg; decide ~17:30 whether to go
+- [ ] **Sushi Ikuta tonight: dinner hours 18:00-20:00 on a third-party listing (unverified), so 19:45 may be too late** — phone 076-254-1422 (1-4-4 Katamachi); confirm the booking and seating time now, ask the hotel desk to call if needed
+- [ ] **Myoryuji (Sun Nov 22 09:30) — booking still unconfirmed:** call 076-241-0888 at 08:30 today (closes 17:00)
+- [x] Kenrokuen/Castle illumination Nov 21 confirmed on VISIT KANAZAWA (Nov 7, 14, 15, 21, 22, 28, 29; 18:00-20:45, free); official site not read
+- [ ] **21st Century Museum:** Exhibition zone 10:00-18:00, Fri/Sat to 20:00, closed Mon; adult ¥1,200 — Nov 24 listing note vs. holiday rule (closed Tue Nov 24 after Mon Nov 23 holiday) already in Locations.md
+
