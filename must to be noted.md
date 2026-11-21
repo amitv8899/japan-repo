@@ -222,3 +222,9 @@ tags: [japan, todo, check]
 - [x] Kenrokuen/Castle illumination Nov 21 confirmed on VISIT KANAZAWA (Nov 7, 14, 15, 21, 22, 28, 29; 18:00-20:45, free); official site not read
 - [ ] **21st Century Museum:** Exhibition zone 10:00-18:00, Fri/Sat to 20:00, closed Mon; adult ¥1,200 — Nov 24 listing note vs. holiday rule (closed Tue Nov 24 after Mon Nov 23 holiday) already in Locations.md
 
+
+## 🆕 Added 2026-11-21 (evening prep)
+- [ ] **Sun Nov 22 Kanazawa forecast (weerplaza, 1 source): 10/5°C, rain 95% / ~12 mm, light rain 01:00-19:00, dry after; wind WSW 3** — umbrella + rain jacket; Nagamachi/Nishi Chaya walking will be wet
+- [ ] **Myoryuji Sun 09:30 still not confirmed — call 076-241-0888 at 08:30 sharp** (phone only, English OK; same-day possible if space, per a tour-operator blog). Closing time conflicts: 16:30 (16:00 in winter) vs 16:00; closed on Buddhist memorial service days (dates not listed). Late = counted as cancellation. ¥1,200 pp cash only, no photos inside
+- [ ] **Nomura-ke:** open 08:30-16:30 in Nov (last entry ~16:00), ¥550, no cards — bring cash. No Sunday closure found for any planned stop (Kutani/Kaburaki, sake tasting not verified)
+- [ ] **Mon Nov 23 move day:** collect JR West paper tickets (res. 44711) at Kanazawa Stn by ~10:30 — physical VISA ending 3275 + 4-digit ID; train 11:05. Pack tonight/Sun evening; check KUMU luggage forwarding/early bag options
