@@ -20,6 +20,8 @@ tags: [japan, kanazawa, events]
 - [ ] Kohrinbo / Katamachi winter illuminations (free, usually Nov to Feb) — evening walk option, 2026 dates unverified
 
 - [x] Kenrokuen/Castle illumination Nov 21 confirmed on VISIT KANAZAWA (Nov 7, 14, 15, 21, 22, 28, 29), 18:00-20:45, free; official kenrokuen.or.jp/illumination not read
+- [ ] Fukumitsuya Premium Sake Tasting (2-8-3 Ishibiki) — 45 min, ¥3,300, Sundays 15:00 (Nov-Mar), book reserva.be/fukumitsuya, tel 076-223-1117; Sun Nov 22 candidate
+- [ ] Kanazawa Castle Park Special Exhibition of Important Cultural Properties — Sat/Sun/holidays to Nov 30 (details unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here

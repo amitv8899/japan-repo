@@ -228,3 +228,13 @@ tags: [japan, todo, check]
 - [ ] **Myoryuji Sun 09:30 still not confirmed — call 076-241-0888 at 08:30 sharp** (phone only, English OK; same-day possible if space, per a tour-operator blog). Closing time conflicts: 16:30 (16:00 in winter) vs 16:00; closed on Buddhist memorial service days (dates not listed). Late = counted as cancellation. ¥1,200 pp cash only, no photos inside
 - [ ] **Nomura-ke:** open 08:30-16:30 in Nov (last entry ~16:00), ¥550, no cards — bring cash. No Sunday closure found for any planned stop (Kutani/Kaburaki, sake tasting not verified)
 - [ ] **Mon Nov 23 move day:** collect JR West paper tickets (res. 44711) at Kanazawa Stn by ~10:30 — physical VISA ending 3275 + 4-digit ID; train 11:05. Pack tonight/Sun evening; check KUMU luggage forwarding/early bag options
+
+## 🆕 Added 2026-11-22 (daily brief)
+- [ ] **Myoryuji 09:30 today — if not yet booked, call 076-241-0888 at 08:30 sharp** (visitkanazawa: reservations by phone required, 08:30-17:00, tour in Japanese ~40 min, ¥1,200 cash only; closed on Buddhist memorial service days; tours 09:00-16:00). Fallback if full: Nomura-ke first (opens 08:30)
+- [ ] **Sake tasting 15:00 today — Fukumitsuya (2-8-3 Ishibiki):** 45 min, ¥3,300, runs 15:00 on Sundays (Nov-Mar), book at reserva.be/fukumitsuya or call 076-223-1117; same-day cancellation 100% charged (source: fukumitsuya.co.jp/global/guidedtour). Replaces the unspecified "15:45 sake tasting" in the plan
+- [ ] **Today's weather (weerplaza, 1 source, snapshot Sat 19:00): 10/5°C, rain 95% / ~12 mm, light steady rain all day** — Mon Nov 23: 14/5°C, 0% rain, SW wind
+- [ ] **Yakitori Ryo tonight — address conflict:** Tabelog says 2-12-4 Honmachi (5 min walk from Kanazawa Stn), SavorJapan says 2-6 Konohanamachi; closed Mondays (open Sunday). Reservation phone 050-5600-6573; hours 17:00-23:00 (savorjapan). Reserve by phone/online and confirm the address with the restaurant
+- [ ] **KUMU check-out is 10:00 (gltjp, unverified); bag storage after check-out is available.** Luggage forwarding (takkyubin) to Good Nature Kyoto is unverified: ask the front desk TODAY (a Monday 11:05 train leaves no time to wait); otherwise carry bags
+- [ ] **Nomura-ke last entry ~16:00 (hours 08:30-16:30 Oct-Mar), cash only unverified; Kaburaki Kutani has irregular closing days — check before walking there**
+- [ ] **Good Nature Kyoto cancellation terms are not in the vault** — check the booking email; check-in 15:00, check-out 11:00 (ikyu/newt.net, unverified)
+- [ ] **Kyoto autumn night openings (livejapan, one source each, unverified):** Kiyomizu-dera Nov 21-30 (¥500, no reservation), Eikando Nov 20-Dec 6 (¥1,000), Kodaiji to Dec 13 (¥800), Tofuku-ji Tentoku-in Nov 14-Dec 6. Confirm dates/prices on temple sites before Nov 25-28
