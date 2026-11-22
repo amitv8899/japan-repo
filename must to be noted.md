@@ -238,3 +238,7 @@ tags: [japan, todo, check]
 - [ ] **Nomura-ke last entry ~16:00 (hours 08:30-16:30 Oct-Mar), cash only unverified; Kaburaki Kutani has irregular closing days — check before walking there**
 - [ ] **Good Nature Kyoto cancellation terms are not in the vault** — check the booking email; check-in 15:00, check-out 11:00 (ikyu/newt.net, unverified)
 - [ ] **Kyoto autumn night openings (livejapan, one source each, unverified):** Kiyomizu-dera Nov 21-30 (¥500, no reservation), Eikando Nov 20-Dec 6 (¥1,000), Kodaiji to Dec 13 (¥800), Tofuku-ji Tentoku-in Nov 14-Dec 6. Confirm dates/prices on temple sites before Nov 25-28
+
+## 🌙 Added 2026-11-22 (evening prep)
+- [ ] **Mon Nov 23 move day:** weather searches returned only links — Kanazawa snapshot (weerplaza, Sat): 14/5°C, 0% rain; Kyoto forecast unverified, check at 07:00. No JR disruption found, but check JR West operation info (westjr.co.jp) before leaving KUMU
+- [ ] **Tue Nov 24 teamLab (09:00-09:30 entry):** hotel is at Shijo/Kawaramachi — leave ~08:15; screenshot the QR tonight (offline backup). Also check Tue Nov 24 closures if you planned any museums (Nov 23 holiday → many close Tue)
