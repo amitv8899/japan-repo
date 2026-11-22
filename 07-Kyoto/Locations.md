@@ -20,6 +20,8 @@ tags: [japan, kyoto, locations]
 - [ ] Kinkaku-ji (Golden Pavilion)
 - [ ] Gion + Hanamikoji at dusk; Nanzenji aqueduct
 - [ ] Day trip option: Nara (deer, Todai-ji) ~45 min
+- [ ] Kitano Tenmangu Odoi maple garden — to Dec 6, ¥1,500, lit from sunset (livejapan summary, unverified)
+- [ ] To-ji night viewing — Kintetsu Toji, 10 min walk; easy from Kyoto Station (unverified hours)
 
 ## My Picks
 > [!note] Fill in your own choices here

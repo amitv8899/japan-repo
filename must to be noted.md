@@ -242,3 +242,10 @@ tags: [japan, todo, check]
 ## 🌙 Added 2026-11-22 (evening prep)
 - [ ] **Mon Nov 23 move day:** weather searches returned only links — Kanazawa snapshot (weerplaza, Sat): 14/5°C, 0% rain; Kyoto forecast unverified, check at 07:00. No JR disruption found, but check JR West operation info (westjr.co.jp) before leaving KUMU
 - [ ] **Tue Nov 24 teamLab (09:00-09:30 entry):** hotel is at Shijo/Kawaramachi — leave ~08:15; screenshot the QR tonight (offline backup). Also check Tue Nov 24 closures if you planned any museums (Nov 23 holiday → many close Tue)
+
+## 🆕 Added 2026-11-23 (daily brief)
+- [ ] **Kyoto is busy today (Labor Thanksgiving holiday + peak foliage):** Kyoto Station → Good Nature Hotel route/fare not verified (Karasuma Line to Shijo or taxi/bus) — check Maps on arrival; expect queues
+- [ ] **Tue Nov 24 Kyoto forecast (meteoblue, 1 source): 11/6°C, overcast with rain ~10-20 mm, 0 h sun** — teamLab is indoor/covered but bring umbrella; leave hotel ~08:15; QR screenshot offline
+- [ ] **Kyoto night illuminations mostly running both nights** (livejapan 2026): Kiyomizu-dera ¥500, Eikando ¥1,000, Kodai-ji ¥800, To-ji ¥1,000 — confirm on temple sites before choosing Wed-Fri; Kifune Shrine ends Nov 24
+- [ ] **Kyoto Wed Nov 25-Fri Nov 28 Daily-Plan rows still empty** — decide days (Fushimi Inari / Arashiyama / Tofuku-ji early; night openings), kaiseki booking
+- [ ] **Today weather Kyoto (meteoblue, 1 source): 13/3°C, 0% rain, 8 h sun** — cold evening
