@@ -27,6 +27,8 @@ tags: [japan, kanazawa, locations]
 - [ ] 21st Century Museum — exhibition zone closed Mon (Tue Nov 24 this year, holiday shift); open to 20:00 Fri/Sat
 - [ ] Tsuzumi-mon gate at Kanazawa Station — free, best after dark
 - [ ] Shima teahouse (Higashi Chaya) 09:30-17:30, ¥500, no closing days; Hakuza gold-leaf shop 09:30-17:30 (japan-guide, Jan 2025) — alternatives to Kaikaro in rain
+- [ ] Nishi Chaya Shiryokan (2-25-18 Nomachi) — 09:30-17:00, free, open daily (visitkanazawa); near Myoryuji/Nagamachi
+- [ ] Kaburaki Shokudo Samurai District-ten (1-3-16 Nagamachi, 076-221-6666) — Kanazawa Kutani Museum + shop from 09:00, irregular closing days
 
 ## My Picks
 > [!note] Fill in your own choices here

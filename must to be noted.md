@@ -229,8 +229,32 @@ tags: [japan, todo, check]
 - [ ] **Nomura-ke:** open 08:30-16:30 in Nov (last entry ~16:00), ¥550, no cards — bring cash. No Sunday closure found for any planned stop (Kutani/Kaburaki, sake tasting not verified)
 - [ ] **Mon Nov 23 move day:** collect JR West paper tickets (res. 44711) at Kanazawa Stn by ~10:30 — physical VISA ending 3275 + 4-digit ID; train 11:05. Pack tonight/Sun evening; check KUMU luggage forwarding/early bag options
 
+<<<<<<< HEAD
 ## 🆕 Added 2026-11-21 (Kyoto itinerary)
 - [ ] **MAIKOYA Kimono Tea Ceremony, Fri Nov 27 11:00** — add price, address, people count, kimono return time and the booking channel (no confirmation email found in Gmail); check whether you can walk around in the kimono → [[07-Kyoto/Itinerary]]
 - [ ] **Kyoto forecast:** rain possible Tue Nov 24 and Sat Nov 28 — recheck each evening; Sat has a rain plan in the itinerary
 - [ ] **Kyoto illumination dates/hours** (To-ji, Kodai-ji, Kiyomizu-dera, Eikando) and last entry for Adashino Nenbutsu-ji — verify before Nov 25-27
 - [ ] **Kinkaku-ji** is not scheduled — decide whether to give it its own half day
+=======
+## 🆕 Added 2026-11-22 (daily brief)
+- [ ] **Myoryuji 09:30 today — if not yet booked, call 076-241-0888 at 08:30 sharp** (visitkanazawa: reservations by phone required, 08:30-17:00, tour in Japanese ~40 min, ¥1,200 cash only; closed on Buddhist memorial service days; tours 09:00-16:00). Fallback if full: Nomura-ke first (opens 08:30)
+- [ ] **Sake tasting 15:00 today — Fukumitsuya (2-8-3 Ishibiki):** 45 min, ¥3,300, runs 15:00 on Sundays (Nov-Mar), book at reserva.be/fukumitsuya or call 076-223-1117; same-day cancellation 100% charged (source: fukumitsuya.co.jp/global/guidedtour). Replaces the unspecified "15:45 sake tasting" in the plan
+- [ ] **Today's weather (weerplaza, 1 source, snapshot Sat 19:00): 10/5°C, rain 95% / ~12 mm, light steady rain all day** — Mon Nov 23: 14/5°C, 0% rain, SW wind
+- [ ] **Yakitori Ryo tonight — address conflict:** Tabelog says 2-12-4 Honmachi (5 min walk from Kanazawa Stn), SavorJapan says 2-6 Konohanamachi; closed Mondays (open Sunday). Reservation phone 050-5600-6573; hours 17:00-23:00 (savorjapan). Reserve by phone/online and confirm the address with the restaurant
+- [ ] **KUMU check-out is 10:00 (gltjp, unverified); bag storage after check-out is available.** Luggage forwarding (takkyubin) to Good Nature Kyoto is unverified: ask the front desk TODAY (a Monday 11:05 train leaves no time to wait); otherwise carry bags
+- [ ] **Nomura-ke last entry ~16:00 (hours 08:30-16:30 Oct-Mar), cash only unverified; Kaburaki Kutani has irregular closing days — check before walking there**
+- [ ] **Good Nature Kyoto cancellation terms are not in the vault** — check the booking email; check-in 15:00, check-out 11:00 (ikyu/newt.net, unverified)
+- [ ] **Kyoto autumn night openings (livejapan, one source each, unverified):** Kiyomizu-dera Nov 21-30 (¥500, no reservation), Eikando Nov 20-Dec 6 (¥1,000), Kodaiji to Dec 13 (¥800), Tofuku-ji Tentoku-in Nov 14-Dec 6. Confirm dates/prices on temple sites before Nov 25-28
+
+## 🌙 Added 2026-11-22 (evening prep)
+- [ ] **Mon Nov 23 move day:** weather searches returned only links — Kanazawa snapshot (weerplaza, Sat): 14/5°C, 0% rain; Kyoto forecast unverified, check at 07:00. No JR disruption found, but check JR West operation info (westjr.co.jp) before leaving KUMU
+- [ ] **Tue Nov 24 teamLab (09:00-09:30 entry):** hotel is at Shijo/Kawaramachi — leave ~08:15; screenshot the QR tonight (offline backup). Also check Tue Nov 24 closures if you planned any museums (Nov 23 holiday → many close Tue)
+
+## 🆕 Added 2026-11-23 (daily brief)
+- [ ] **Kyoto is busy today (Labor Thanksgiving holiday + peak foliage):** Kyoto Station → Good Nature Hotel route/fare not verified (Karasuma Line to Shijo or taxi/bus) — check Maps on arrival; expect queues
+- [ ] **Tue Nov 24 Kyoto forecast (meteoblue, 1 source): 11/6°C, overcast with rain ~10-20 mm, 0 h sun** — teamLab is indoor/covered but bring umbrella; leave hotel ~08:15; QR screenshot offline
+- [ ] **Kyoto night illuminations mostly running both nights** (livejapan 2026): Kiyomizu-dera ¥500, Eikando ¥1,000, Kodai-ji ¥800, To-ji ¥1,000 — confirm on temple sites before choosing Wed-Fri; Kifune Shrine ends Nov 24
+- [ ] **Kyoto Wed Nov 25-Fri Nov 28 Daily-Plan rows still empty** — decide days (Fushimi Inari / Arashiyama / Tofuku-ji early; night openings), kaiseki booking
+- [ ] **Today weather Kyoto (meteoblue, 1 source): 13/3°C, 0% rain, 8 h sun** — cold evening
+>>>>>>> origin/master
+- [ ] **Dec 1 Miyajima → Hiroshima timing:** at the Miyajima Grand Hotel Arimoto check-in (Nov 30), ask how long the walk or shuttle to the ferry pier takes and the first ferry time; plan to leave the hotel ~10:00 (estimate: ferry ~10:30, Hiroshima ~11:20-11:30, 12:33 Sakura 750) → [[Legs/06-Itsukushima-to-Osaka]]

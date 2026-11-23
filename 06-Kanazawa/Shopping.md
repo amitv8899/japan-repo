@@ -20,6 +20,7 @@ tags: [japan, kanazawa, shopping]
 - [ ] Kutani porcelain at Kaburaki (Nishi Chaya)
 - [ ] Artisan chopsticks at Higashi Chaya (shop name in the saved post: 今日香)
 - [ ] Sake tasting + bottles, ¥500-1000 per tasting
+- [ ] Saint Nicolas (Le Pont Chocolat), 2-12-24 Korinbo — 11:00-19:00, closed Tue/Wed, 076-264-8669
 
 ## My Picks
 > [!note] Fill in your own choices here
