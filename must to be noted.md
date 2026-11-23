@@ -256,3 +256,8 @@ tags: [japan, todo, check]
 - [x] ~~Kyoto Wed Nov 25-Fri Nov 28 Daily-Plan rows~~ — filled Nov 21 from the pasted Kyoto plan → [[07-Kyoto/Itinerary]]; kaiseki/dinner bookings still open
 - [ ] **Today weather Kyoto (meteoblue, 1 source): 13/3°C, 0% rain, 8 h sun** — cold evening
 - [ ] **Dec 1 Miyajima → Hiroshima timing:** at the Miyajima Grand Hotel Arimoto check-in (Nov 30), ask how long the walk or shuttle to the ferry pier takes and the first ferry time; plan to leave the hotel ~10:00 (estimate: ferry ~10:30, Hiroshima ~11:20-11:30, 12:33 Sakura 750) → [[Legs/06-Itsukushima-to-Osaka]]
+
+## 🆕 Added 2026-11-23 (evening prep)
+- [ ] **Tue Nov 24 teamLab Biovortex:** timed ticket, arrive inside 09:00-09:30 (no late grace, no re-entry per teamlab.art/e/kyoto — partly summarized, unverified). Wear sneakers (no heels/open sandals/clogs). Bags over 50 cm, food and alcohol not allowed; no bag cloakroom info found. Screenshot the QR tonight
+- [ ] **Tue Nov 24 Kyoto forecast still unverified** (meteoblue page stale; earlier note: 11/6°C, rain 10-20 mm) — check yahoo/weathernews at 07:00; umbrella
+- [ ] **Yakiniku Genshu Eishu 20:00 Tue:** no phone/closed-day verified in vault — confirm the reservation email and that they are open Tue after the Nov 23 holiday
