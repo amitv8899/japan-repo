@@ -261,3 +261,12 @@ tags: [japan, todo, check]
 - [ ] **Tue Nov 24 teamLab Biovortex:** timed ticket, arrive inside 09:00-09:30 (no late grace, no re-entry per teamlab.art/e/kyoto — partly summarized, unverified). Wear sneakers (no heels/open sandals/clogs). Bags over 50 cm, food and alcohol not allowed; no bag cloakroom info found. Screenshot the QR tonight
 - [ ] **Tue Nov 24 Kyoto forecast still unverified** (meteoblue page stale; earlier note: 11/6°C, rain 10-20 mm) — check yahoo/weathernews at 07:00; umbrella
 - [ ] **Yakiniku Genshu Eishu 20:00 Tue:** no phone/closed-day verified in vault — confirm the reservation email and that they are open Tue after the Nov 23 holiday
+
+## 🆕 Added 2026-11-24 (daily brief)
+- [ ] **TODAY Nov 24 — rain all day (meteoblue ~20 mm, heavy 09:00-16:00; Met Office also heavy rain), 12/6°C:** umbrella/rain jacket; skip Kiyomizu-dera night lights if still pouring; Heian Jingu lights cancel in rain
+- [ ] **TODAY teamLab Biovortex:** entry window 09:00-09:30; official hours 09:00-21:00 (last entry 19:30). One source says it closes on "irregular Tuesdays" — your ticket is booked, but check teamlab.art/e/kyoto for closures/emails this morning. Free coin lockers; no re-entry
+- [ ] **TODAY Fujii Daimaru** — InsideKyoto (Aug 2026) says "closed until 2030" (hours 10:30-20:00, closed Wed listed beside it). Treat as closed; use Daimaru Kyoto (Shijo/Karasuma, 10:00-20:00) or Takashimaya. Itinerary.md still lists Fujii Daimaru
+- [ ] **TODAY dinner 20:00 — restaurant name mismatch:** vault says "Genshu Eishu"; Tabelog/Leaf list "Yakiniku Genshu Goshu / Ezu" at 103 Tanakamonzen-cho, Sakyo-ku (075-722-3390; Tue open 17:00-22:00, closed Thu). Confirm it is the same place from the reservation email. It is in the Demachiyanagi/Hyakumanben area, ~25-30 min from Shijo — last bus/train back unverified, taxi fallback
+- [ ] **Kifune Shrine lights end today** (far north, not on route) · **Hounen-in** autumn special opening last day Nov 24
+- [ ] **Kyoto Nov 25 forecast:** meteoblue dry, 10/4°C, ~5 h sun — good Arashiyama day
+

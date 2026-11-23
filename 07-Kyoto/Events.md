@@ -28,6 +28,8 @@ tags: [japan, kyoto, events]
 - [ ] Kyoto 2026 night openings (livejapan, Sep 14, confirm on temple sites): Kiyomizu-dera Nov 21-30 17:30-21:30 ¥500 · Eikando Nov 20-Dec 6 17:30-21:00 ¥1,000 · Kodai-ji to Dec 13 ¥800 · To-ji to Dec 13 18:00-21:30 ¥1,000 · Chion-in Nov 17-Dec 6 ¥800
 - [ ] NAKED Garden Nights, Higashi Honganji + Shosei-en (7 min walk from Kyoto Stn) — Oct 31-Dec 6, 18:00-22:00, ~¥2,300 on holidays/Fri-Sun (unverified)
 - [ ] NAKED meets Nijo Castle — to Dec 5, 18:00-22:00, ¥2,400 holidays (Nijojo-mae, Tozai line; unverified)
+- [ ] WONDER NIGHT JINGU, Heian Jingu — Nov 2-29, 17:30-21:30 (last entry 21:00), adult ¥2,500 weekday / ¥3,000 Fri-Sun; cancelled in rain; Tozai line Higashiyama 10 min walk (ja.kyoto.travel)
+- [ ] Eiden autumn light-up train from Demachiyanagi — Nov 13-30, 21:00, ¥5,500-7,500, Seven Ticket (extension decided Nov 24; seats unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here
