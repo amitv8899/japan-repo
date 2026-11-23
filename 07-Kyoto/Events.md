@@ -18,6 +18,7 @@ tags: [japan, kyoto, events]
   - Children under elementary-school age need an adult; not relevant for the 2 adults.
   - Allow mail from @kyoto.tickets.teamlab.art so reminders don't go to spam.
   - Tonight's Tue plan: Yakiniku Genshu Eishu 20:00 ([[Food]]).
+- [x] **Kimono Tea Ceremony, MAIKOYA Gion Kiyomizu** — Fri Nov 27, 11:00 (booked, per Amit). Price, address, people count and kimono return time are not in the vault and no confirmation email was found in Gmail; add them from the booking. Arrive 10:30-10:40
 
 ## Suggestions
 - [ ] LATE-NOV PEAK FOLIAGE — the busiest, most beautiful window; expect crowds

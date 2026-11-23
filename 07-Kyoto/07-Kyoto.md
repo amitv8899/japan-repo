@@ -27,6 +27,7 @@ tags: [japan, stay]
 Six nights — the anchor. Peak autumn foliage (late Nov) makes Kyoto extraordinary and CROWDED. Start temples at opening.
 
 ## Files
+- [[07-Kyoto/Itinerary|Itinerary]]
 - [[07-Kyoto/Food|Food]]
 - [[07-Kyoto/Locations|Locations]]
 - [[07-Kyoto/Events|Events]]

@@ -42,7 +42,7 @@ tags: [japan, todo, check]
 - [ ] **Receive the Dec 1 paper tickets at Hiroshima Station** on arrival Nov 29 (or Dec 1 by 12:33 at the latest) — physical Mastercard ending 8918 + 4-digit ID; be there ~11:45 → [[Legs/06-Itsukushima-to-Osaka]]
 - [ ] **BOOK Shin-Osaka → Odawara, Sat Dec 5** — Hikari/Kodama only (Nozomi does not stop at Odawara); Tokaido Shinkansen is JR Central, so book on SmartEX or EX app (needs a free membership), likely not the JR-West e5489 site used for Dec 1 — verify which site accepts a foreign card; sales open since Nov 5; Hakone Tozan to the ryokan needs no seat → [[Legs/07-Osaka-to-Hakone]] Gmail check Nov 20: no confirmation email, still unbooked.
 - [ ] **BOOK Odakyu Romancecar Hakone-Yumoto → Shinjuku, Tue Dec 8** — e-Romancecar; sales open since Nov 8 → [[Legs/08-Hakone-to-Tokyo]] Gmail check Nov 20: no confirmation email, still unbooked.
-- [ ] **Receive the paper tickets, Mon Nov 23 at Kanazawa Station** before the 11:05 departure (try picking them up early, Sat Nov 21 or Sun Nov 22, when passing the station; the earliest pickup time is unconfirmed, and the Monday 10:30 plan is the fallback) — physical VISA ending 3275 (Adi's card) + the 4-digit ID number (hint: Steven Gerrard double and Torres double). Never write the number in the vault. Be there ~10:30; confirm Kanazawa Station is on JR West's pickup list
+- [x] ~~Receive the paper tickets, Mon Nov 23 at Kanazawa Station~~ — collected Sat Nov 21 11:57 (Hakutaka 553 + Thunder-Bird 20); keep the paper tickets safe, a change is allowed only once
 - [ ] **Receive the paper tickets for Sun Nov 29 at Kyoto Station** during the Kyoto stay (Nov 23-28, not the morning of the trip) before the 09:25 departure — physical Mastercard ending 8918 + the 4-digit ID number (same hint). Be there ~08:55
 - [ ] **Nov 23 departure is earlier than planned** (11:05, not ~12:00) — gifts/gold leaf and lunch before 10:30 are tight: take an ekiben for the train, and forward big bags to Good Nature if needed
 
@@ -229,6 +229,12 @@ tags: [japan, todo, check]
 - [ ] **Nomura-ke:** open 08:30-16:30 in Nov (last entry ~16:00), ¥550, no cards — bring cash. No Sunday closure found for any planned stop (Kutani/Kaburaki, sake tasting not verified)
 - [ ] **Mon Nov 23 move day:** collect JR West paper tickets (res. 44711) at Kanazawa Stn by ~10:30 — physical VISA ending 3275 + 4-digit ID; train 11:05. Pack tonight/Sun evening; check KUMU luggage forwarding/early bag options
 
+## 🆕 Added 2026-11-21 (Kyoto itinerary)
+- [ ] **MAIKOYA Kimono Tea Ceremony, Fri Nov 27 11:00** — add price, address, people count, kimono return time and the booking channel (no confirmation email found in Gmail); check whether you can walk around in the kimono → [[07-Kyoto/Itinerary]]
+- [ ] **Kyoto forecast:** rain possible Tue Nov 24 and Sat Nov 28 — recheck each evening; Sat has a rain plan in the itinerary
+- [ ] **Kyoto illumination dates/hours** (To-ji, Kodai-ji, Kiyomizu-dera, Eikando) and last entry for Adashino Nenbutsu-ji — verify before Nov 25-27
+- [ ] **Kinkaku-ji** is not scheduled — decide whether to give it its own half day
+
 ## 🆕 Added 2026-11-22 (daily brief)
 - [ ] **Myoryuji 09:30 today — if not yet booked, call 076-241-0888 at 08:30 sharp** (visitkanazawa: reservations by phone required, 08:30-17:00, tour in Japanese ~40 min, ¥1,200 cash only; closed on Buddhist memorial service days; tours 09:00-16:00). Fallback if full: Nomura-ke first (opens 08:30)
 - [ ] **Sake tasting 15:00 today — Fukumitsuya (2-8-3 Ishibiki):** 45 min, ¥3,300, runs 15:00 on Sundays (Nov-Mar), book at reserva.be/fukumitsuya or call 076-223-1117; same-day cancellation 100% charged (source: fukumitsuya.co.jp/global/guidedtour). Replaces the unspecified "15:45 sake tasting" in the plan
@@ -247,5 +253,6 @@ tags: [japan, todo, check]
 - [ ] **Kyoto is busy today (Labor Thanksgiving holiday + peak foliage):** Kyoto Station → Good Nature Hotel route/fare not verified (Karasuma Line to Shijo or taxi/bus) — check Maps on arrival; expect queues
 - [ ] **Tue Nov 24 Kyoto forecast (meteoblue, 1 source): 11/6°C, overcast with rain ~10-20 mm, 0 h sun** — teamLab is indoor/covered but bring umbrella; leave hotel ~08:15; QR screenshot offline
 - [ ] **Kyoto night illuminations mostly running both nights** (livejapan 2026): Kiyomizu-dera ¥500, Eikando ¥1,000, Kodai-ji ¥800, To-ji ¥1,000 — confirm on temple sites before choosing Wed-Fri; Kifune Shrine ends Nov 24
-- [ ] **Kyoto Wed Nov 25-Fri Nov 28 Daily-Plan rows still empty** — decide days (Fushimi Inari / Arashiyama / Tofuku-ji early; night openings), kaiseki booking
+- [x] ~~Kyoto Wed Nov 25-Fri Nov 28 Daily-Plan rows~~ — filled Nov 21 from the pasted Kyoto plan → [[07-Kyoto/Itinerary]]; kaiseki/dinner bookings still open
 - [ ] **Today weather Kyoto (meteoblue, 1 source): 13/3°C, 0% rain, 8 h sun** — cold evening
+- [ ] **Dec 1 Miyajima → Hiroshima timing:** at the Miyajima Grand Hotel Arimoto check-in (Nov 30), ask how long the walk or shuttle to the ferry pier takes and the first ferry time; plan to leave the hotel ~10:00 (estimate: ferry ~10:30, Hiroshima ~11:20-11:30, 12:33 Sakura 750) → [[Legs/06-Itsukushima-to-Osaka]]

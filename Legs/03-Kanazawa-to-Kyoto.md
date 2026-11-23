@@ -29,6 +29,6 @@ Back-links: [[Transport]] · [[Japan Trip]]
 - Train 1: 11:05 Kanazawa → 12:02 Tsuruga, Hakutaka 553, car 10, seats 16-D + 16-E
 - Train 2: 12:14 Tsuruga → 13:09 Kyoto, Thunder-Bird 20, car 11, seats 14-C + 14-D
 - Basic fare ticket (Kanazawa → Kyoto city zone) valid Nov 23 – Nov 25
-- [ ] **Receive the paper tickets before boarding** — JR West ticket machine or ticket office; needs the **physical** credit card used (VISA ending 3275, no virtual cards) + the 4-digit ID number. ID hint: Steven Gerrard double and Torres double. Boarding without tickets = buying again at full price. Confirm Kanazawa Station is on the pickup list: westjr.co.jp/global/en/howto/train-reservation/receive/
+- [x] **Receive the paper tickets before boarding** — done Sat 2026-11-21 at Kanazawa Station (earlier note kept below) — JR West ticket machine or ticket office; needs the **physical** credit card used (VISA ending 3275, no virtual cards) + the 4-digit ID number. ID hint: Steven Gerrard double and Torres double. Boarding without tickets = buying again at full price. Confirm Kanazawa Station is on the pickup list: westjr.co.jp/global/en/howto/train-reservation/receive/
 - Changes to a ticket are accepted only once
 - ⚠️ Departure is 11:05, earlier than the ~12:00 in the old plan → be at Kanazawa Station ~10:30
