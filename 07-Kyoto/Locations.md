@@ -21,6 +21,10 @@ tags: [japan, kyoto, locations]
 - [ ] Gion + Hanamikoji at dusk; Nanzenji aqueduct
 - [ ] Day trip option: Nara (deer, Todai-ji) ~45 min
 - [ ] Kitano Tenmangu Odoi maple garden — to Dec 6, ¥1,500, lit from sunset (livejapan summary, unverified)
+- [ ] Gioji moss garden (Sagano, ~15 min walk from the bamboo grove) — japan-guide: 9:00-16:50 (entry to 16:30), ¥500, closed Jan 1; trvlogue says ¥300 cash — confirm giouji.or.jp; good swap for Otagi on a Wednesday
+- [ ] Okochi Sanso Villa (Arashiyama) — japan-guide: 9:00-17:00, no closing days, ¥1,000 incl. matcha + sweet
+- [ ] Adashino Nenbutsu-ji — japan-guide: 9:00-17:00 (to 16:00 Dec-Feb), entry ends 30 min before close, no closing days, ¥500
+- [ ] Nison-in / Jojakko-ji (Ogura-yama, Sagano) — quieter foliage temples near Saga-Toriimoto; hours/fees listed on japan-guide e3912, not read
 - [ ] To-ji night viewing — Kintetsu Toji, 10 min walk; easy from Kyoto Station (unverified hours)
 
 ## My Picks

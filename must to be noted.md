@@ -276,3 +276,12 @@ tags: [japan, todo, check]
 - [ ] **Tenryu-ji** hours 08:30-17:00 (last entry 16:50, tenryuji.com/en/visit); entry fees and Otagi Nenbutsu-ji hours/closed days not verified — check otagiji.com/visit-en before the taxi leg
 - [ ] **Adashino Nenbutsu-ji last entry** still unverified — optional stop, skip if running late
 - [ ] **Wed Nov 25 Fujii Daimaru** — closed Wed too; not on tomorrow's plan, but Itinerary.md still lists it
+
+## 🆕 Added 2026-11-25 (daily brief)
+- [ ] **TODAY Otagi Nenbutsu-ji is CLOSED on Wednesdays** (japan-guide: closed Wed + Sat; trvlogue: closed Wed; fee conflict ¥300 vs ¥1,000, cash) — today's 14:00 stop won't work. Swap for Gioji / Adashino Nenbutsu-ji / Nison-in, or do Otagi on Thu/Fri (not Sat). Confirm on otagiji.com/visit-en
+- [ ] **Today forecast Kyoto (3 sources, differ):** tenki.jp 11/4°C, rain 40% Arashiyama (50% city, "rain then clear"); meteoblue 11/4°C, 4 h sun, W wind; Met Office 11/3°C sunny intervals. Cold + possible early showers: umbrella, layers. Thu Nov 26: 14/3-6°C, 20% rain
+- [ ] **Arashiyama foliage = peak (tenki.jp as of Nov 24)** and today is peak-season crowded: go to the bamboo grove first (~08:30)
+- [ ] **Tenryu-ji 8:30-17:00 (last entry 16:50), garden ¥500, +¥300 buildings, Dharma Hall ¥500 only on weekends/holidays** — verified on tenryuji.com; Okochi Sanso 9:00-17:00 ¥1,000
+- [ ] **Hakone ryokan (nol hakone myojindai) free cancel ends Nov 27 — in 2 days:** confirm you're keeping it; also Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar are still unbooked
+- [ ] **Sun Nov 29 paper tickets (Nozomi 9 res. 48196) — collect at Kyoto Station before Sun**; and forward large bags to Hiroshima/Mercure Tokyu Stay by Fri Nov 27/Sat Nov 28 if you want to travel light (ask the front desk, unverified)
+
