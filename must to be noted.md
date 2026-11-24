@@ -270,3 +270,9 @@ tags: [japan, todo, check]
 - [ ] **Kifune Shrine lights end today** (far north, not on route) · **Hounen-in** autumn special opening last day Nov 24
 - [ ] **Kyoto Nov 25 forecast:** meteoblue dry, 10/4°C, ~5 h sun — good Arashiyama day
 
+
+## 🆕 Added 2026-11-24 (evening prep)
+- [ ] **Wed Nov 25 Arashiyama:** searches returned only links, so hours, closed days and the forecast are unverified. Earlier note: meteoblue dry, 10/4°C, ~5 h sun. Check yahoo/weathernews at 07:00
+- [ ] **Tenryu-ji** hours 08:30-17:00 (last entry 16:50, tenryuji.com/en/visit); entry fees and Otagi Nenbutsu-ji hours/closed days not verified — check otagiji.com/visit-en before the taxi leg
+- [ ] **Adashino Nenbutsu-ji last entry** still unverified — optional stop, skip if running late
+- [ ] **Wed Nov 25 Fujii Daimaru** — closed Wed too; not on tomorrow's plan, but Itinerary.md still lists it
