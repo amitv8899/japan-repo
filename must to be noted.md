@@ -285,3 +285,10 @@ tags: [japan, todo, check]
 - [ ] **Hakone ryokan (nol hakone myojindai) free cancel ends Nov 27 — in 2 days:** confirm you're keeping it; also Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar are still unbooked
 - [ ] **Sun Nov 29 paper tickets (Nozomi 9 res. 48196) — collect at Kyoto Station before Sun**; and forward large bags to Hiroshima/Mercure Tokyu Stay by Fri Nov 27/Sat Nov 28 if you want to travel light (ask the front desk, unverified)
 
+
+## 🌙 Added 2026-11-25 (evening prep for Thu Nov 26)
+- [ ] **Thu Nov 26 Kyoto forecast (meteoblue, 1 source):** partly cloudy, 13/3°C, no precipitation listed, fog overnight — cold at 08:00 Fushimi Inari; layers
+- [ ] **Tofuku-ji (todolist-japan, Oct 15):** Nov 14-Dec 6 Tsutenkyo/Kaisando ¥1,000 (opens 8:30) + Hojo garden ¥600 (opens 9:00), no combined ticket, reception ends 16:00, no re-entry; foliage status for 2026 unverified — check ja.kyoto.travel/flower/momiji
+- [ ] **Sanjusangendo Nov 16-30: 9:00-16:00, last entry ~15:30, ¥600** (japan-guide, 2025 page) — 13:30 plan fits; confirm on sanjusangendo.jp
+- [ ] **To-ji illumination 2026: Oct 31-Dec 13, 18:00-21:30 (last entry 21:00), ¥1,000** (LIVE JAPAN, Sep 14); daytime/night may be separate tickets — check toji.or.jp/exhibition/2026_autumn
+- [ ] **Sat Nov 28 / Fri Nov 27 reminder:** Hakone ryokan free cancel ends Fri Nov 27; Sun Nov 29 Kyoto Station ticket pickup still open above
