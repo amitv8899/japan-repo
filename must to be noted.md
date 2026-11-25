@@ -292,3 +292,12 @@ tags: [japan, todo, check]
 - [ ] **Sanjusangendo Nov 16-30: 9:00-16:00, last entry ~15:30, ¥600** (japan-guide, 2025 page) — 13:30 plan fits; confirm on sanjusangendo.jp
 - [ ] **To-ji illumination 2026: Oct 31-Dec 13, 18:00-21:30 (last entry 21:00), ¥1,000** (LIVE JAPAN, Sep 14); daytime/night may be separate tickets — check toji.or.jp/exhibition/2026_autumn
 - [ ] **Sat Nov 28 / Fri Nov 27 reminder:** Hakone ryokan free cancel ends Fri Nov 27; Sun Nov 29 Kyoto Station ticket pickup still open above
+
+## 🆕 Added 2026-11-26 (daily brief)
+- [ ] **TOMORROW Fri Nov 27: Hakone ryokan (nol hakone myojindai) free cancellation ends** — decide today/tonight whether to keep it; Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar still unbooked
+- [ ] **Fri Nov 27 11:00 MAIKOYA tea ceremony** — no confirmation found; check the booking email tonight for address, people, price, kimono return time
+- [ ] **Luggage forwarding to Hiroshima (Mercure Tokyu Stay)** — ask the Good Nature front desk today or tomorrow (cutoff and price unverified); Sun Nov 29 08:55 Kyoto Stn tickets (res. 48196) still to collect
+- [ ] **Today Thu Nov 26 Kyoto forecast:** Met Office sunny 14/6°C, rain <5%; earlier meteoblue note 13/3°C. Tofuku-ji 2026 foliage status unverified (no live source). Tofuku-ji: Tsutenkyo/Kaisando ¥1,000 (8:30-16:30, reception ends 16:00) + Hojo garden ¥600 (opens 9:00), no combined ticket (kyoto.travel, todolist-japan)
+- [ ] **Fushimi Inari access sources conflict:** kyoto.travel says rapid trains also stop at JR Inari; kyotostation.com says only Local trains do — check Maps/Jorudan at the platform. Keihan: Gion-shijo → Fushimi-Inari ~22 min direct (limited express does not stop)
+- [ ] **Wonder Night Jingu (Heian Jingu) ends Nov 29** — last chance Fri/Sat if wanted; cancelled in rain; ¥2,500 weekday / ¥3,000 Fri-Sun
+

@@ -30,6 +30,9 @@ tags: [japan, kyoto, events]
 - [ ] NAKED meets Nijo Castle — to Dec 5, 18:00-22:00, ¥2,400 holidays (Nijojo-mae, Tozai line; unverified)
 - [ ] WONDER NIGHT JINGU, Heian Jingu — Nov 2-29, 17:30-21:30 (last entry 21:00), adult ¥2,500 weekday / ¥3,000 Fri-Sun; cancelled in rain; Tozai line Higashiyama 10 min walk (ja.kyoto.travel)
 - [ ] Eiden autumn light-up train from Demachiyanagi — Nov 13-30, 21:00, ¥5,500-7,500, Seven Ticket (extension decided Nov 24; seats unverified)
+- [ ] Umekoji Park Autumn Leaves Festival lights (Kyoto Station area) — Nov 13-29, closed Nov 16 and 24; hours/price unverified (ja.kyoto.travel night list); easy add-on near To-ji/Kyoto Station
+- [ ] Tofuku-ji Tentoku-in special opening — Nov 14-Dec 6 (ja.kyoto.travel); night hours/price unverified
+- [ ] Myokaku-ji Hohshien night illumination, Nijo/Nishijin — Nov 21-Dec 6 (ja.kyoto.travel); hours/price unverified
 
 ## My Picks
 > [!note] Fill in your own choices here
