@@ -301,3 +301,9 @@ tags: [japan, todo, check]
 - [ ] **Fushimi Inari access sources conflict:** kyoto.travel says rapid trains also stop at JR Inari; kyotostation.com says only Local trains do — check Maps/Jorudan at the platform. Keihan: Gion-shijo → Fushimi-Inari ~22 min direct (limited express does not stop)
 - [ ] **Wonder Night Jingu (Heian Jingu) ends Nov 29** — last chance Fri/Sat if wanted; cancelled in rain; ¥2,500 weekday / ¥3,000 Fri-Sun
 
+
+## 🌙 Added 2026-11-26 (evening prep for Fri Nov 27)
+- [ ] **Fri Nov 27 Kyoto forecast unverified** (searches returned only links; last known: Thu 14/6°C dry) — check tenki.jp/weathernews at 07:00; 11:00 MAIKOYA is indoors
+- [ ] **MAIKOYA 11:00 — still no confirmation email in Gmail** (searched "maikoya / mai-ko / tea ceremony", 60 days: nothing). Find the booking in the booking site/app tonight: address, kimono return time, price, and whether it was paid. Operator site: mai-ko.com
+- [ ] **Hakone ryokan free cancel ends TODAY/Fri Nov 27** — keep-or-cancel decision still open (see above)
+- [ ] Kiyomizu-dera daytime hours/last entry and the Nov night-opening (¥500) plus Kodai-ji (¥800) are from secondary sources only — confirm on kiyomizudera.or.jp before the 15:15 slot
