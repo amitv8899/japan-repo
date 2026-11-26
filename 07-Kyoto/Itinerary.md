@@ -85,6 +85,8 @@ A full day. For a calmer one, skip Okochi Sanso or Adashino. Transfer times are 
 | 18:00-19:00 | Gion / Hanamikoji Street |
 | 19:00 | Dinner |
 
+MAIKOYA (mai-ko.com, 2026-11-27): 100 Rokurocho, Matsubara-dori Yamatooji Higashi iru, Higashiyama-ku; ~90 min incl. dressing (booked time = start of dressing, ceremony ~30 min later); **kimono must be returned by 18:00**; walking outside in kimono is allowed. So Kodai-ji ~16:45, return kimono ~17:45, Gion/Hanamikoji after in own clothes.
+
 Also nearby: Yasaka Shrine, Maruyama Park, Kennin-ji. Check whether you can walk around in the kimono and when to return it. To get more time for photos and streets, skip Kodai-ji or move Gion to another evening.
 
 ## Sat Nov 28 — Autumn temples, Philosopher's Path (north-east Kyoto)

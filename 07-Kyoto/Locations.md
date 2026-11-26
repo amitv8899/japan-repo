@@ -26,6 +26,8 @@ tags: [japan, kyoto, locations]
 - [ ] Adashino Nenbutsu-ji — japan-guide: 9:00-17:00 (to 16:00 Dec-Feb), entry ends 30 min before close, no closing days, ¥500
 - [ ] Nison-in / Jojakko-ji (Ogura-yama, Sagano) — quieter foliage temples near Saga-Toriimoto; hours/fees listed on japan-guide e3912, not read
 - [ ] To-ji night viewing — Kintetsu Toji, 10 min walk; easy from Kyoto Station (unverified hours)
+- [ ] Entoku-in (next to Kodai-ji) — to Dec 13, ¥500, combined ¥1,200 with Kodai-ji + Sho Museum; lit from sunset (LIVE JAPAN)
+- [ ] Ishibe-koji lane (Gion, behind Kodai-ji) — quiet stone alley, free; good after the illumination
 
 ## My Picks
 > [!note] Fill in your own choices here

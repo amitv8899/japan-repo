@@ -307,3 +307,9 @@ tags: [japan, todo, check]
 - [ ] **MAIKOYA 11:00 — still no confirmation email in Gmail** (searched "maikoya / mai-ko / tea ceremony", 60 days: nothing). Find the booking in the booking site/app tonight: address, kimono return time, price, and whether it was paid. Operator site: mai-ko.com
 - [ ] **Hakone ryokan free cancel ends TODAY/Fri Nov 27** — keep-or-cancel decision still open (see above)
 - [ ] Kiyomizu-dera daytime hours/last entry and the Nov night-opening (¥500) plus Kodai-ji (¥800) are from secondary sources only — confirm on kiyomizudera.or.jp before the 15:15 slot
+
+## 🆕 Added 2026-11-27 (daily brief)
+- [ ] **TODAY Fri Nov 27 — Hakone ryokan (nol hakone myojindai) free cancellation ends** — keep-or-cancel decision; exact cut-off time not in vault (check booking email). Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar still unbooked
+- [ ] **TODAY: MAIKOYA kimono must be back by 18:00** (mai-ko.com) — Kodai-ji 17:00 + Gion 18:00 in the plan clash; suggested: Kodai-ji ~16:45, return kimono ~17:45, Hanamikoji after in own clothes. Address: 100 Rokurocho, Matsubara-dori Yamatooji Higashi iru, Higashiyama-ku; ~90 min incl. dressing; booked time = start of dressing; price still unknown
+- [ ] **Kyoto forecast Fri Nov 27 (Met Office, 1 source): sunny, light showers by early evening, 19/13°C; Sat 19/8°C cloudy→sunny** — conflicts with earlier 14/6°C note; check live
+- [ ] **Luggage forwarding to Hiroshima** — ask Good Nature front desk today (Sun Nov 29 move); cutoff/price unverified

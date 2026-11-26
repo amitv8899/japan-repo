@@ -33,6 +33,7 @@ tags: [japan, kyoto, events]
 - [ ] Umekoji Park Autumn Leaves Festival lights (Kyoto Station area) — Nov 13-29, closed Nov 16 and 24; hours/price unverified (ja.kyoto.travel night list); easy add-on near To-ji/Kyoto Station
 - [ ] Tofuku-ji Tentoku-in special opening — Nov 14-Dec 6 (ja.kyoto.travel); night hours/price unverified
 - [ ] Myokaku-ji Hohshien night illumination, Nijo/Nishijin — Nov 21-Dec 6 (ja.kyoto.travel); hours/price unverified
+- [ ] Kodai-ji illumination 2026 — Oct 23-Dec 13, from sunset, last ticket 21:30, adult ¥800 (LIVE JAPAN, fetched Nov 27)
 
 ## My Picks
 > [!note] Fill in your own choices here
