@@ -313,3 +313,10 @@ tags: [japan, todo, check]
 - [ ] **TODAY: MAIKOYA kimono must be back by 18:00** (mai-ko.com) — Kodai-ji 17:00 + Gion 18:00 in the plan clash; suggested: Kodai-ji ~16:45, return kimono ~17:45, Hanamikoji after in own clothes. Address: 100 Rokurocho, Matsubara-dori Yamatooji Higashi iru, Higashiyama-ku; ~90 min incl. dressing; booked time = start of dressing; price still unknown
 - [ ] **Kyoto forecast Fri Nov 27 (Met Office, 1 source): sunny, light showers by early evening, 19/13°C; Sat 19/8°C cloudy→sunny** — conflicts with earlier 14/6°C note; check live
 - [ ] **Luggage forwarding to Hiroshima** — ask Good Nature front desk today (Sun Nov 29 move); cutoff/price unverified
+
+## 🌙 Added 2026-11-27 (evening prep for Sat Nov 28)
+- [ ] **Sat Nov 28 Eikando (eikando.or.jp, Autumn Exhibition 11 Nov–6 Dec):** day visit reception 09:00–16:00, gates close 17:00, **¥1,500 adult**; no advance tickets. Night visit (Amida-do + garden) reception 17:30–20:30, ¥1,000 — a separate ticket if you want both. Garyu-ro corridor and Senbutsu-do are closed until Dec 6. Nanzen-ji and Ginkaku-ji hours/fees not verified tonight
+- [ ] **Collect the Nozomi 9 paper tickets (res. 48196) at Kyoto Station on Sat Nov 28 evening** rather than Sun 08:55 — JR West says machines run 04:30–23:20 and the ticket office 04:30–23:30, but the Kyoto Station support page says the Midori no Madoguchi is 08:00–20:00, so check on the day. Needs the physical Mastercard ending 8918 + 4-digit ID. Must be received before boarding or it is re-bought at full fare
+- [ ] **Sat Nov 28 Kyoto forecast (Met Office, 1 source):** cloudy → sunny intervals from late morning, 19/8°C, rain % not found; sunset 16:46. **Sun Nov 29 drops to 11/3°C** (sunny intervals) — wear the warm layer for the Hiroshima move
+- [ ] **Luggage forwarding to Hiroshima (Mercure Tokyu Stay) still unconfirmed** — ask the Good Nature front desk tonight/early Sat (cutoff and price unknown); otherwise carry bags on the Nozomi
+- [ ] **Wonder Night Jingu (Heian Jingu) ends Sun Nov 29** — last chance is Sat evening; cancelled in rain
