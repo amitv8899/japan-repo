@@ -22,6 +22,8 @@ tags: [japan, kyoto, locations]
 - [ ] Day trip option: Nara (deer, Todai-ji) ~45 min
 - [ ] Kitano Tenmangu Odoi maple garden — to Dec 6, ¥1,500, lit from sunset (livejapan summary, unverified)
 - [ ] Gioji moss garden (Sagano, ~15 min walk from the bamboo grove) — japan-guide: 9:00-16:50 (entry to 16:30), ¥500, closed Jan 1; trvlogue says ¥300 cash — confirm giouji.or.jp; good swap for Otagi on a Wednesday
+- [ ] Byodoin (Uji; Phoenix Hall) — garden 08:45-17:30 (last 17:15), Hoshokan 09:00-17:00; ¥700 garden + museum, Phoenix Hall interior +¥300 (timed, 09:30-16:10 every 20 min, max 35); ~10 min walk from Keihan Uji (byodoin.or.jp); planned Sat Nov 28 morning
+- [ ] Nakamura Tokichi Byodoin Store (Uji) — tea counter + cafe 10:00-17:00, cafe last order 16:30, no closed day, no reservations (tokichi.jp); Itohkyuemon (Uji main store, matcha parfait) 5 min walk, hours unverified
 - [ ] Okochi Sanso Villa (Arashiyama) — japan-guide: 9:00-17:00, no closing days, ¥1,000 incl. matcha + sweet
 - [ ] Adashino Nenbutsu-ji — japan-guide: 9:00-17:00 (to 16:00 Dec-Feb), entry ends 30 min before close, no closing days, ¥500
 - [ ] Nison-in / Jojakko-ji (Ogura-yama, Sagano) — quieter foliage temples near Saga-Toriimoto; hours/fees listed on japan-guide e3912, not read

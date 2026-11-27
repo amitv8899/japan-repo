@@ -320,3 +320,9 @@ tags: [japan, todo, check]
 - [ ] **Sat Nov 28 Kyoto forecast (Met Office, 1 source):** cloudy → sunny intervals from late morning, 19/8°C, rain % not found; sunset 16:46. **Sun Nov 29 drops to 11/3°C** (sunny intervals) — wear the warm layer for the Hiroshima move
 - [ ] **Luggage forwarding to Hiroshima (Mercure Tokyu Stay) still unconfirmed** — ask the Good Nature front desk tonight/early Sat (cutoff and price unknown); otherwise carry bags on the Nozomi
 - [ ] **Wonder Night Jingu (Heian Jingu) ends Sun Nov 29** — last chance is Sat evening; cancelled in rain
+
+## 🌙 Added 2026-11-27 (late) — Sat Nov 28 now starts with Uji
+- [ ] **Sat Nov 28 plan changed: Uji (Byodoin + matcha) 08:00-13:30, then Nanzen-ji/Eikando/Philosopher's Path** → [[07-Kyoto/Itinerary]]. Keihan route (Gion-Shijo → Chushojima → Uji Line → Keihan Uji) is from the other-AI chat; travel time and fare NOT verified — check Google Maps/Jorudan at the station
+- [ ] **Byodoin Phoenix Hall interior tickets (¥300, max 35 per slot since Oct 16, autumn crowds):** the official pages do not say whether tickets are sold same day — be at the garden reception when it opens (~09:10) and buy the interior ticket first; late arrival = no change or refund. Special autumn visit period Nov 13-Dec 6; the Hoshokan Artifact Section is closed, video exhibits are suspended on Nov 28; goshuin Phoenix Hall type only
+- [ ] **Uji matcha shops:** Nakamura Tokichi cafe 10:00-17:00 (last order 16:30), no reservations — expect a queue on a Saturday; Itohkyuemon and Ujigami Shrine hours not found
+- [ ] **Afternoon is tight:** Ginkaku-ji hours unverified (sunset 16:46); Eikando reception ends 16:00 — leave the hotel by 14:00, or drop Ginkaku-ji
