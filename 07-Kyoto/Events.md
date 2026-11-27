@@ -34,6 +34,9 @@ tags: [japan, kyoto, events]
 - [ ] Tofuku-ji Tentoku-in special opening — Nov 14-Dec 6 (ja.kyoto.travel); night hours/price unverified
 - [ ] Myokaku-ji Hohshien night illumination, Nijo/Nishijin — Nov 21-Dec 6 (ja.kyoto.travel); hours/price unverified
 - [ ] Kodai-ji illumination 2026 — Oct 23-Dec 13, from sunset, last ticket 21:30, adult ¥800 (LIVE JAPAN, fetched Nov 27)
+- [ ] Tamazo-in autumn special viewing (Nijo/Nishijin) — Nov 27-29 (ja.kyoto.travel night list; hours/price unverified)
+- [ ] Omuro former residence autumn special viewing (Kinkaku-ji/Omuro area) — Nov 27-29 (ja.kyoto.travel; hours/price unverified)
+- [ ] Jojuin garden special viewing (Kiyomizu-dera area) — Nov 21-30 (ja.kyoto.travel; hours/price unverified)
 
 ## My Picks
 > [!note] Fill in your own choices here

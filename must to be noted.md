@@ -326,3 +326,12 @@ tags: [japan, todo, check]
 - [ ] **Byodoin Phoenix Hall interior tickets (¥300, max 35 per slot since Oct 16, autumn crowds):** the official pages do not say whether tickets are sold same day — be at the garden reception when it opens (~09:10) and buy the interior ticket first; late arrival = no change or refund. Special autumn visit period Nov 13-Dec 6; the Hoshokan Artifact Section is closed, video exhibits are suspended on Nov 28; goshuin Phoenix Hall type only
 - [ ] **Uji matcha shops:** Nakamura Tokichi cafe 10:00-17:00 (last order 16:30), no reservations — expect a queue on a Saturday; Itohkyuemon and Ujigami Shrine hours not found
 - [ ] **Afternoon is tight:** Ginkaku-ji hours unverified (sunset 16:46); Eikando reception ends 16:00 — leave the hotel by 14:00, or drop Ginkaku-ji
+
+## 🌅 Added 2026-11-28 (daily brief)
+- [ ] **Sat Nov 28 forecast CONFLICT:** Met Office (snapshot labelled Nov 26) says cloudy → sunny intervals 19/8°C; meteoblue says showers, 17/9°C, rain chance 100% for 09:00-13:00 (≈5-10 mm) and 50% at 15:00. Uji morning is the wet part: umbrella + rain jacket; re-check yahoo/tenki.jp at 07:00 before leaving. Wonder Night Jingu is cancelled in rain
+- [ ] **Hiroshima tomorrow (Sun Nov 29): collect the Dec 1 Sakura 750 tickets (res. for 12:33) at Hiroshima Station on arrival ~11:02** — physical Mastercard ending 8918 + 4-digit ID; saves rushing on Dec 1 (see Legs/06)
+- [ ] **Luggage forwarding Kyoto → Hiroshima is probably too late for Sun Nov 29 arrival** (next-day delivery not confirmed, unverified). Safer: carry one bag on the Nozomi, or ask the front desk tonight to forward the big bag straight to Miyajima Grand Hotel Arimoto for Mon Nov 30
+- [ ] **Hakone ryokan free-cancel deadline (Nov 27) has passed** — if you wanted to cancel/change, check the booking terms now; otherwise tick the older Hakone lines
+- [ ] **Verified today (japan-guide / gltjp):** Ginkaku-ji 08:30-17:00 (Mar-Nov), ¥1,000, no closing days — with sunset 16:46 and Eikando reception ending 16:00, Ginkaku-ji is realistic only if you leave Eikando by ~16:15 (else skip); Nanzen-ji 08:40-17:00, last admission 20 min before close, Hojo ¥600, Sanmon ¥600 (gltjp, Apr 2026); Byodoin garden 08:45-17:30, Phoenix Hall tours 09:30-16:10 ¥300, no closing days
+- [ ] **Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar still unbooked; Dec 3 Dojima Yakiniku has no time/reservation** — all fall within 10 days
+
