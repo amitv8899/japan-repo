@@ -89,18 +89,22 @@ MAIKOYA (mai-ko.com, 2026-11-27): 100 Rokurocho, Matsubara-dori Yamatooji Higash
 
 Also nearby: Yasaka Shrine, Maruyama Park, Kennin-ji. Check whether you can walk around in the kimono and when to return it. To get more time for photos and streets, skip Kodai-ji or move Gion to another evening.
 
-## Sat Nov 28 — Autumn temples, Philosopher's Path (north-east Kyoto)
+## Sat Nov 28 — Uji morning (Byodoin + matcha), then Higashiyama temples (Eikando, Philosopher's Path)
+Changed 2026-11-27: Uji added as the morning (plan from Amit's other-AI chat: leave ~08:00, back at the hotel ~13:00-13:30). The north-east temples move to the afternoon.
 Dry-weather plan:
 | Time | Plan |
 |---|---|
-| 08:30 | Leave the hotel |
-| 09:00-10:15 | Nanzen-ji and the aqueduct |
-| 10:30-12:00 | Eikando Zenrin-ji |
-| 12:00-13:00 | Lunch |
-| 13:00-14:00 | Philosopher's Path |
-| 14:00-14:30 | Honen-in (optional) |
-| 14:45-16:00 | Ginkaku-ji |
-| 16:00 | Back to the centre; last shopping and dinner |
+| 08:00 | Leave Good Nature, walk to Gion-Shijo Station (Keihan; ~8-10 min per the other-AI plan, unverified) |
+| ~08:15 | Keihan Main Line toward Chushojima / Yodoyabashi (not Osaka-bound all the way), change at **Chushojima** to the **Uji Line** → Keihan Uji (time/fare not verified, expect ~35-45 min) |
+| ~09:00 | Keihan Uji → walk ~10 min to **Byodoin** (Keihan page). Garden opens 08:45, reception 09:10 |
+| 09:10-10:30 | Byodoin garden + Hoshokan Museum (¥700 pp) and **Phoenix Hall interior ¥300 pp** (timed slots 09:30-16:10 every 20 min, max 35 people, Japanese-only tour). Buy the interior ticket first at the garden reception |
+| 10:30-11:30 | Matcha: Nakamura Tokichi Byodoin Store (5 min walk; cafe 10:00-17:00, last order 16:30, no reservations, queue likely) or Itohkyuemon (5 min walk, hours unverified); optional Ujigami Shrine (~10 min walk from station) |
+| ~11:45 | Back to Keihan Uji → Chushojima → Gion-Shijo |
+| 13:00-13:30 | Back at the hotel: rest, ask front desk about luggage forwarding to Hiroshima |
+| 14:00-14:45 | Nanzen-ji + aqueduct (Hojo/Sanmon fees unverified) |
+| 14:50-16:00 | Eikando (day visit reception to 16:00, gates close 17:00, ¥1,500 pp) |
+| 16:00-16:30 | Philosopher's Path north; Ginkaku-ji only if open (hours unverified; sunset 16:46); skip if late |
+| ~17:30 | Kyoto Station: collect the Nozomi 9 tickets (res. 48196) before the ticket office closes (08:00-20:00 on the station page; machines later), dinner, pack |
 
 Heavy-rain alternative: Nishiki Market (if skipped), Kyoto BAL, Teramachi, vintage and fashion shops, ceramics and tea-ware shops, cafes and matcha, Kyoto International Manga Museum.
 
