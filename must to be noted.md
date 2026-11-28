@@ -335,3 +335,9 @@ tags: [japan, todo, check]
 - [ ] **Verified today (japan-guide / gltjp):** Ginkaku-ji 08:30-17:00 (Mar-Nov), ¥1,000, no closing days — with sunset 16:46 and Eikando reception ending 16:00, Ginkaku-ji is realistic only if you leave Eikando by ~16:15 (else skip); Nanzen-ji 08:40-17:00, last admission 20 min before close, Hojo ¥600, Sanmon ¥600 (gltjp, Apr 2026); Byodoin garden 08:45-17:30, Phoenix Hall tours 09:30-16:10 ¥300, no closing days
 - [ ] **Dec 5 Shin-Osaka → Odawara and Dec 8 Romancecar still unbooked; Dec 3 Dojima Yakiniku has no time/reservation** — all fall within 10 days
 
+
+## 🌙 Added 2026-11-28 (evening prep for Sun Nov 29)
+- [ ] **Sun Nov 29 Hiroshima forecast unverified** (searches returned only links; last known Kyoto 11/3°C sunny intervals) — check tenki.jp/Yahoo at 07:00; Hiroshima is usually a few degrees warmer, dress in layers
+- [ ] **Confirm the Nozomi 9 tickets (res. 48196) were collected Sat evening** — if not, collect Sun by ~08:40 at Kyoto Stn (machines from ~04:30; physical Mastercard ending 8918 + 4-digit ID); leave Good Nature ~08:15
+- [ ] **Hiroshima Peace Memorial Museum hours/closing day and Mercure Tokyu Stay check-in time still unverified** (search returned only links) — check hpmmuseum.jp; bags can be dropped at the hotel from ~11:30 if the room isn't ready
+- [ ] **Also on arrival at Hiroshima Stn (~11:02): collect the Dec 1 Sakura 750 tickets (res. 42442)** — same card + ID
