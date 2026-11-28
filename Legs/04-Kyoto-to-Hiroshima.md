@@ -27,5 +27,5 @@ Back-links: [[Transport]] · [[Japan Trip]]
 ## Notes
 - [x] Reserve seat — done Wed 2026-11-11 22:38 via JR-West Online Train Reservation (Amit; paid with Mastercard ending 8918). Reservation no. 48196
 - Nozomi 9 (for Hakata): car 4, seats 14-D + 14-E, non-smoking. Basic fare ticket valid Nov 29 – Dec 1
-- [ ] **Receive the paper tickets at Kyoto Station before boarding** — JR West ticket machine or ticket office; needs the **physical** Mastercard ending 8918 + the 4-digit ID number. ID hint: Steven Gerrard double and Torres double. Be at the station ~08:55 (leave Good Nature ~08:30; taxi ~10 min)
+- [ ] **Receive the paper tickets at Kyoto Station before boarding** — JR West ticket machine or ticket office; needs the **physical** Mastercard ending 8918 + the 4-digit ID number. ID hint: Steven Gerrard double and Torres double. Plan: leave Good Nature 07:30 by taxi, be at Kyoto Station ~08:00 (about 85 min before the 09:25; 08:30 is the latest comfortable arrival). Read the printed tickets before changing anything
 - Changes to a ticket are accepted only once
